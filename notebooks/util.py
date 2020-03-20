@@ -2,12 +2,7 @@ import os
 import pandas as pd
 import re
 import json
-
-stoplist = [
-    "the", "to", "with", "they", "we", "who",
-    "job r", "r", "responsibilities", "job responsibilities", "Job description",
-    "a", "able", "about", "above", "abst", "accordance", "according", "accordingly", "across", "act", "actually", "added", "adj", "affected", "affecting", "affects", "after", "afterwards", "again", "against", "ah", "all", "almost", "alone", "along", "already", "also", "although", "always", "am", "among", "amongst", "an", "and", "announce", "another", "any", "anybody", "anyhow", "anymore", "anyone", "anything", "anyway", "anyways", "anywhere", "apparently", "approximately", "are", "aren", "arent", "arise", "around", "as", "aside", "ask", "asking", "at", "auth", "available", "away", "awfully", "b", "back", "be", "became", "because", "become", "becomes", "becoming", "been", "before", "beforehand", "begin", "beginning", "beginnings", "begins", "behind", "being", "believe", "below", "beside", "besides", "between", "beyond", "biol", "both", "brief", "briefly", "but", "by", "c", "ca", "came", "can", "cannot", "can't", "cause", "causes", "certain", "certainly", "co", "com", "come", "comes", "contain", "containing", "contains", "could", "couldnt", "d", "date", "did", "didn't", "different", "do", "does", "doesn't", "doing", "done", "don't", "down", "downwards", "due", "during", "e", "each", "ed", "edu", "effect", "eg", "eight", "eighty", "either", "else", "elsewhere", "end", "ending", "enough", "especially", "et", "et-al", "etc", "even", "ever", "every", "everybody", "everyone", "everything", "everywhere", "ex", "except", "f", "far", "few", "ff", "fifth", "first", "five", "fix", "followed", "following", "follows", "for", "former", "formerly", "forth", "found", "four", "from", "further", "furthermore", "g", "gave", "get", "gets", "getting", "give", "given", "gives", "giving", "go", "goes", "gone", "got", "gotten", "h", "had", "happens", "hardly", "has", "hasn't", "have", "haven't", "having", "he", "hed", "hence", "her", "here", "hereafter", "hereby", "herein", "heres", "hereupon", "hers", "herself", "hes", "hi", "hid", "him", "himself", "his", "hither", "home", "how", "howbeit", "however", "hundred", "i", "id", "ie", "if", "i'll", "im", "immediate", "immediately", "importance", "important", "in", "inc", "indeed", "index", "information", "instead", "into", "invention", "inward", "is", "isn't", "it", "itd", "it'll", "its", "itself", "i've", "j", "just", "k", "keep 	keeps", "kept", "kg", "km", "know", "known", "knows", "l", "largely", "last", "lately", "later", "latter", "latterly", "least", "less", "lest", "let", "lets", "like", "liked", "likely", "line", "little", "'ll", "look", "looking", "looks", "ltd", "m", "made", "mainly", "make", "makes", "many", "may", "maybe", "me", "mean", "means", "meantime", "meanwhile", "merely", "mg", "might", "million", "miss", "ml", "more", "moreover", "most", "mostly", "mr", "mrs", "much", "mug", "must", "my", "myself", "n", "na", "name", "namely", "nay", "nd", "near", "nearly", "necessarily", "necessary", "need", "needs", "neither", "never", "nevertheless", "new", "next", "nine", "ninety", "no", "nobody", "non", "none", "nonetheless", "noone", "nor", "normally", "nos", "not", "noted", "nothing", "now", "nowhere", "o", "obtain", "obtained", "obviously", "of", "off", "often", "oh", "ok", "okay", "old", "omitted", "on", "once", "one", "ones", "only", "onto", "or", "ord", "other", "others", "otherwise", "ought", "our", "ours", "ourselves", "out", "outside", "over", "overall", "owing", "own", "p", "page", "pages", "part", "particular", "particularly", "past", "per", "perhaps", "placed", "please", "plus", "poorly", "possible", "possibly", "potentially", "pp", "predominantly", "present", "previously", "primarily", "probably", "promptly", "proud", "provides", "put", "q", "que", "quickly", "quite", "qv", "r", "ran", "rather", "rd", "re", "readily", "really", "recent", "recently", "ref", "refs", "regarding", "regardless", "regards", "related", "relatively", "research", "respectively", "resulted", "resulting", "results", "right", "run", "s", "said", "same", "saw", "say", "saying", "says", "sec", "section", "see", "seeing", "seem", "seemed", "seeming", "seems", "seen", "self", "selves", "sent", "seven", "several", "shall", "she", "shed", "she'll", "shes", "should", "shouldn't", "show", "showed", "shown", "showns", "shows", "significant", "significantly", "similar", "similarly", "since", "six", "slightly", "so", "some", "somebody", "somehow", "someone", "somethan", "something", "sometime", "sometimes", "somewhat", "somewhere", "soon", "sorry", "specifically", "specified", "specify", "specifying", "still", "stop", "strongly", "sub", "substantially", "successfully", "such", "sufficiently", "suggest", "sup", "sure"
-]
+from const import NlpConst, varies, stoplist
 
 def load_tokens(filepath="./Jobs Schema - tokens.tsv"):
     """
@@ -93,21 +88,89 @@ def get_section_requirement(df, df_token):
     for idx in range(0, len(df["jobDetail"])):
         jam = JobAdsModel(df["jobDetail"][idx]["jobDescription"], df_token)
         jam.run_section()
+
+        ##################
+        text = df["jobDetail"][idx]["jobDescription"]
+        # preprocess ()
+        result = text.replace("&nbsp;", " ").replace("\xa0", " ")
+        result = result.replace("&amp;", "&") # ＆
+        result = result.replace("&quot;", "\"")
+
+        result = result.strip("\n\r\t ")
+        result = result.replace("\n\r", "\n").replace("\r\n", "\n")
+        result = result.replace("\n\n", "\n").replace("\n", "  ")
+        
+        # remove HTML tag
+        result = re.sub(r'\<.+?\>', ' ', result, flags=re.IGNORECASE)
+        
+        for item in varies:
+            result = result.replace(item, " Requirements:  ")
+        
+        result = result.replace(" ", " ")
+        result = result.replace("s (", "s:  (")
+        result = result.replace("s:", "s: ")
+        result = result.replace("s :", "s: ")
+        result = result.replace(" :", ": ")
+        result = result.replace("：", ": ")
+        result = result.replace(": ", ":  ")
+        result = result.replace("- ", "  -  ")
+
+        text_pre0 = result
+
+        # doing split_section()
+        patt1 = re.compile("^(.*?) (Requirements?:?  .*)$")
+        result1 = patt1.match("{}".format(str(text_pre0)))
+        
+        patt2 = {}
+        result2 = {}
+        
+        # result is sections' array of different sections
+        result = result1
+        if result1 is None:
+            # Capital "Requirement" could not be found, check lowercase
+            patt2 = re.compile("^(.*?) (requirements?:?  .*)$", re.IGNORECASE)
+            result2 = patt2.match("{}".format(str(text_pre0)))
+            result = result2
+            if result2 is None:
+                # lowercase "requirement" also not found, use whole piece as sections' array
+                result = [text_pre0]
+        else:
+            result = result1
+
+        temp_sect = result
+        sections = {}
+
+        if temp_sect is not None:
+            # print(temp_sect.group(0))
+            # print("==================")
+            # print(temp_sect.group(1))
+            # print("==================")
+            # print(temp_sect.group(2))
+            sections = {
+                "type": "group",
+                "data": temp_sect
+            }
+        else:
+            sections = {
+                "type": "string",
+                "data": text_pre0
+            }
+        ##################
         
         idxSeries.append(idx)
         
         print("\n\n")
         
-        if jam.sections["type"] == "group":
+        if sections["type"] == "group":
             print("### Has matches")
-            print(jam.sections["data"].group(2))
+            print(sections["data"].group(2))
             hasRequireSeries.append(True)
-            requirementSeries.append(jam.sections["data"].group(2))
+            requirementSeries.append(sections["data"].group(2))
         else:
             print("=== No matches, Show Original")
-            print(jam.sections["data"])
+            print(sections["data"])
             hasRequireSeries.append(False)
-            requirementSeries.append(jam.sections["data"])
+            requirementSeries.append(sections["data"])
             
     new_df["id"] = idxSeries
     new_df["hasReq"] = hasRequireSeries
@@ -164,72 +227,13 @@ def get_section_responsibility(df, df_token):
     return new_df
 
 
-class JobExtractor2():
+class JobExtractor2(NlpConst):
     text_raw = ""
     text_pre0 = ""
     text_pre = []
     df_token = {}
     lang_result = []
     all_result = {}
-    
-    # Variations
-    varies = sorted([
-        "Requirements and Qualifications:",
-        "Qualifications/Requirements:",
-        "Requirements/Qualification",
-        "Requirement/Qualification",
-        "Requirement Qualification",
-        "Requirements / Qualifications",
-        "Key Requirements",
-        "Job Requirements"
-        "Job Requirement :",
-        "Job Requirement  :",
-        "Job Requirement   :",
-        "Job Requirement    :",
-        "Job Requirements :",
-        "Requirements :",
-        "Requirements  :",
-        "Requirements   :",
-        "Requirements    :",
-        "Requirements & Duties:",
-        "Requirements & Duties:  -",
-        "Requirement(s)",
-        "*Requirements:",
-        "*Requirement:",
-        "R  equirements:",
-        "Requirement & Qualification:",
-        "Requirements & qualifications",
-        "Job Requirements & Qualification",
-        "Requirements & Capabilities:",
-        "Requirements/Competencies:",
-        "The Requirements :",
-        "Job Requirement :",
-        "Job Requirements",
-        "Requirement, Skills & Experience",
-        "Requirements/Skills:",
-        "Requirements & Skills",
-        "Requirements –",
-        "Job Requirements include:",
-        "Other requirements include:",
-        "Other key requirements include:",
-        "Requirements of the above:",
-        "Requirements and Skills:",
-        "Work Experience & Requirement Skills",
-        "Requirements for Lecturer:",
-        "Requirement for above position:-",
-        "Required skills/experience:",
-        "Requirements for the role:",
-        "Requirements for",
-        "Requirement Details:",
-        "Requirement :",
-        "Requirement  :",
-        "Requirement   :",
-        "Requirement    :",
-        "Requirement/Experience:",
-        "Requirement;",
-        "Requirement for Candidates:",
-        "Requirements",
-    ], key=len, reverse=True)
     
     def __init__(self, text, tokens):
         self.text_raw = text
@@ -248,7 +252,7 @@ class JobExtractor2():
         # remove HTML tag
         result = re.sub(r'\<.+?\>', ' ', result, flags=re.IGNORECASE)
         
-        for item in self.varies:
+        for item in varies:
             result = result.replace(item, " Requirements:  ")
         
         result = result.replace(" ", " ")
@@ -466,7 +470,7 @@ class JobExtractor2():
 
         return self.all_result
 
-
+# @deprecated
 class JobAdsModel():
     raw_html = "" # with html tags eg: <span>
     raw_text = "" # plain text
@@ -513,5 +517,150 @@ class JobAdsModel():
                 "type": "string",
                 "data": self.je.text_pre0
             }
+
+
+class PrepText(NlpConst):
+    """
+    # (01) raw input
+    # (02) clean newline(\n\r), fill periods(".")
+
+    # (03) sentence array
+
+    # (04) from (02) => lower case
+    # (05) from (04) => lower case, no punctuation
+
+    raw_html = "" # with html tags eg: <span>
+    raw_text = "" # plain text
+    
+    nopunc_text = "" # remove punctuation
+    lowercase_text = "" # normalize tokens
+    nostopword_text = "" # for meaningful words
+    
+    sections = [] # from raw_text
+    sentences = [] # from raw_text, using NLTK, Ckippar
+    tokens = [] # from nostopword_text, find keywords by POS
+
+    # Usage:
+    pt = PrepText(text)
+    ajson = pt.get_variables()
+    """
+    raw_text = "" # (01)
+    period_text = "" # (02)
+    sentence_arr = [] # (03)
+    lower_text = "" # (04)
+    lower_text_nopunc = "" # (05)
+    lang = "eng"
+
+    def __init__(self, raw_text=""):
+        self.sentence_arr = []
+        self.set_raw_text(raw_text)
+        self.set_lang()
+        self.set_period_text()
+        self.set_sentence_arr()
+        self.set_lower_text()
+        self.set_lower_text_nopunc()
+        pass
+    
+    def _process_line(self, line, idx):
+        self.sentence_arr.append(line)
+
+    def get_instance(self):
+        return self
+    
+    def set_lang(self):
+        if len(self.raw_text) == 0:
+            raise Exception("[Error]<set_lang>: Raw Text has 0 length.")
+
+        self.lang = "eng"
+        detectlang = re.findall(r"[\u4e00-\u9fff]+", self.raw_text)
+        if len(detectlang) != 0:
+            self.lang = "chi"
+
+        return self
+    
+    def set_raw_text(self, raw_text):
+        if len(raw_text) == 0:
+            raise Exception("[Error]<set_raw_text>: Raw Text has 0 length.")
+        self.raw_text = raw_text
+
+        return self
+    
+    def set_period_text(self):
+        """
+        Known issues:
+        1. (Over-killed proper nouns) JobsDB ==> Jobs.   DB
+        2. 12/F ==> 12. /f
+        """
+        regex = re.compile(r"([^A-Z\s]{2})([A-Z])")
+        new_text = regex.sub(r"\1.  \2", self.raw_text)
+        new_text = new_text.replace("   ", ".   ").replace("  ", "   ").replace("  - ", ". ")
+        new_text = new_text.replace("\xa0", " ").replace("\r\n", "\n\r").replace("\n\r", "\n").replace("\r", "\n")
+        new_text = new_text.replace("\n\n", "\n").replace("\n\n", "\n").replace("\n\n", "\n")
+        new_text = new_text.replace("\n", ". ")
+        new_text = new_text.replace(".. ", ". ").replace(".. ", ". ").replace(".. ", ". ")
+        self.period_text = new_text
+
+        return self
+    
+    def set_sentence_arr(self):
+        if len(self.period_text) == 0:
+            raise Exception("[Error]<set_sentence_arr>: Period Text has 0 length.")
+
+        gidx = 0
+        arr = self.period_text.split('. ')
+        for idx in range(len(arr)):
+            line = arr[idx]
+
+            inner_arr = line.split(';')
+            if len(inner_arr) > 1:
+                for inner_idx in range(len(inner_arr)):
+                    inner_line = inner_arr[inner_idx]
+                    self._process_line(inner_line, gidx)
+                    gidx = gidx + 1
+            else:
+                self._process_line(line, gidx)
+                gidx = gidx + 1
+
+        return self
+    
+    def set_lower_text(self):
+        if len(self.period_text) == 0:
+            raise Exception("[Error]<set_lower_text>: Period Text has 0 length.")
+        
+        self.lower_text = self.period_text.lower()
+        
+        if self.lang != "eng":
+            print("[Warn]<set_lower_text>: Contains non latin characters.")
+        
+        return self
+    
+    def set_lower_text_nopunc(self):
+        if len(self.period_text) == 0:
+            raise Exception("[Error]<set_lower_text_nopunc>: Period Text has 0 length.")
+            
+        x = self.lower_text
+        new_text = re.sub(pattern=r'[\!"#$%&\*+,-./:;<=>?@^_`()|~=]', 
+                        repl=' ', 
+                        string=x
+                       ).strip()
+        self.lower_text_nopunc = new_text
+        
+        return self
+
+    def remove_stop_word(self, text):
+        stoplist = self.stoplist
+        arr = text.split(' ')
+
+        return self, ' '.join([x for x in arr if not x.lower() in stoplist])
+    
+    def get_variables(self):
+        return {
+            "raw_text": self.raw_text,
+            "period_text": self.period_text,
+            "sentence_arr": self.sentence_arr,
+            "lower_text": self.lower_text,
+            "lower_text_nopunc": self.lower_text_nopunc,
+            "lang": self.lang,
+        }
 
 # End
