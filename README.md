@@ -1,6 +1,6 @@
 # Fullfilment on CLAP Phrase 2
 
-Last Update: 2020-03-17 11:23
+Last Update: 2020-04-03 13:58
 
 | Name                                                       | Assignee    | Due Date   | Priority | Status        | URL                 |
 |------------------------------------------------------------|-------------|------------|----------|---------------|---------------------|
@@ -34,13 +34,13 @@ Last Update: 2020-03-17 11:23
 | word frequency                                             | Omar Kan    | 2019-12-31 |          | Ready to test | [vgnlp::BasicSummary](https://github.com/KEEP-EDU-HK/vgnlp/blob/master/demo/06.Basic%20Document%20Statistics%20Summary.ipynb) |
 | word cloud                                                 | Omar Kan    | 2020-03-27 |          | WIP           | [vgnlp::BasicSummary](https://github.com/KEEP-EDU-HK/vgnlp/blob/master/demo/06.Basic%20Document%20Statistics%20Summary.ipynb) |
 | Syntactic analysis                                         | Ting Chan, Omar Kan   | 2020-08-28 | Low      | Pending       |                     |
-| Spelling check                                             | Omar Kan    | 2020-03-31 |          | WIP           | notebooks           |
+| Spelling check                                             | Omar Kan    | 2020-03-31 |          | Ready to test | [vgnlp::SpellingChecker](https://github.com/KEEP-EDU-HK/vgnlp/blob/master/demo/09.Spelling%20Checker.ipynb) |
 | Grammar check                                              | Omar Kan    | 2020-03-31 |          | WIP           | notebooks           |
 | Part-of-speech tagging                                     | Omar Kan    | 2019-09-10 |          | Ready to test | [vgnlp::Pos](https://github.com/KEEP-EDU-HK/vgnlp/blob/master/demo/02.Part%20Of%20Speech.ipynb)          |
 | Semantic analysis                                          | Ting Chan, Omar Kan   | 2020-10-30 | Low      | Pending       |                     |
 | Entity relationship extraction                             | Omar Kan    | 2020-03-31 |          | WIP           | notebooks           |
 | facts identification                                       |             |            |          |               |                     |
-| Sentiment analysis                                         | Ting Chan, Omar Kan   | 2020-10-30 | Low      | Pending       |                     |
+| Sentiment analysis                                         | Ting Chan, Omar Kan   | 2020-10-30 | Low      | Ready to test | [vgnlp::Sentiment](https://github.com/KEEP-EDU-HK/vgnlp/blob/master/demo/10.Sentiment.ipynb) |
 | Non-textual analysis                                       | Ting Chan, Omar Kan   | 2020-12-31 | Low      | Pending       |                     |
 | Image extraction                                           |             |            |          |               |                     |
 | Image comparison                                           |             |            |          |               |                     |
@@ -66,5 +66,7 @@ Last Update: 2020-03-17 11:23
 | API                                                        | Ting Chan   |            | Low      |               |                     |
 
 # Backlog
+- [2020-04-03] Sentiment
+- [2020-04-03] Spelling check
 - [2020-03-20] Updated assignees
 - [2020-03-17] Created this repository
