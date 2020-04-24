@@ -1,6 +1,6 @@
 # Fullfilment on CLAP Phrase 2
 
-Last Update: 2020-04-03 13:58
+Last Update: 2020-04-24 11:07
 
 | Name                                                       | Assignee    | Due Date   | Priority | Status        | URL                 |
 |------------------------------------------------------------|-------------|------------|----------|---------------|---------------------|
@@ -35,7 +35,7 @@ Last Update: 2020-04-03 13:58
 | word cloud                                                 | Omar Kan    | 2020-03-27 |          | WIP           | [vgnlp::BasicSummary](https://github.com/KEEP-EDU-HK/vgnlp/blob/master/demo/06.Basic%20Document%20Statistics%20Summary.ipynb) |
 | Syntactic analysis                                         | Ting Chan, Omar Kan   | 2020-08-28 | Low      | Pending       |                     |
 | Spelling check                                             | Omar Kan    | 2020-03-31 |          | Ready to test | [vgnlp::SpellingChecker](https://github.com/KEEP-EDU-HK/vgnlp/blob/master/demo/09.Spelling%20Checker.ipynb) |
-| Grammar check                                              | Omar Kan    | 2020-03-31 |          | WIP           | notebooks           |
+| Grammar check                                              | Omar Kan    | 2020-03-31 |          | Ready to test | [notebooks](https://github.com/ok524/clap_fulfillment/blob/master/notebooks/a07.Grammer%20Check.ipynb)           |
 | Part-of-speech tagging                                     | Omar Kan    | 2019-09-10 |          | Ready to test | [vgnlp::Pos](https://github.com/KEEP-EDU-HK/vgnlp/blob/master/demo/02.Part%20Of%20Speech.ipynb)          |
 | Semantic analysis                                          | Ting Chan, Omar Kan   | 2020-10-30 | Low      | Pending       |                     |
 | Entity relationship extraction                             | Omar Kan    | 2020-03-31 |          | WIP           | notebooks           |
@@ -66,6 +66,7 @@ Last Update: 2020-04-03 13:58
 | API                                                        | Ting Chan   |            | Low      |               |                     |
 
 # Backlog
+- [2020-04-24] Grammar check
 - [2020-04-03] Sentiment
 - [2020-04-03] Spelling check
 - [2020-03-20] Updated assignees
