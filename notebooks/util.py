@@ -4,6 +4,11 @@ import re
 import json
 from const import NlpConst, varies, stoplist
 
+### Content
+# detect_lang
+# prep_sentence
+# PrepText
+
 def load_tokens(filepath="./Jobs Schema - tokens.tsv"):
     """
     Load tokens for Extraction

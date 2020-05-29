@@ -111,16 +111,20 @@ def correct_sent(rawtext):
                 print(arr_tmp)
             if arr_tmp[0] != "S":
                 idx = int(arr_tmp[0])
-                arr_repl = arr_tmp[1].split("|||")
+                # print("0   ", arr_tmp)
+                arr_repl = ' '.join(arr_tmp[1:]).split("|||")
                 idx2 = int(arr_repl[0])
+
+                
                 
                 # Insert
                 if idx == idx2:
                     if arr_repl[2] == "-NONE-":
                         arr_sent = arr_sent[:idx] + [""] + arr_sent[idx2:]
                     else:
+                        # print("a   ", arr_repl[2])
                         arr_sent = arr_sent[:idx] + [arr_repl[2].split("||")[0]] + arr_sent[idx2:]
-                else:
+                elif idx + 1 == idx2:
                     if idx >= len(arr_sent):
                         arr_sent.append(".")
                     else:
@@ -141,7 +145,22 @@ def correct_sent(rawtext):
                                 arr_sent[idx] = arr_repl[2].split("||")[0]
                             else:
                                 arr_sent[idx] = arr_repl[2]
+                else:
+                    # idx2 is shifted by 2+
+                    if idx >= len(arr_sent):
+                        arr_sent.append(".")
+                    else:
+                        inserting_word = ""
+                        if arr_repl[len(arr_repl)-1] == "0":
+                            if arr_repl[2] == "-NONE-":
+                                inserting_word = ""
+                            elif len(arr_repl[2].split("||")) > 1:
+                                inserting_word = arr_repl[2].split("||")[0]
+                            else:
+                                inserting_word = arr_repl[2]
+                            # print(inserting_word)
+                            arr_sent = arr_sent[:idx] + [inserting_word] + arr_sent[idx2:]
 
-        return original_sent, ' '.join(arr_sent).replace("  ", " ")
+        return original_sent, ' '.join(arr_sent).replace("  ", " ").replace("  ", " ")
     else:
         return original_sent, original_sent
