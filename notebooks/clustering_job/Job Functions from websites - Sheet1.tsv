@@ -1,0 +1,1493 @@
+ID	website	job_function	category_id	category_name
+1	RecruitHK	Accounting/Auditing (Accountant)	1	Accounting
+2	RecruitHK	Accounting/Auditing (Accounting/FinancialManagement)	1	Accounting
+3	RecruitHK	Accounting/Auditing (AccountingClerk/Officer/Supervisor)	1	Accounting
+4	RecruitHK	Accounting/Auditing (Audit)	1	Accounting
+5	RecruitHK	Accounting/Auditing (Compliance)	1	Accounting
+6	RecruitHK	Accounting/Auditing (CorporateFinance)	1	Accounting
+7	RecruitHK	Accounting/Auditing (CreditControl)	1	Accounting
+8	RecruitHK	Accounting/Auditing (Finance/AccountingManager)	1	Accounting
+9	RecruitHK	Accounting/Auditing (FinancialAnalyst)	1	Accounting
+10	RecruitHK	Accounting/Auditing (FinancialController)	1	Accounting
+11	RecruitHK	Accounting/Auditing (GeneralAccounting)	1	Accounting
+12	RecruitHK	Accounting/Auditing (Taxation)	1	Accounting
+13	RecruitHK	Accounting/Auditing (Treasurer)	1	Accounting
+14	RecruitHK	Accounting/Auditing (Others)	1	Accounting
+15	RecruitHK	Administration/Secretary (Administration/OperationManager)		Others
+16	RecruitHK	Administration/Secretary (Clerical/AdminStaff)		Others
+17	RecruitHK	Administration/Secretary (Personal/ExecutiveAssistant)		Others
+18	RecruitHK	Administration/Secretary (Receptionist)		Others
+19	RecruitHK	Administration/Secretary (Secretary)		Others
+20	RecruitHK	Administration/Secretary (Others)		Others
+21	RecruitHK	Airline/Travel/Tourism (CabinCrew)		Others
+22	RecruitHK	Airline/Travel/Tourism (CustomerService)		Others
+23	RecruitHK	Airline/Travel/Tourism (FlightService/GroundService/Passenger)		Others
+24	RecruitHK	Airline/Travel/Tourism (Ticketing/Reservation)		Others
+25	RecruitHK	Airline/Travel/Tourism (TourGuide)		Others
+26	RecruitHK	Airline/Travel/Tourism (TravelAgency/Consultant)		Others
+27	RecruitHK	Airline/Travel/Tourism (Others)		Others
+28	RecruitHK	Banking&Finance/Securities (Account/RelationshipManagement)		Others
+29	RecruitHK	Banking&Finance/Securities (Analysis)		Others
+30	RecruitHK	Banking&Finance/Securities (Compliance/Regulatory)		Others
+31	RecruitHK	Banking&Finance/Securities (CorporateBanking)		Others
+32	RecruitHK	Banking&Finance/Securities (CorporateFinance)		Others
+33	RecruitHK	Banking&Finance/Securities (CreditAnalysis/Approval)		Others
+34	RecruitHK	Banking&Finance/Securities (CreditCollection)		Others
+35	RecruitHK	Banking&Finance/Securities (Dealing&Trading)		Others
+36	RecruitHK	Banking&Finance/Securities (Equities/CapitalMarket/Treasury)		Others
+37	RecruitHK	Banking&Finance/Securities (FinancialServices)		Others
+38	RecruitHK	Banking&Finance/Securities (FundManagement)		Others
+39	RecruitHK	Banking&Finance/Securities (Investment)		Others
+40	RecruitHK	Banking&Finance/Securities (Legal)		Others
+41	RecruitHK	Banking&Finance/Securities (Loan)		Others
+42	RecruitHK	Banking&Finance/Securities (Mortgage)		Others
+43	RecruitHK	Banking&Finance/Securities (OrderProcessing&Operation/Settlement)		Others
+44	RecruitHK	Banking&Finance/Securities (PrivateBanking)		Others
+45	RecruitHK	Banking&Finance/Securities (ProjectFinance)		Others
+46	RecruitHK	Banking&Finance/Securities (Research/Analysis)		Others
+47	RecruitHK	Banking&Finance/Securities (RetailBanking)		Others
+48	RecruitHK	Banking&Finance/Securities (RiskManagement)		Others
+49	RecruitHK	Banking&Finance/Securities (Treasury)		Others
+50	RecruitHK	Banking&Finance/Securities (Others)		Others
+51	RecruitHK	Building/Architectural (Architectural)		Others
+52	RecruitHK	Building/Architectural (Building/Construction/QS)		Others
+53	RecruitHK	Building/Architectural (Civil/Structural)		Others
+54	RecruitHK	Building/Architectural (Draftsman)		Others
+55	RecruitHK	Building/Architectural (ProjectManagement)		Others
+56	RecruitHK	Building/Architectural (SiteManagement)		Others
+57	RecruitHK	Building/Architectural (Surveying)		Others
+58	RecruitHK	Building/Architectural (Others)		Others
+59	RecruitHK	Catering (Bartender/Barmaid/Sommelier)		Others
+60	RecruitHK	Catering (Cashier)		Others
+61	RecruitHK	Catering (Chef/Cook)		Others
+62	RecruitHK	Catering (Cleaner&Dishwasher)		Others
+63	RecruitHK	Catering (CustomerService)		Others
+64	RecruitHK	Catering (Dessert/Bakery)		Others
+65	RecruitHK	Catering (Food&Beverage)		Others
+66	RecruitHK	Catering (GuestRelations)		Others
+67	RecruitHK	Catering (RestaurantManager/Supervisor/Captain)		Others
+68	RecruitHK	Catering (Waiter/Waitress)		Others
+69	RecruitHK	Catering (Others)		Others
+70	RecruitHK	CustomerService		Others
+71	RecruitHK	Design (Draftsman)		Others
+72	RecruitHK	Design (Fashion)		Others
+73	RecruitHK	Design (Graphic)		Others
+74	RecruitHK	Design (Industrial/Product)		Others
+75	RecruitHK	Design (Interior)		Others
+76	RecruitHK	Design (Multi-Media)		Others
+77	RecruitHK	Design (VisualMerchandising)		Others
+78	RecruitHK	Design (WebDesigner)		Others
+79	RecruitHK	Design (Others)		Others
+80	RecruitHK	Education (Lecturer/Professor)		Others
+81	RecruitHK	Education (Librarian)		Others
+82	RecruitHK	Education (Research)		Others
+83	RecruitHK	Education (Teacher)		Others
+84	RecruitHK	Education (Tutor/Instructor)		Others
+85	RecruitHK	Education (Others)		Others
+86	RecruitHK	Engineering (Building/E&M)		Others
+87	RecruitHK	Engineering (Chemical/EnvironmentalProtection/Laboratory)		Others
+88	RecruitHK	Engineering (Civil/Structural)		Others
+89	RecruitHK	Engineering (Draftsman/CAD)		Others
+90	RecruitHK	Engineering (Electrical/Electronic)		Others
+91	RecruitHK	Engineering (EngineeringProjectManagement)		Others
+92	RecruitHK	Engineering (Industry/Manufacturing/Production)		Others
+93	RecruitHK	Engineering (Mechanical)		Others
+94	RecruitHK	Engineering (QualityAssurance)		Others
+95	RecruitHK	Engineering (Telecommunication/Wireless/Radio)		Others
+96	RecruitHK	Engineering (Others)		Others
+97	RecruitHK	FreshGraduate		Others
+98	RecruitHK	Government		Others
+99	RecruitHK	Guangdong-HongKong-MacaoBayArea		Others
+100	RecruitHK	Health/Beauty (Athletics/Fitness/Sports&Recreation)		Others
+101	RecruitHK	Health/Beauty (Beautician)		Others
+102	RecruitHK	Health/Beauty (Health/BeautyCare)		Others
+103	RecruitHK	Health/Beauty (Nutritionist)		Others
+104	RecruitHK	Health/Beauty (Spa/Massage)		Others
+105	RecruitHK	Health/Beauty (Sports/Fitness/Recreation)		Others
+106	RecruitHK	Health/Beauty (Therapist)		Others
+107	RecruitHK	Health/Beauty (Others)		Others
+108	RecruitHK	Hospital/Medical/Pharmaceutical (Doctor/Practitioner/Surgeon)		Others
+109	RecruitHK	Hospital/Medical/Pharmaceutical (GeneralSupport)		Others
+110	RecruitHK	Hospital/Medical/Pharmaceutical (MedicalServices)		Others
+111	RecruitHK	Hospital/Medical/Pharmaceutical (Nursing)		Others
+112	RecruitHK	Hospital/Medical/Pharmaceutical (Pharmaceutical)		Others
+113	RecruitHK	Hospital/Medical/Pharmaceutical (Professional/Specialist)		Others
+114	RecruitHK	Hospital/Medical/Pharmaceutical (Therapist)		Others
+115	RecruitHK	Hospital/Medical/Pharmaceutical (Others)		Others
+116	RecruitHK	Hospitality/Hotel (CustomerService)		Others
+117	RecruitHK	Hospitality/Hotel (DutyEngineer/Technician)		Others
+118	RecruitHK	Hospitality/Hotel (Entertainment)		Others
+119	RecruitHK	Hospitality/Hotel (Food&Beverage)		Others
+120	RecruitHK	Hospitality/Hotel (FrontDesk/Office)		Others
+121	RecruitHK	Hospitality/Hotel (GuestRelations)		Others
+122	RecruitHK	Hospitality/Hotel (Housekeeping/RoomAttendent)		Others
+123	RecruitHK	Hospitality/Hotel (Reservation)		Others
+124	RecruitHK	Hospitality/Hotel (Others)		Others
+125	RecruitHK	HumanResources (Compensation&Benefits)		Others
+126	RecruitHK	HumanResources (HR/Personnel)		Others
+127	RecruitHK	HumanResources (HRDirector/Manager)		Others
+128	RecruitHK	HumanResources (HROfficer/Assistant)		Others
+129	RecruitHK	HumanResources (Recruitment/ExecutiveSearch)		Others
+130	RecruitHK	HumanResources (Training&Development)		Others
+131	RecruitHK	HumanResources (Others)		Others
+132	RecruitHK	Insurance (Actuarial)		Others
+133	RecruitHK	Insurance (BusinessDevelopment)		Others
+134	RecruitHK	Insurance (ClaimsOfficer)		Others
+135	RecruitHK	Insurance (Insurance/Broker)		Others
+136	RecruitHK	Insurance (PolicyAdministration)		Others
+137	RecruitHK	Insurance (Underwriting)		Others
+138	RecruitHK	Insurance (Others)		Others
+139	RecruitHK	IT (Application-Network)		Others
+140	RecruitHK	IT (Application-Software)		Others
+141	RecruitHK	IT (DBA)		Others
+142	RecruitHK	IT (Hardware)		Others
+143	RecruitHK	IT (ITAuditing)		Others
+144	RecruitHK	IT (ITManagement)		Others
+145	RecruitHK	IT (ITProjectManagement/TeamLead)		Others
+146	RecruitHK	IT (Mobile/WirelessCommunications)		Others
+147	RecruitHK	IT (MobileApplicationsDeveloper)		Others
+148	RecruitHK	IT (Network&System)		Others
+149	RecruitHK	IT (ProductManagement/BusinessAnalyst)		Others
+150	RecruitHK	IT (ProgramSpecialist)		Others
+151	RecruitHK	IT (SecuritySpecialist/RiskManagement)		Others
+152	RecruitHK	IT (Software/WebDeveloper)		Others
+153	RecruitHK	IT (SystemAdministrator)		Others
+154	RecruitHK	IT (SystemAnalyst)		Others
+155	RecruitHK	IT (SystemEngineer/NetworkEngineer)		Others
+156	RecruitHK	IT (Systems/TechnicalSupport)		Others
+157	RecruitHK	IT (Technical/FunctionalConsulting)		Others
+158	RecruitHK	IT (TechnicalWriting)		Others
+159	RecruitHK	IT (Webmaster/SEO)		Others
+160	RecruitHK	IT (Others)		Others
+161	RecruitHK	Logistics/Transportation/Shipping (Aviation)		Others
+162	RecruitHK	Logistics/Transportation/Shipping (Couriers/Drivers)		Others
+163	RecruitHK	Logistics/Transportation/Shipping (DocumentaryCredit/BillsProcessing)		Others
+164	RecruitHK	Logistics/Transportation/Shipping (FreightForwarding)		Others
+165	RecruitHK	Logistics/Transportation/Shipping (Fulfillment)		Others
+166	RecruitHK	Logistics/Transportation/Shipping (Logistics)		Others
+167	RecruitHK	Logistics/Transportation/Shipping (Management)		Others
+168	RecruitHK	Logistics/Transportation/Shipping (Shipping)		Others
+169	RecruitHK	Logistics/Transportation/Shipping (SupplyChain)		Others
+170	RecruitHK	Logistics/Transportation/Shipping (Transportation)		Others
+171	RecruitHK	Logistics/Transportation/Shipping (Warehousing/Inventory)		Others
+172	RecruitHK	Logistics/Transportation/Shipping (Others)		Others
+173	RecruitHK	Management (GeneralManagement)		Others
+174	RecruitHK	Management (Management)		Others
+175	RecruitHK	Management (TopExecutives)		Others
+176	RecruitHK	Management (Manufacturing)		Others
+177	RecruitHK	Management (Garment/Textile)		Others
+178	RecruitHK	Management (General/ProductionWorkers)		Others
+179	RecruitHK	Management (Jewelry)		Others
+180	RecruitHK	Management (ManufacturingManagement)		Others
+181	RecruitHK	Management (Printing)		Others
+182	RecruitHK	Management (ProductDevelopment/Management)		Others
+183	RecruitHK	Management (ProductionPlanning/QC)		Others
+184	RecruitHK	Management (QualityAssurance,Control&Testing/ISO)		Others
+185	RecruitHK	Management (Others)		Others
+186	RecruitHK	Marketing/PublicRelations (Advertising/MarketCommunication)		Others
+187	RecruitHK	Marketing/PublicRelations (Brand/ProductManagement)		Others
+188	RecruitHK	Marketing/PublicRelations (CustomerRelationshipManagement)		Others
+189	RecruitHK	Marketing/PublicRelations (Management)		Others
+190	RecruitHK	Marketing/PublicRelations (Marketing-DigitalMarketing)		Others
+191	RecruitHK	Marketing/PublicRelations (Marketing-DirectMarketing)		Others
+192	RecruitHK	Marketing/PublicRelations (Marketing-General/Support)		Others
+193	RecruitHK	Marketing/PublicRelations (Marketing-MarketResearch)		Others
+194	RecruitHK	Marketing/PublicRelations (PublicRelations-Copy-writing)		Others
+195	RecruitHK	Marketing/PublicRelations (PublicRelations-EventManagement)		Others
+196	RecruitHK	Marketing/PublicRelations (Others)		Others
+197	RecruitHK	Media (AccountServicing)		Others
+198	RecruitHK	Media (Broadcasting-TV/Radio)		Others
+199	RecruitHK	Media (CreativeWriting)		Others
+200	RecruitHK	Media (Editorial/Journalism)		Others
+201	RecruitHK	Media (MediaBuying)		Others
+202	RecruitHK	Media (MediaProduction/Photography/Video)		Others
+203	RecruitHK	Media (NewsReport/Anchor)		Others
+204	RecruitHK	Media (Photography/Video)		Others
+205	RecruitHK	Media (PrintMedia/Publishing)		Others
+206	RecruitHK	Media (Production/Programming)		Others
+207	RecruitHK	Media (StrategicPlanning)		Others
+208	RecruitHK	Media (Translation)		Others
+209	RecruitHK	Media (Others)		Others
+210	RecruitHK	Merchandising/Purchasing (Electrical/Electronic)		Others
+211	RecruitHK	Merchandising/Purchasing (Fabric/Textile)		Others
+212	RecruitHK	Merchandising/Purchasing (Fashion/GarmentAccessories)		Others
+213	RecruitHK	Merchandising/Purchasing (Footwear)		Others
+214	RecruitHK	Merchandising/Purchasing (Furniture)		Others
+215	RecruitHK	Merchandising/Purchasing (Garment/All)		Others
+216	RecruitHK	Merchandising/Purchasing (Garment/Knit&Sweater)		Others
+217	RecruitHK	Merchandising/Purchasing (Garment/Woven)		Others
+218	RecruitHK	Merchandising/Purchasing (Gift/Premium)		Others
+219	RecruitHK	Merchandising/Purchasing (Handbag)		Others
+220	RecruitHK	Merchandising/Purchasing (Household/KitchenWares)		Others
+221	RecruitHK	Merchandising/Purchasing (Jewellery/Watch)		Others
+222	RecruitHK	Merchandising/Purchasing (MerchandisingManagement)		Others
+223	RecruitHK	Merchandising/Purchasing (Printing)		Others
+224	RecruitHK	Merchandising/Purchasing (Procurement/Purchasing/Sourcing)		Others
+225	RecruitHK	Merchandising/Purchasing (Stationary)		Others
+226	RecruitHK	Merchandising/Purchasing (Sundries/SeasonalItems)		Others
+227	RecruitHK	Merchandising/Purchasing (Toys)		Others
+228	RecruitHK	Merchandising/Purchasing (Others)		Others
+229	RecruitHK	NGO/SocialServices (Administration&SupportFunction)		Others
+230	RecruitHK	NGO/SocialServices (Counseling)		Others
+231	RecruitHK	NGO/SocialServices (Fundraising)		Others
+232	RecruitHK	NGO/SocialServices (Medical/Para-medicalService)		Others
+233	RecruitHK	NGO/SocialServices (OrganizationalDevelopmentFunctions)		Others
+234	RecruitHK	NGO/SocialServices (OrganizationalManagementFunctions)		Others
+235	RecruitHK	NGO/SocialServices (SocialWorkService)		Others
+236	RecruitHK	NGO/SocialServices (General/Others)		Others
+237	RecruitHK	Others		Others
+238	RecruitHK	ProfessionalServices (BusinessAnalysis/DataAnalysis)		Others
+239	RecruitHK	ProfessionalServices (BusinessConsultancy)		Others
+240	RecruitHK	ProfessionalServices (CompanySecretary)		Others
+241	RecruitHK	ProfessionalServices (Legal&Compliance)		Others
+242	RecruitHK	ProfessionalServices (Translation)		Others
+243	RecruitHK	ProfessionalServices (Others)		Others
+244	RecruitHK	Property/EstateManagement/Security (Gardener)		Others
+245	RecruitHK	Property/EstateManagement/Security (Leasing)		Others
+246	RecruitHK	Property/EstateManagement/Security (Property/Consultancy)		Others
+247	RecruitHK	Property/EstateManagement/Security (Property/EstateManagement)		Others
+248	RecruitHK	Property/EstateManagement/Security (Security/SafetyControl)		Others
+249	RecruitHK	Property/EstateManagement/Security (Surveying)		Others
+250	RecruitHK	Property/EstateManagement/Security (Others)		Others
+251	RecruitHK	Publishing/Printing (Circulation)		Others
+252	RecruitHK	Publishing/Printing (Production)		Others
+253	RecruitHK	Publishing/Printing (Others)		Others
+254	RecruitHK	QualityAssurance/Control&Testing (Electrical/Electronic)		Others
+255	RecruitHK	QualityAssurance/Control&Testing (Fashion/GarmentAccessories)		Others
+256	RecruitHK	QualityAssurance/Control&Testing (Garment&Textile)		Others
+257	RecruitHK	QualityAssurance/Control&Testing (QA)		Others
+258	RecruitHK	QualityAssurance/Control&Testing (Toys&Sundries)		Others
+259	RecruitHK	QualityAssurance/Control&Testing (Others)		Others
+260	RecruitHK	RecruitmentDay		Others
+261	RecruitHK	Retail (Cashier)		Others
+262	RecruitHK	Retail (Fashion&Accessories)		Others
+263	RecruitHK	Retail (Health/Beauty)		Others
+264	RecruitHK	Retail (HouseholdNecessity&Electronics)		Others
+265	RecruitHK	Retail (Inventory)		Others
+266	RecruitHK	Retail (RetailOperationsManagement)		Others
+267	RecruitHK	Retail (StoreSupervisor/Manager)		Others
+268	RecruitHK	Retail (VisualMerchandiser)		Others
+269	RecruitHK	Retail (Others)		Others
+270	RecruitHK	Sales (AccountServicing)		Others
+271	RecruitHK	Sales (BusinessDevelopment)		Others
+272	RecruitHK	Sales (Channel/Distribution)		Others
+273	RecruitHK	Sales (CustomerService-Manager)		Others
+274	RecruitHK	Sales (CustomerService-Supervisor/Officer)		Others
+275	RecruitHK	Sales (DirectSales)		Others
+276	RecruitHK	Sales (GeneralSales)		Others
+277	RecruitHK	Sales (RetailSales)		Others
+278	RecruitHK	Sales (Sales-RealEstate)		Others
+279	RecruitHK	Sales (SalesAdministration)		Others
+280	RecruitHK	Sales (SalesEngineer/TechnicalSales)		Others
+281	RecruitHK	Sales (SalesManagement)		Others
+282	RecruitHK	Sales (Telesales/Telemarketing/CallCentre)		Others
+283	RecruitHK	Sales (Wholesale)		Others
+284	RecruitHK	Sales (Others)		Others
+285	RecruitHK	Sciences,Lab,R&D (Chemical)		Others
+286	RecruitHK	Sciences,Lab,R&D (Energy/NaturalResources/Oil&Gas)		Others
+287	RecruitHK	Sciences,Lab,R&D (EnvironmentalScience/WasteManagement)		Others
+288	RecruitHK	Sciences,Lab,R&D (FoodScience)		Others
+289	RecruitHK	Sciences,Lab,R&D (Laboratory)		Others
+290	RecruitHK	Sciences,Lab,R&D (LifeScience)		Others
+291	RecruitHK	Sciences,Lab,R&D (Research&Development(R&D))		Others
+292	RecruitHK	Sciences,Lab,R&D (Other)		Others
+293	RecruitHK	Sciences,Lab,R&D		Others
+294	RecruitHK	SummerJob/Internship		Others
+295	jobDB	Accounting (Accountant)	1	Accounting
+296	jobDB	Accounting (Accounting Clerk / Supervisor)	1	Accounting
+297	jobDB	Accounting (Audit)	1	Accounting
+298	jobDB	Accounting (Chief Accountant)	1	Accounting
+299	jobDB	Accounting (Consulting)	1	Accounting
+300	jobDB	Accounting (Credit Control)	1	Accounting
+301	jobDB	Accounting (Finance / Accounting Manager)	1	Accounting
+302	jobDB	Accounting (Financial Analyst)	1	Accounting
+303	jobDB	Accounting (Financial Controller)	1	Accounting
+304	jobDB	Accounting (Taxation)	1	Accounting
+305	jobDB	Accounting (Treasurer)	1	Accounting
+306	jobDB	Accounting (Others)	1	Accounting
+307	jobDB	Admin & HR (Administration / Operation Manager)		Others
+308	jobDB	Admin & HR (Clerical / Admin Staff)		Others
+309	jobDB	Admin & HR (Compensation & Benefits)		Others
+310	jobDB	Admin & HR (HR Director / Manager)		Others
+311	jobDB	Admin & HR (HR Supporting Staff)		Others
+312	jobDB	Admin & HR (Personal / Executive Assistant)		Others
+313	jobDB	Admin & HR (Receptionist)		Others
+314	jobDB	Admin & HR (Recruitment / Executive Search)		Others
+315	jobDB	Admin & HR (Secretary)		Others
+316	jobDB	Admin & HR (Training & Development)		Others
+317	jobDB	Admin & HR (Others)		Others
+318	jobDB	Banking / Finance (Analyst)		Others
+319	jobDB	Banking / Finance (Asset Management)		Others
+320	jobDB	Banking / Finance (Corporate Banking)		Others
+321	jobDB	Banking / Finance (Corporate Finance)		Others
+322	jobDB	Banking / Finance (Credit Analysis / Approval)		Others
+323	jobDB	Banking / Finance (Credit Collection)		Others
+324	jobDB	Banking / Finance (Dealing & Trading)		Others
+325	jobDB	Banking / Finance (Equities / Capital Markets)		Others
+326	jobDB	Banking / Finance (Financial Services)		Others
+327	jobDB	Banking / Finance (Fund Management)		Others
+328	jobDB	Banking / Finance (Investment)		Others
+329	jobDB	Banking / Finance (Loan)		Others
+330	jobDB	Banking / Finance (Mortgage)		Others
+331	jobDB	Banking / Finance (Order Processing & Operation / Settlement)		Others
+332	jobDB	Banking / Finance (Private Banking)		Others
+333	jobDB	Banking / Finance (Project Finance)		Others
+334	jobDB	Banking / Finance (Risk Management)		Others
+335	jobDB	Banking / Finance (Retail Banking)		Others
+336	jobDB	Banking / Finance (Treasury)		Others
+337	jobDB	Banking / Finance (Wealth Management)		Others
+338	jobDB	Banking / Finance (Others)		Others
+339	jobDB	Beauty Care / Health (Athletics / Fitness / Sports & Recreation)		Others
+340	jobDB	Beauty Care / Health (Beautician)		Others
+341	jobDB	Beauty Care / Health (Nutritionist)		Others
+342	jobDB	Beauty Care / Health (Therapist)		Others
+343	jobDB	Beauty Care / Health (Others)		Others
+344	jobDB	Building & Construction (Architectural Services)		Others
+345	jobDB	Building & Construction (Building / Construction / QS)		Others
+346	jobDB	Building & Construction (Civil / Structural)		Others
+347	jobDB	Building & Construction (Others)		Others
+348	jobDB	Design (Fashion)		Others
+349	jobDB	Design (Graphics)		Others
+350	jobDB	Design (Industrial / Product)		Others
+351	jobDB	Design (Interior)		Others
+352	jobDB	Design (Multi-media)		Others
+353	jobDB	Design (Visual Merchandising)		Others
+354	jobDB	Design (Web Designer)		Others
+355	jobDB	Design (Others)		Others
+356	jobDB	E-commerce (Business Development)		Others
+357	jobDB	E-commerce (Marketing - Brand / Product Management)		Others
+358	jobDB	E-commerce (Product Management / Business Analyst)		Others
+359	jobDB	E-commerce (Software Development)		Others
+360	jobDB	E-commerce (Supply Chain)		Others
+361	jobDB	E-commerce (Others)		Others
+362	jobDB	Education (Lecturer / Professor)		Others
+363	jobDB	Education (Librarian)		Others
+364	jobDB	Education (Teacher)		Others
+365	jobDB	Education (Tutor / Instructor)		Others
+366	jobDB	Education (Others)		Others
+367	jobDB	Engineering (Chemical)		Others
+368	jobDB	Engineering (Draftsman)		Others
+369	jobDB	Engineering (Electrical / Electronics)		Others
+370	jobDB	Engineering (Engineering Project Management)		Others
+371	jobDB	Engineering (Manufacturing & Production)		Others
+372	jobDB	Engineering (Mechanical)		Others
+373	jobDB	Engineering (Telecommunication / Wireless / Radio)		Others
+374	jobDB	Engineering (Others)		Others
+375	jobDB	Hospitality / F & B (Food & Beverage)		Others
+376	jobDB	Hospitality / F & B (Hospitality / Hotel Services)		Others
+377	jobDB	Hospitality / F & B (Integrated Resort / Casino)		Others
+378	jobDB	Hospitality / F & B (Tourism / Travel Agency)		Others
+379	jobDB	Hospitality / F & B (Others)		Others
+380	jobDB	Information Technology (IT) (Application Specialist - Network)		Others
+381	jobDB	Information Technology (IT) (Application Specialist - Software)		Others
+382	jobDB	Information Technology (IT) (Data Scientist)		Others
+383	jobDB	Information Technology (IT) (DBA)		Others
+384	jobDB	Information Technology (IT) (Hardware)		Others
+385	jobDB	Information Technology (IT) (IT - Webmaster / SEO)		Others
+386	jobDB	Information Technology (IT) (IT Auditing)		Others
+387	jobDB	Information Technology (IT) (IT Management)		Others
+388	jobDB	Information Technology (IT) (IT Project Management / Team Lead)		Others
+389	jobDB	Information Technology (IT) (Mobile / Wireless Communications)		Others
+390	jobDB	Information Technology (IT) (Network & System)		Others
+391	jobDB	Information Technology (IT) (Product Management / Business Analyst)		Others
+392	jobDB	Information Technology (IT) (Security)		Others
+393	jobDB	Information Technology (IT) (Software Development)		Others
+394	jobDB	Information Technology (IT) (Support)		Others
+395	jobDB	Information Technology (IT) (Technical / Functional Consulting)		Others
+396	jobDB	Information Technology (IT) (Technical Writing)		Others
+397	jobDB	Information Technology (IT) (Testing / QA)		Others
+398	jobDB	Information Technology (IT) (UI/UX Designer)		Others
+399	jobDB	Information Technology (IT) (Others)		Others
+400	jobDB	Insurance (Actuarial)		Others
+401	jobDB	Insurance (Claims Officer)		Others
+402	jobDB	Insurance (Insurance Agent / Broker)		Others
+403	jobDB	Insurance (Underwriter)		Others
+404	jobDB	Insurance (Others)		Others
+405	jobDB	Management (General Management)		Others
+406	jobDB	Management (Management Trainee)		Others
+407	jobDB	Management (Top Executives (CEO, CFO, CTO, GM, MD etc.))		Others
+408	jobDB	Manufacturing (Garment/ Textile)		Others
+409	jobDB	Manufacturing (General / Production Workers)		Others
+410	jobDB	Manufacturing (Jewelry)		Others
+411	jobDB	Manufacturing (Manufacturing Management)		Others
+412	jobDB	Manufacturing (Printing)		Others
+413	jobDB	Manufacturing (Product Development / Management)		Others
+414	jobDB	Manufacturing (Production Planning / Control)		Others
+415	jobDB	Manufacturing (Quality Assurance, Control & Testing / ISO)		Others
+416	jobDB	Manufacturing (Others)		Others
+417	jobDB	Marketing / Public Relations (Digital Marketing)		Others
+418	jobDB	Marketing / Public Relations (Management)		Others
+419	jobDB	Marketing / Public Relations (Marketing - Brand / Product Management)		Others
+420	jobDB	Marketing / Public Relations (Marketing - Direct Marketing)		Others
+421	jobDB	Marketing / Public Relations (Marketing - General / Support)		Others
+422	jobDB	Marketing / Public Relations (Marketing - Market Research)		Others
+423	jobDB	Marketing / Public Relations (Marketing - Marketing Communication)		Others
+424	jobDB	Marketing / Public Relations (Public Relations - Copy-writing)		Others
+425	jobDB	Marketing / Public Relations (Public Relations - Event Management)		Others
+426	jobDB	Marketing / Public Relations (Public Relations - General / Support)		Others
+427	jobDB	Marketing / Public Relations (Others)		Others
+428	jobDB	Media & Advertising (Editorial / Journalism)		Others
+429	jobDB	Media & Advertising (Account Servicing)		Others
+430	jobDB	Media & Advertising (Broadcasting - TV / Radio)		Others
+431	jobDB	Media & Advertising (Creative / Design)		Others
+432	jobDB	Media & Advertising (Media Buying)		Others
+433	jobDB	Media & Advertising (Photography / Video)		Others
+434	jobDB	Media & Advertising (Print Media)		Others
+435	jobDB	Media & Advertising (Production)		Others
+436	jobDB	Media & Advertising (Strategic Planning)		Others
+437	jobDB	Media & Advertising (Others)		Others
+438	jobDB	Medical Services (Doctor / Practitioner / Surgeon)		Others
+439	jobDB	Medical Services (Medical Services Technician)		Others
+440	jobDB	Medical Services (Nursing)		Others
+441	jobDB	Medical Services (Pharmaceutical)		Others
+442	jobDB	Medical Services (Specialist)		Others
+443	jobDB	Medical Services (Therapist)		Others
+444	jobDB	Medical Services (Others)		Others
+445	jobDB	Merchandising & Purchasing (Electronics)		Others
+446	jobDB	Merchandising & Purchasing (Fabrics)		Others
+447	jobDB	Merchandising & Purchasing (Footwear)		Others
+448	jobDB	Merchandising & Purchasing (Furniture)		Others
+449	jobDB	Merchandising & Purchasing (Handbag)		Others
+450	jobDB	Merchandising & Purchasing (Home Appliances)		Others
+451	jobDB	Merchandising & Purchasing (Procurement / Purchasing / Sourcing)		Others
+452	jobDB	Merchandising & Purchasing (PVC)		Others
+453	jobDB	Merchandising & Purchasing (Stationery)		Others
+454	jobDB	Merchandising & Purchasing (Sundries)		Others
+455	jobDB	Merchandising & Purchasing (Sweater)		Others
+456	jobDB	Merchandising & Purchasing (Textiles)		Others
+457	jobDB	Merchandising & Purchasing (Toy)		Others
+458	jobDB	Merchandising & Purchasing (Watch)		Others
+459	jobDB	Merchandising & Purchasing (Woven / Knit)		Others
+460	jobDB	Merchandising & Purchasing (Others)		Others
+461	jobDB	Professional Services (Business Analysis / Data Analysis)		Others
+462	jobDB	Professional Services (Business Consultancy)		Others
+463	jobDB	Professional Services (Company Secretary)		Others
+464	jobDB	Professional Services (Legal & Compliance)		Others
+465	jobDB	Professional Services (Translation)		Others
+466	jobDB	Property / Real Estate (Property Consultancy)		Others
+467	jobDB	Property / Real Estate (Property Management)		Others
+468	jobDB	Property / Real Estate (Others)		Others
+469	jobDB	Public / Civil (Civil Services)		Others
+470	jobDB	Public / Civil (Counseling)		Others
+471	jobDB	Public / Civil (Social Services - Community / Non-profit Organization)		Others
+472	jobDB	Public / Civil (Utilities)		Others
+473	jobDB	Public / Civil (Others)		Others
+474	jobDB	Sales, CS & Business Devpt (Account Servicing)		Others
+475	jobDB	Sales, CS & Business Devpt (Business Development)		Others
+476	jobDB	Sales, CS & Business Devpt (Call Centre)		Others
+477	jobDB	Sales, CS & Business Devpt (Channel / Distribution)		Others
+478	jobDB	CHAN, Cheong:  Sales, CS & Business Devpt (Customer Service - Manager)		Others
+479	jobDB	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)		Others
+480	jobDB	Sales, CS & Business Devpt (Direct Sales)		Others
+481	jobDB	Sales, CS & Business Devpt (Retail Sales)		Others
+482	jobDB	Sales, CS & Business Devpt (Sales - Real Estate)		Others
+483	jobDB	Sales, CS & Business Devpt (Sales - Sales Management)		Others
+484	jobDB	Sales, CS & Business Devpt (Sales Administration)		Others
+485	jobDB	Sales, CS & Business Devpt (Technical Sales / Sales Engineer)		Others
+486	jobDB	Sales, CS & Business Devpt (Tele-sales (Telemarketing))		Others
+487	jobDB	Sales, CS & Business Devpt (Wholesale)		Others
+488	jobDB	Sales, CS & Business Devpt (Others)		Others
+489	jobDB	Sciences, Lab, R&D (Chemical)		Others
+490	jobDB	Sciences, Lab, R&D (Energy / Natural Resources / Oil & Gas)		Others
+491	jobDB	Sciences, Lab, R&D (Environmental Science / Waste Management)		Others
+492	jobDB	Sciences, Lab, R&D (Food Science)		Others
+493	jobDB	Sciences, Lab, R&D (Laboratory)		Others
+494	jobDB	Sciences, Lab, R&D (Life Science)		Others
+495	jobDB	Sciences, Lab, R&D (Research & Development (R&D))		Others
+496	jobDB	Sciences, Lab, R&D (Others)		Others
+497	jobDB	Transportation & Logistics (Aerospace)		Others
+498	jobDB	Transportation & Logistics (Aviation Services)		Others
+499	jobDB	Transportation & Logistics (Documentary Credit / Bills Processing)		Others
+500	jobDB	Transportation & Logistics (Freight Forwarding)		Others
+501	jobDB	Transportation & Logistics (Fulfillment)		Others
+502	jobDB	Transportation & Logistics (Inventory / Warehousing)		Others
+503	jobDB	Transportation & Logistics (Maritime - General)		Others
+504	jobDB	Transportation & Logistics (Private Transportation)		Others
+505	jobDB	Transportation & Logistics (Public Transportation)		Others
+506	jobDB	Transportation & Logistics (Shipping)		Others
+507	jobDB	Transportation & Logistics (Supply Chain)		Others
+508	jobDB	Transportation & Logistics (Others)		Others
+509	jobDB	Others (Agriculture / Forestry / Fishing)		Others
+510	jobDB	Others (Entertainment - Artists / Singers / Musicians)		Others
+511	jobDB	Others (Junior Executive)		Others
+512	jobDB	Others (Security / Safety Control)		Others
+513	jobDB	Others (Student / Fresh Graduate / No Experience)		Others
+514	jobDB	Others (Technician)		Others
+515	jobDB	Others (Trading)		Others
+516	jobDB	Others (Others)		Others
+517	linkedin	Accounting	1	Accounting
+518	linkedin	Administrative		Others
+519	linkedin	Arts and Design		Others
+520	linkedin	Business Development		Others
+521	linkedin	Community & Social Services		Others
+522	linkedin	Consulting		Others
+523	linkedin	Education		Others
+524	linkedin	Engineering		Others
+525	linkedin	Entrepreneurship		Others
+526	linkedin	Finance		Others
+527	linkedin	Healthcare Services		Others
+528	linkedin	Human Resources		Others
+529	linkedin	Information Technology		Others
+530	linkedin	Legal		Others
+531	linkedin	Marketing		Others
+532	linkedin	Media & Communications		Others
+533	linkedin	Military & Protective Services		Others
+534	linkedin	Operations		Others
+535	linkedin	Product Management		Others
+536	linkedin	Program & Product Management		Others
+537	linkedin	Purchasing		Others
+538	linkedin	Quality Assurance		Others
+539	linkedin	Real Estate		Others
+540	linkedin	Rersearch		Others
+541	linkedin	Sales		Others
+542	linkedin	Support		Others
+543	indeed	Accounting	1	Accounting
+544	indeed	Finance		Others
+545	indeed	PR		Others
+546	indeed	Administrative		Others
+547	indeed	Food Service		Others
+548	indeed	Publishing		Others
+549	indeed	Advertising		Others
+550	indeed	Healthcare		Others
+551	indeed	Real Estate		Others
+552	indeed	Agriculture		Others
+553	indeed	Hospitality		Others
+554	indeed	Restaurant		Others
+555	indeed	Architecture		Others
+556	indeed	Human Resources		Others
+557	indeed	Resturant		Others
+558	indeed	Arts		Others
+559	indeed	Insurance		Others
+560	indeed	Retail		Others
+561	indeed	Banking		Others
+562	indeed	IT		Others
+563	indeed	Sales		Others
+564	indeed	Computer		Others
+565	indeed	Law Enforcement		Others
+566	indeed	Scientific		Others
+567	indeed	Construction		Others
+568	indeed	Legal		Others
+569	indeed	Security		Others
+570	indeed	Consulting		Others
+571	indeed	Loans		Others
+572	indeed	Social Care		Others
+573	indeed	Customer Service		Others
+574	indeed	Logistics		Others
+575	indeed	Telecommunications		Others
+576	indeed	Education		Others
+577	indeed	Management		Others
+578	indeed	Training		Others
+579	indeed	Energy		Others
+580	indeed	Manufacturing		Others
+581	indeed	Transportation		Others
+582	indeed	Engineer		Others
+583	indeed	Marketing		Others
+584	indeed	Travel		Others
+585	indeed	Engineering		Others
+586	indeed	Mechanical		Others
+587	indeed	Volunteering		Others
+588	indeed	Facilities		Others
+589	indeed	Pharmaceutical		Others
+590	glassdoor	Administrative		Others
+591	glassdoor	Arts & Design		Others
+592	glassdoor	Business		Others
+593	glassdoor	Consulting		Others
+594	glassdoor	Customer Services & Support		Others
+595	glassdoor	Education		Others
+596	glassdoor	Engineering		Others
+597	glassdoor	Finance & Accounting	5	Banking / Finance
+598	glassdoor	Healthcare		Others
+599	glassdoor	Human Resources		Others
+600	glassdoor	Information Technology		Others
+601	glassdoor	Legal		Others
+602	glassdoor	Marketing		Others
+603	glassdoor	Media & Communications		Others
+604	glassdoor	Military & Protective Services		Others
+605	glassdoor	Operations		Others
+606	glassdoor	Other		Others
+607	glassdoor	Product & Project Management		Others
+608	glassdoor	Research & Science		Others
+609	glassdoor	Retail & Food Services		Others
+610	glassdoor	Sales		Others
+611	glassdoor	Skilled Labor & Manufacturing		Others
+612	glassdoor	Transportation		Others
+613	jora	Accounting	1	Accounting
+614	jora	Administrative		Others
+615	jora	Agriculture		Others
+616	jora	Architecture		Others
+617	jora	Arts		Others
+618	jora	Banking		Others
+619	jora	Business		Others
+620	jora	Computer		Others
+621	jora	Construction		Others
+622	jora	Consulting		Others
+623	jora	Customer Service		Others
+624	jora	Education		Others
+625	jora	Energy		Others
+626	jora	Engineering		Others
+627	jora	Facilities		Others
+628	jora	Finance		Others
+629	jora	Food Service		Others
+630	jora	Healthcare		Others
+631	jora	Hospitality		Others
+632	jora	Human Resources		Others
+633	jora	IT		Others
+634	jora	Law Enforcement		Others
+635	jora	Legal		Others
+636	jora	Logistics		Others
+637	jora	Maintenance		Others
+638	jora	Management		Others
+639	jora	Manufacturing		Others
+640	jora	Marketing		Others
+641	jora	Mechanical		Others
+642	jora	Mining		Others
+643	jora	Pharmaceutical		Others
+644	jora	Publishing		Others
+645	jora	Real Estate		Others
+646	jora	Restaurant		Others
+647	jora	Retail		Others
+648	jora	Sales		Others
+649	jora	Scientific		Others
+650	jora	Security		Others
+651	jora	Social Estate		Others
+652	jora	Sport		Others
+653	jora	Training		Others
+654	jora	Transportation		Others
+655	jora	Travel		Others
+656	jora	Volunteering		Others
+657	ctgoodjobs	Accounting / Auditing	1	Accounting
+658	ctgoodjobs	Administration		Others
+659	ctgoodjobs	Banking / Finance		Others
+660	ctgoodjobs	Building / Construction		Others
+661	ctgoodjobs	Design		Others
+662	ctgoodjobs	Education		Others
+663	ctgoodjobs	Engineering		Others
+664	ctgoodjobs	Government / Public Sector		Others
+665	ctgoodjobs	Health / Beauty Care		Others
+666	ctgoodjobs	Hotel / Catering / Club		Others
+667	ctgoodjobs	Human Resources		Others
+668	ctgoodjobs	Information Technology		Others
+669	ctgoodjobs	Insurance		Others
+670	ctgoodjobs	Logistics / Transportation		Others
+671	ctgoodjobs	Manufacturing		Others
+672	ctgoodjobs	Marketing / Public Relations		Others
+673	ctgoodjobs	Media / Advertising		Others
+674	ctgoodjobs	Medical Services		Others
+675	ctgoodjobs	Merchandising / Purchasing		Others
+676	ctgoodjobs	NGO		Others
+677	ctgoodjobs	Others		Others
+678	ctgoodjobs	Professional Services		Others
+679	ctgoodjobs	Property		Others
+680	ctgoodjobs	Retail		Others
+681	ctgoodjobs	Sales / CS / Business Devpt		Others
+682	ctgoodjobs	Sciences / Lab / R&D		Others
+683	ctgoodjobs	Travel / Tourism		Others
+684	randstad	banking & financial services		Others
+685	randstad	information technology		Others
+686	randstad	marketing, digital & PR		Others
+687	randstad	human resources		Others
+688	randstad	sourcing & procurement		Others
+689	randstad	construction & property		Others
+690	randstad	administration & business support		Others
+691	randstad	sales		Others
+692	randstad	accounting & finance	5	Banking / Finance
+693	randstad	insurance		Others
+694	randstad	life sciences		Others
+695	randstad	supply chain		Others
+696	randstad	engineering		Others
+697	randstad	retail		Others
+698	randstad	legal		Others
+699	michael page	Healthcare (Healthcare)		Others
+700	michael page	Healthcare (Private Care)		Others
+701	michael page	Healthcare (Pharmacy)		Others
+702	michael page	Life Sciences (Clinical Operations )		Others
+703	michael page	Life Sciences (Regulatory Affairs)		Others
+704	michael page	Life Sciences (Medical Affairs)		Others
+705	michael page	Life Sciences (Medical devices)		Others
+706	michael page	construction (Architecture / Design)		Others
+707	michael page	Finance & Accounting (Accountant/Bookkeeper)	5	Banking / Finance
+708	michael page	Finance & Accounting (Internal Control)	5	Banking / Finance
+709	michael page	Finance & Accounting (Accounts Payable)	5	Banking / Finance
+710	michael page	Finance & Accounting (Financial Controller)	5	Banking / Finance
+711	michael page	Finance & Accounting (Financial Director / CFO)	5	Banking / Finance
+712	michael page	Finance & Accounting (Business Analysis / Systems Analysis)	5	Banking / Finance
+713	michael page	Finance & Accounting (Corporate Finance)	5	Banking / Finance
+714	michael page	Finance & Accounting (Investor Relations)	5	Banking / Finance
+715	michael page	Finance & Accounting (Management Accountant)	5	Banking / Finance
+716	michael page	Finance & Accounting (Group Consolidation)	5	Banking / Finance
+717	michael page	Finance & Accounting (Internal Audit)	5	Banking / Finance
+718	michael page	Finance & Accounting (Tax Practice)	5	Banking / Finance
+719	michael page	Finance & Accounting (Treasury)	5	Banking / Finance
+720	michael page	Engineering & Manufacturing (Engineering Design, R&D and NPI)		Others
+721	michael page	Engineering & Manufacturing (Quality, Technical)		Others
+722	michael page	Engineering & Manufacturing (Production, Manufacturing)		Others
+723	michael page	Engineering & Manufacturing (Project / Programme Management)		Others
+724	michael page	Engineering & Manufacturing (Field Services / Maintenance)		Others
+725	michael page	Engineering & Manufacturing (Chemical / Process)		Others
+726	michael page	Engineering & Manufacturing (Compliance / EHS)		Others
+727	michael page	Engineering & Manufacturing (Six Sigma, Lean, Process improvement)		Others
+728	michael page	Marketing (Product Manager)		Others
+729	michael page	Marketing (Marketing Communications)		Others
+730	michael page	Marketing (Public Relations / Corporate Communication)		Others
+731	michael page	Marketing (Analysis & Planning)		Others
+732	michael page	Marketing (Research)		Others
+733	michael page	Marketing (Brand & Design)		Others
+734	michael page	Marketing (Client/Investor Relations)		Others
+735	michael page	Marketing (General Management)		Others
+736	michael page	Marketing (Marketing Assistant)		Others
+737	michael page	Marketing (Marketing/Director/VP)		Others
+738	michael page	Marketing (Sales Promotion)		Others
+739	michael page	Sales (Business Development)		Others
+740	michael page	Sales (Account Manager)		Others
+741	michael page	Sales (Sales Manager/Director/VP)		Others
+742	michael page	Sales (Channel Sales)		Others
+743	michael page	Sales (General Management)		Others
+744	michael page	Secretarial & Business Support (Customer Services)		Others
+745	michael page	Secretarial & Business Support (Sales Support / Customer Service)		Others
+746	michael page	Human Resources (Recruitment)		Others
+747	michael page	Human Resources (HR Manager)		Others
+748	michael page	Human Resources (Compensation & Benefits)		Others
+749	michael page	Human Resources (Head of HR)		Others
+750	michael page	Human Resources (HR Business Partner)		Others
+751	michael page	Human Resources (HR Consultant)		Others
+752	michael page	Human Resources (Training Manager)		Others
+753	michael page	Procurement & Supply Chain (Direct Procurement)		Others
+754	michael page	Procurement & Supply Chain (Procurement Management)		Others
+755	michael page	Procurement & Supply Chain (Supply Chain Management)		Others
+756	michael page	Procurement & Supply Chain (Transport / Distribution Manager)		Others
+757	michael page	Procurement & Supply Chain (Warehouse Manager)		Others
+758	michael page	Legal (General Counsel)		Others
+759	michael page	Legal (Attorney)		Others
+760	michael page	Legal (Corporate)		Others
+761	michael page	Legal (Fraud / White Collar / Crime)		Others
+762	michael page	IT (IT Project & Programme Management)		Others
+763	michael page	IT (IT Support)		Others
+764	michael page	IT (IT Systems & Testing)		Others
+765	michael page	IT (Senior IT Management / CIO / CTO)		Others
+766	michael page	Banking & Financial Services (Equity Research)		Others
+767	michael page	Banking & Financial Services (Venture Capitalism & Private Equity)		Others
+768	michael page	Digital (Digital / Web Design)		Others
+769	michael page	Digital (User Experience)		Others
+770	michael page	Construction (Architecture / Design)		Others
+771	page personal	Banking & Financial Services ( Accountancy & Finance)		Others
+772	page personal	Banking & Financial Services ( Operations / Middle Office - Banking / Securities)		Others
+773	page personal	Banking & Financial Services ( Insurance / Actuarial)		Others
+774	page personal	Banking & Financial Services ( Back Office - Operations)		Others
+775	page personal	Banking & Financial Services ( Customer Service)		Others
+776	page personal	Banking & Financial Services ( Retail Banking - Financial Advisory / Personal)		Others
+777	page personal	Banking & Financial Services ( Compliance & Legal)		Others
+778	page personal	Banking & Financial Services ( Operations / Middle Office - Asset Management)		Others
+779	page personal	Banking & Financial Services ( Private Banker / RM / Wealth Manager)		Others
+780	page personal	Banking & Financial Services ( RM / Corporate Banker)		Others
+781	page personal	Banking & Financial Services ( Treasury)		Others
+782	page personal	Banking & Financial Services ( Sales & Trading)		Others
+783	page personal	Banking & Financial Services ( Audit)		Others
+784	page personal	Banking & Financial Services ( Corporate Finance / Mergers & Acquisitions)		Others
+785	page personal	Banking & Financial Services ( Quantitative Analysis)		Others
+786	page personal	Banking & Financial Services ( Risk Management)		Others
+787	page personal	Banking & Financial Services ( Credit Analysis & Research)		Others
+788	page personal	Banking & Financial Services ( Capital Markets / Equity)		Others
+789	page personal	Banking & Financial Services ( Portfolio / Fund / Asset Manager)		Others
+790	page personal	Banking & Financial Services ( Debt / Structured Finance)		Others
+791	page personal	Banking & Financial Services ( Product Control & Valuations)		Others
+792	page personal	Banking & Financial Services ( Research)		Others
+793	page personal	Banking & Financial Services ( Tax)		Others
+794	page personal	Banking & Financial Services ( Claims / Policy Admin)		Others
+795	page personal	Banking & Financial Services ( Underwriting)		Others
+796	page personal	Finance & Accounting ( Accountant)	5	Banking / Finance
+797	page personal	Finance & Accounting ( Assistant Accountant)	5	Banking / Finance
+798	page personal	Finance & Accounting ( Financial Analyst / Business Analyst)	5	Banking / Finance
+799	page personal	Finance & Accounting ( Accounts Payable)	5	Banking / Finance
+800	page personal	Finance & Accounting ( Accounting Manager/ Finance Manager)	5	Banking / Finance
+801	page personal	Finance & Accounting ( Accounts Receivable)	5	Banking / Finance
+802	page personal	Finance & Accounting ( Audit)	5	Banking / Finance
+803	page personal	Finance & Accounting ( Management Accountant)	5	Banking / Finance
+804	page personal	Finance & Accounting ( Credit Control)	5	Banking / Finance
+805	page personal	Finance & Accounting ( Financial Accountant)	5	Banking / Finance
+806	page personal	Finance & Accounting ( Treasury / Cashier)	5	Banking / Finance
+807	page personal	Finance & Accounting ( Bookkeeper)	5	Banking / Finance
+808	page personal	Finance & Accounting ( Payroll)	5	Banking / Finance
+809	page personal	Finance & Accounting ( Tax)	5	Banking / Finance
+810	page personal	Secretarial & Business Support ( Customer Services)		Others
+811	page personal	Secretarial & Business Support ( Administrator)		Others
+812	page personal	Secretarial & Business Support ( Legal Secretary)		Others
+813	page personal	Secretarial & Business Support ( Executive Assistant)		Others
+814	page personal	Secretarial & Business Support ( Receptionist)		Others
+815	page personal	Secretarial & Business Support ( Secretary)		Others
+816	page personal	Secretarial & Business Support ( Personal Assistant)		Others
+817	page personal	Secretarial & Business Support ( Sales Administration)		Others
+818	page personal	Secretarial & Business Support ( Office Assistant)		Others
+819	page personal	Secretarial & Business Support ( Office Manager)		Others
+820	page personal	Secretarial & Business Support ( Project Administrator)		Others
+821	page personal	Secretarial & Business Support ( Team Secretary)		Others
+822	page personal	Secretarial & Business Support ( Translator)		Others
+823	page personal	Secretarial & Business Support ( Data Entry)		Others
+824	page personal	Customer Service ( Customer Service Officer – Inbound)		Others
+825	page personal	Customer Service ( Call centre)		Others
+826	page personal	Customer Service ( Customer facing)		Others
+827	page personal	Customer Service ( Sales Administration)		Others
+828	page personal	Customer Service ( Sales support)		Others
+829	page personal	Customer Service ( Customer Service Manager)		Others
+830	page personal	Customer Service ( Supervisors / Team leaders)		Others
+831	page personal	Customer Service ( Claims & After Sales Services)		Others
+832	page personal	Customer Service ( Travel Agent)		Others
+833	page personal	Customer Service ( Customer Service Officer – Outbound)		Others
+834	page personal	Customer Service ( Sales Order Processing)		Others
+835	page personal	Sales ( Account Manager)		Others
+836	page personal	Sales ( FMCG & Consumer)		Others
+837	page personal	Sales ( New Business Development)		Others
+838	page personal	Sales ( Business Services)		Others
+839	page personal	Sales ( Healthcare / Pharmaceutical)		Others
+840	page personal	Sales ( IT & Telecommunications)		Others
+841	page personal	Sales ( Manufacturing)		Others
+842	page personal	Sales ( Financial & Professional Services)		Others
+843	page personal	Sales ( Property)		Others
+844	page personal	Sales ( Travel / Leisure / Hospitality)		Others
+845	page personal	Sales ( Agency)		Others
+846	page personal	IT ( IT Support)		Others
+847	page personal	IT ( IT Development)		Others
+848	page personal	IT ( IT Business Analyst)		Others
+849	page personal	IT ( IT Project & Programme Management)		Others
+850	page personal	IT ( IT Data Analysis)		Others
+851	page personal	IT ( IT Systems & Testing)		Others
+852	page personal	IT ( Systems Administration)		Others
+853	page personal	IT ( IT Architecture)		Others
+854	page personal	IT ( Networks)		Others
+855	page personal	IT ( Infrastructure)		Others
+856	page personal	IT ( IT Management)		Others
+857	page personal	IT ( Senior Technical)		Others
+858	page personal	IT ( Consulting)		Others
+859	page personal	IT ( Database Administration / Development)		Others
+860	page personal	IT ( IT Graduate)		Others
+861	page personal	IT ( Big Data)		Others
+862	page personal	IT ( Business Intelligence)		Others
+863	page personal	IT ( Corporate consultancy)		Others
+864	page personal	IT ( Pre-sales / Post-sales)		Others
+865	page personal	IT ( Security)		Others
+866	page personal	IT ( Service Management / Delivery)		Others
+867	page personal	IT ( Technical Writing / Training)		Others
+868	page personal	Marketing ( Marketing Communications)		Others
+869	page personal	Marketing ( Product Marketing)		Others
+870	page personal	Marketing ( Public Relations)		Others
+871	page personal	Marketing ( Retail)		Others
+872	page personal	Marketing ( Digital, Online & Social Media)		Others
+873	page personal	Marketing ( PR & Communication Agencies)		Others
+874	page personal	Marketing ( Research)		Others
+875	page personal	Marketing ( Exhibitions / Events & Experiential)		Others
+876	page personal	Marketing ( Financial Services)		Others
+877	page personal	Marketing ( Brand & Design)		Others
+878	page personal	Marketing ( CRM Agencies)		Others
+879	page personal	Marketing ( Marketing Assistant)		Others
+880	page personal	Marketing ( Business Services)		Others
+881	page personal	Marketing ( Advertising Agency)		Others
+882	page personal	Marketing ( Client/Investor Relations)		Others
+883	page personal	Marketing ( Creative)		Others
+884	page personal	Marketing ( Professional Services)		Others
+885	page personal	Marketing ( Media & Publishing)		Others
+886	page personal	Marketing ( Media Planning & Buying)		Others
+887	page personal	Procurement & Supply Chain ( Procurement Management)		Others
+888	page personal	Procurement & Supply Chain ( Quality Assurance)		Others
+889	page personal	Procurement & Supply Chain ( Logistics)		Others
+890	page personal	Procurement & Supply Chain ( Direct Procurement)		Others
+891	page personal	Procurement & Supply Chain ( Production Planning)		Others
+892	page personal	Procurement & Supply Chain ( Procurement / Spend Analysis)		Others
+893	page personal	Procurement & Supply Chain ( Indirect Procurement)		Others
+894	page personal	Procurement & Supply Chain ( Inventory Management)		Others
+895	page personal	Procurement & Supply Chain ( Customer Service)		Others
+896	page personal	Procurement & Supply Chain ( Demand Planning)		Others
+897	page personal	Procurement & Supply Chain ( Supply Chain Management)		Others
+898	page personal	Procurement & Supply Chain ( Contract & Vendor Management)		Others
+899	page personal	Procurement & Supply Chain ( Supply Chain Sales Forecast)		Others
+900	page personal	Procurement & Supply Chain ( Supply Planning)		Others
+901	page personal	Procurement & Supply Chain ( Import / Export)		Others
+902	page personal	Procurement & Supply Chain ( Warehouse Manager)		Others
+903	page personal	Procurement & Supply Chain ( 3PL)		Others
+904	page personal	Human Resources ( Recruitment)		Others
+905	page personal	Human Resources ( HR Generalist)		Others
+906	page personal	Human Resources ( Compensation & Benefits)		Others
+907	page personal	Human Resources ( HR Administrator)		Others
+908	page personal	Human Resources ( Learning & Development / Training)		Others
+909	page personal	Human Resources ( HR Assistant Manager/Manager)		Others
+910	page personal	Human Resources ( HR Officer)		Others
+911	page personal	Human Resources ( HR Business Partner)		Others
+912	page personal	Human Resources ( Talent Acquisition)		Others
+913	page personal	Human Resources ( HR Co-ordinator/Assistant)		Others
+914	page personal	Human Resources ( HR Payroll)		Others
+915	page personal	Human Resources ( HR Information System)		Others
+916	page personal	Human Resources ( HR Shared Service)		Others
+917	page personal	Human Resources ( Employee Relations)		Others
+918	page personal	Human Resources ( Global Mobility)		Others
+919	page personal	Human Resources ( HR Projects)		Others
+920	page personal	Engineering & Manufacturing ( Quality, Technical)		Others
+921	page personal	Engineering & Manufacturing ( Health, Safety & Environment)		Others
+922	page personal	Engineering & Manufacturing ( Production, Manufacturing)		Others
+923	page personal	Engineering & Manufacturing ( Project / Programme Management)		Others
+924	page personal	Engineering & Manufacturing ( Engineering Design and R&D)		Others
+925	page personal	Engineering & Manufacturing ( Electrical)		Others
+926	page personal	Engineering & Manufacturing ( Facilities Management / Technical Manager)		Others
+927	page personal	Engineering & Manufacturing ( General Management)		Others
+928	page personal	Engineering & Manufacturing ( Maintenance, Reliability)		Others
+929	page personal	Engineering & Manufacturing ( Operations Management)		Others
+930	page personal	Engineering & Manufacturing ( Drafting / CAD)		Others
+931	page personal	Engineering & Manufacturing ( Project Controls)		Others
+932	page personal	Engineering & Manufacturing ( Six Sigma, Lean, Process Improvement)		Others
+933	page personal	Engineering & Manufacturing ( Mechanical)		Others
+934	page personal	Digital ( Content)		Others
+935	page personal	Digital ( Online Marketing Management)		Others
+936	page personal	Digital ( Ecommerce)		Others
+937	page personal	Digital ( Design)		Others
+938	page personal	Digital ( Web Analytics)		Others
+939	page personal	Digital ( Social Media)		Others
+940	page personal	Digital ( User Experience)		Others
+941	page personal	Digital ( Digital / Web Design)		Others
+942	page personal	Digital ( SEM)		Others
+943	page personal	Digital ( Email & eCRM)		Others
+944	page personal	Digital ( SEO)		Others
+945	adecco	Accounting	1	Accounting
+946	adecco	Admin & HR		Others
+947	adecco	Banking / Finance		Others
+948	adecco	Beauty Care / Health		Others
+949	adecco	Building & Construction		Others
+950	adecco	Design		Others
+951	adecco	Education		Others
+952	adecco	Engineering		Others
+953	adecco	Others		Others
+954	adecco	Events & Exhibition		Others
+955	adecco	Hospitality / F & B		Others
+956	adecco	Information Technology (I.T.)		Others
+957	adecco	Insurance		Others
+958	adecco	Management		Others
+959	adecco	Manufacturing		Others
+960	adecco	Marketing / Public Relations		Others
+961	adecco	Media & Advertising		Others
+962	adecco	Japanese Speaking		Others
+963	adecco	Medical Services		Others
+964	adecco	Merchandising & Purchasing		Others
+965	adecco	Professional Services		Others
+966	adecco	Property / Real Estate		Others
+967	adecco	Public / Civil		Others
+968	adecco	Sales, CS & Business Devpt		Others
+969	adecco	Sciences, Lab, R&D		Others
+970	adecco	Transportation & Logistics		Others
+971	cpjobs	Accounting (Accountant)	1	Accounting
+972	cpjobs	Accounting (Accounting / Finance Manager)	1	Accounting
+973	cpjobs	Accounting (Accounts Clerk / Accounts Assistant)	1	Accounting
+974	cpjobs	Accounting (Audit)	1	Accounting
+975	cpjobs	Accounting (Compliance)	1	Accounting
+976	cpjobs	Accounting (Corporate Finance)	1	Accounting
+977	cpjobs	Accounting (Credit Control)	1	Accounting
+978	cpjobs	Accounting (Financial Analyst)	1	Accounting
+979	cpjobs	Accounting (Financial Controller)	1	Accounting
+980	cpjobs	Accounting (Management Consulting)	1	Accounting
+981	cpjobs	Accounting (Senior Management)	1	Accounting
+982	cpjobs	Accounting (Taxation)	1	Accounting
+983	cpjobs	Accounting (Treasury)	1	Accounting
+984	cpjobs	Accounting (Others)	1	Accounting
+985	cpjobs	Administration (Administration / Operation Manager)		Others
+986	cpjobs	Administration (Clerical / Admin / Operation)		Others
+987	cpjobs	Administration (Personal Assistant / Executive Assistant)		Others
+988	cpjobs	Administration (Receptionist)		Others
+989	cpjobs	Administration (Secretary)		Others
+990	cpjobs	Administration (Others)		Others
+991	cpjobs	Banking / Finance (Account / Relationship Management)		Others
+992	cpjobs	Banking / Finance (Asset Management)		Others
+993	cpjobs	Banking / Finance (Capital Markets)		Others
+994	cpjobs	Banking / Finance (Corporate Banking)		Others
+995	cpjobs	Banking / Finance (Corporate Finance)		Others
+996	cpjobs	Banking / Finance (Credit)		Others
+997	cpjobs	Banking / Finance (Dealing / Trading)		Others
+998	cpjobs	Banking / Finance (Debt / Fixed Income)		Others
+999	cpjobs	Banking / Finance (Derivatives / Equities)		Others
+1000	cpjobs	Banking / Finance (Fund Management / Hedge Fund)		Others
+1001	cpjobs	Banking / Finance (FX & Money Markets)		Others
+1002	cpjobs	Banking / Finance (General / Operations)		Others
+1003	cpjobs	Banking / Finance (Investment & Securities)		Others
+1004	cpjobs	Banking / Finance (Investment Banking / M & A)		Others
+1005	cpjobs	Banking / Finance (Investor Relations)		Others
+1006	cpjobs	Banking / Finance (Legal / Compliance)		Others
+1007	cpjobs	Banking / Finance (Loan / Mortgage)		Others
+1008	cpjobs	Banking / Finance (Private Banking / Wealth Management)		Others
+1009	cpjobs	Banking / Finance (Private Equity / Venture Capital)		Others
+1010	cpjobs	Banking / Finance (Project Management)		Others
+1011	cpjobs	Banking / Finance (Research / Analysis)		Others
+1012	cpjobs	Banking / Finance (Retail Banking / Branch Banking)		Others
+1013	cpjobs	Banking / Finance (Risk Management)		Others
+1014	cpjobs	Banking / Finance (Treasury)		Others
+1015	cpjobs	Banking / Finance (Others)		Others
+1016	cpjobs	Catering / Hospitality (Bartender / Barmaid / Sommelier)		Others
+1017	cpjobs	Catering / Hospitality (Cashier)		Others
+1018	cpjobs	Catering / Hospitality (Catering Service)		Others
+1019	cpjobs	Catering / Hospitality (Chef / Cook)		Others
+1020	cpjobs	Catering / Hospitality (Cleaner / Dishwasher / Kitchen Worker)		Others
+1021	cpjobs	Catering / Hospitality (Customer Service / Ambassador)		Others
+1022	cpjobs	Catering / Hospitality (Food & Beverage)		Others
+1023	cpjobs	Catering / Hospitality (Front Desk / Front Office)		Others
+1024	cpjobs	Catering / Hospitality (Housekeeping / Room Attendant)		Others
+1025	cpjobs	Catering / Hospitality (Restaurant / Store Manager)		Others
+1026	cpjobs	Catering / Hospitality (Waiter / Waitress)		Others
+1027	cpjobs	Catering / Hospitality (Others)		Others
+1028	cpjobs	Construction / Property (Architect)		Others
+1029	cpjobs	Construction / Property (Building & Construction)		Others
+1030	cpjobs	Construction / Property (Civil / Structural Engineering)		Others
+1031	cpjobs	Construction / Property (Electrical & Mechanical Engineering)		Others
+1032	cpjobs	Construction / Property (Extraction & Mining)		Others
+1033	cpjobs	Construction / Property (Operations / Facility / Property Management)		Others
+1034	cpjobs	Construction / Property (Project Management)		Others
+1035	cpjobs	Construction / Property (Property Agency)		Others
+1036	cpjobs	Construction / Property (Quantity Surveying / Quality Assurance)		Others
+1037	cpjobs	Construction / Property (Residential / Commercial Leasing)		Others
+1038	cpjobs	Construction / Property (Site Management)		Others
+1039	cpjobs	Construction / Property (Surveying / Valuations / Investment)		Others
+1040	cpjobs	Construction / Property (Trades & Skilled Labor)		Others
+1041	cpjobs	Construction / Property (Others)		Others
+1042	cpjobs	Design (Fashion Design)		Others
+1043	cpjobs	Design (Graphic Design)		Others
+1044	cpjobs	Design (Interior Design)		Others
+1045	cpjobs	Design (Product / Industrial Design)		Others
+1046	cpjobs	Design (Visual Merchandiser)		Others
+1047	cpjobs	Design (Web / Multi-media Design)		Others
+1048	cpjobs	Design (Others)		Others
+1049	cpjobs	Digital / Web / Mobile (App Development)		Others
+1050	cpjobs	Digital / Web / Mobile (Customer Relationship Management (CRM))		Others
+1051	cpjobs	Digital / Web / Mobile (Digital Marketing / Social Media)		Others
+1052	cpjobs	Digital / Web / Mobile (Game Development)		Others
+1053	cpjobs	Digital / Web / Mobile (Usability (UI/UX))		Others
+1054	cpjobs	Digital / Web / Mobile (Web Analytics)		Others
+1055	cpjobs	Digital / Web / Mobile (Webmaster / SEO)		Others
+1056	cpjobs	Digital / Web / Mobile (Others)		Others
+1057	cpjobs	Education / Training (Childcare)		Others
+1058	cpjobs	Education / Training (Library Services)		Others
+1059	cpjobs	Education / Training (Management - Schools / University / Vocational)		Others
+1060	cpjobs	Education / Training (Teacher - Early Child)		Others
+1061	cpjobs	Education / Training (Teacher - Higher Education)		Others
+1062	cpjobs	Education / Training (Teacher - Primary / Secondary)		Others
+1063	cpjobs	Education / Training (Teacher - Special Needs)		Others
+1064	cpjobs	Education / Training (Teacher - Tertiary / Vocational)		Others
+1065	cpjobs	Education / Training (Training & Development)		Others
+1066	cpjobs	Education / Training (Tutor / Teaching Assistant)		Others
+1067	cpjobs	Education / Training (Others)		Others
+1068	cpjobs	Engineering (Chemical Engineering)		Others
+1069	cpjobs	Engineering (Draftsman / CAD)		Others
+1070	cpjobs	Engineering (Electrical / Electronic Engineering)		Others
+1071	cpjobs	Engineering (Engineering Project Management)		Others
+1072	cpjobs	Engineering (Industrial Engineering)		Others
+1073	cpjobs	Engineering (Materials Handling Engineering)		Others
+1074	cpjobs	Engineering (Mechanical Engineering)		Others
+1075	cpjobs	Engineering (Telecommunication / Wireless / Radio)		Others
+1076	cpjobs	Engineering (Others)		Others
+1077	cpjobs	Government / Social Service (Community Services / Non-profit Organisations)		Others
+1078	cpjobs	Government / Social Service (Counselling / Social Work)		Others
+1079	cpjobs	Government / Social Service (Fund Raising)		Others
+1080	cpjobs	Government / Social Service (Government)		Others
+1081	cpjobs	Government / Social Service (Project / Program Development)		Others
+1082	cpjobs	Government / Social Service (Others)		Others
+1083	cpjobs	Health / Fitness / Beauty Care / Recreation (Beauty Care Services)		Others
+1084	cpjobs	Health / Fitness / Beauty Care / Recreation (Health Care Service)		Others
+1085	cpjobs	Health / Fitness / Beauty Care / Recreation (Nutrition)		Others
+1086	cpjobs	Health / Fitness / Beauty Care / Recreation (Sales / Customer Services)		Others
+1087	cpjobs	Health / Fitness / Beauty Care / Recreation (Spa / Massage)		Others
+1088	cpjobs	Health / Fitness / Beauty Care / Recreation (Sports / Fitness / Recreation)		Others
+1089	cpjobs	Health / Fitness / Beauty Care / Recreation (Therapy)		Others
+1090	cpjobs	Health / Fitness / Beauty Care / Recreation (Others)		Others
+1091	cpjobs	Human Resources (Compensation & Benefits)		Others
+1092	cpjobs	Human Resources (Employee Relations)		Others
+1093	cpjobs	Human Resources (Generalist HR)		Others
+1094	cpjobs	Human Resources (HR Director / Manager)		Others
+1095	cpjobs	Human Resources (HR Information System (HRIS))		Others
+1096	cpjobs	Human Resources (Recruitment / Executive Search)		Others
+1097	cpjobs	Human Resources (Training & Development)		Others
+1098	cpjobs	Human Resources (Others)		Others
+1099	cpjobs	Information Technology (Application Development)		Others
+1100	cpjobs	Information Technology (Database Administrator (DBA))		Others
+1101	cpjobs	Information Technology (Engineering - Hardware)		Others
+1102	cpjobs	Information Technology (Engineering - Network)		Others
+1103	cpjobs	Information Technology (Help Desk / IT Support)		Others
+1104	cpjobs	Information Technology (IT Management)		Others
+1105	cpjobs	Information Technology (IT Project Management)		Others
+1106	cpjobs	Information Technology (Information Services)		Others
+1107	cpjobs	Information Technology (Network / System Admin)		Others
+1108	cpjobs	Information Technology (Product Management / Development)		Others
+1109	cpjobs	Information Technology (Sales - Pre / Post)		Others
+1110	cpjobs	Information Technology (Security / Audit)		Others
+1111	cpjobs	Information Technology (Software Development)		Others
+1112	cpjobs	Information Technology (System / Business Analyst)		Others
+1113	cpjobs	Information Technology (System Architect)		Others
+1114	cpjobs	Information Technology (Team Leader)		Others
+1115	cpjobs	Information Technology (Technical Writing / Consulting)		Others
+1116	cpjobs	Information Technology (Telecommunication)		Others
+1117	cpjobs	Information Technology (Testing)		Others
+1118	cpjobs	Information Technology (Others)		Others
+1119	cpjobs	Insurance (Actuarial)		Others
+1120	cpjobs	Insurance (Claims)		Others
+1121	cpjobs	Insurance (Insurance Agent / Broker)		Others
+1122	cpjobs	Insurance (Underwriting)		Others
+1123	cpjobs	Insurance (Others)		Others
+1124	cpjobs	Legal / Professional Services (Business Consultancy)		Others
+1125	cpjobs	Legal / Professional Services (Company Secretary)		Others
+1126	cpjobs	Legal / Professional Services (Lawyer / Legal Services)		Others
+1127	cpjobs	Legal / Professional Services (Legal & Compliance)		Others
+1128	cpjobs	Legal / Professional Services (Paralegal / Legal support)		Others
+1129	cpjobs	Legal / Professional Services (Solicitor / Attorney)		Others
+1130	cpjobs	Legal / Professional Services (Translation)		Others
+1131	cpjobs	Legal / Professional Services (Others)		Others
+1132	cpjobs	Logistics / Transportation (Aviation Services)		Others
+1133	cpjobs	Logistics / Transportation (Couriers / Drivers)		Others
+1134	cpjobs	Logistics / Transportation (Customer Services)		Others
+1135	cpjobs	Logistics / Transportation (Freight / Cargo Forwarding)		Others
+1136	cpjobs	Logistics / Transportation (Planning & Analysis)		Others
+1137	cpjobs	Logistics / Transportation (Public Transportation)		Others
+1138	cpjobs	Logistics / Transportation (Sales / Business Development)		Others
+1139	cpjobs	Logistics / Transportation (Shipping)		Others
+1140	cpjobs	Logistics / Transportation (Supply Chain / Logistics)		Others
+1141	cpjobs	Logistics / Transportation (Warehousing / Storage / Distribution)		Others
+1142	cpjobs	Logistics / Transportation (General / Others)		Others
+1143	cpjobs	Management (General Management)		Others
+1144	cpjobs	Management (Top Executives (CEO, CFO, CTO, Director, MD))		Others
+1145	cpjobs	Manufacturing (Operations Management)		Others
+1146	cpjobs	Manufacturing (Printing)		Others
+1147	cpjobs	Manufacturing (Product Development / Product Management)		Others
+1148	cpjobs	Manufacturing (Production Planning / Control)		Others
+1149	cpjobs	Manufacturing (Quality Assurance / Control)		Others
+1150	cpjobs	Manufacturing (Others)		Others
+1151	cpjobs	Marketing / Public Relations (Management)		Others
+1152	cpjobs	Marketing / Public Relations (Marketing - Brand / Product Management)		Others
+1153	cpjobs	Marketing / Public Relations (Marketing - Communications)		Others
+1154	cpjobs	Marketing / Public Relations (Marketing - Corporate Communications)		Others
+1155	cpjobs	Marketing / Public Relations (Marketing - Customer / Trade Marketing)		Others
+1156	cpjobs	Marketing / Public Relations (Marketing - Digital Marketing)		Others
+1157	cpjobs	Marketing / Public Relations (Marketing - General / Support)		Others
+1158	cpjobs	Marketing / Public Relations (Marketing - Market Research)		Others
+1159	cpjobs	Marketing / Public Relations (Public Relation - Crisis Management)		Others
+1160	cpjobs	Marketing / Public Relations (Public Relation - Events Management)		Others
+1161	cpjobs	Marketing / Public Relations (Public Relation - General / Support)		Others
+1162	cpjobs	Marketing / Public Relations (Public Relation - Media / Investor Relations)		Others
+1163	cpjobs	Marketing / Public Relations (Others)		Others
+1164	cpjobs	Media / Advertising (Agency Account Servicing)		Others
+1165	cpjobs	Media / Advertising (Broadcasting - TV / Radio)		Others
+1166	cpjobs	Media / Advertising (Copy Writing)		Others
+1167	cpjobs	Media / Advertising (Creative / Design)		Others
+1168	cpjobs	Media / Advertising (Editorial / Journalism)		Others
+1169	cpjobs	Media / Advertising (Media / Advertising Sales)		Others
+1170	cpjobs	Media / Advertising (Media Strategy / Plan / Buy)		Others
+1171	cpjobs	Media / Advertising (Photography / Video)		Others
+1172	cpjobs	Media / Advertising (Print Media / Publishing)		Others
+1173	cpjobs	Media / Advertising (Production / Programming)		Others
+1174	cpjobs	Media / Advertising (Translation)		Others
+1175	cpjobs	Media / Advertising (Others)		Others
+1176	cpjobs	Medical Services (Doctor / Practitioner / Surgeon)		Others
+1177	cpjobs	Medical Services (Medical Services Technician)		Others
+1178	cpjobs	Medical Services (Nursing)		Others
+1179	cpjobs	Medical Services (Pharmaceutical)		Others
+1180	cpjobs	Medical Services (Specialist)		Others
+1181	cpjobs	Medical Services (Therapist)		Others
+1182	cpjobs	Medical Services (Others)		Others
+1183	cpjobs	Merchandising / Purchasing (Merchandising - Electronics)		Others
+1184	cpjobs	Merchandising / Purchasing (Merchandising - Footwear / Handbag / Accessories)		Others
+1185	cpjobs	Merchandising / Purchasing (Merchandising - Furniture / Appliances)		Others
+1186	cpjobs	Merchandising / Purchasing (Merchandising - Garment / Apparel)		Others
+1187	cpjobs	Merchandising / Purchasing (Merchandising - Stationery / Sundries)		Others
+1188	cpjobs	Merchandising / Purchasing (Merchandising - Toys)		Others
+1189	cpjobs	Merchandising / Purchasing (Merchandising - Watches / Jewellery)		Others
+1190	cpjobs	Merchandising / Purchasing (Purchasing / Procurement / Sourcing)		Others
+1191	cpjobs	Merchandising / Purchasing (Others)		Others
+1192	cpjobs	Quality Control / Quality Assurance (ISO, International Organization of Standardization)		Others
+1193	cpjobs	Quality Control / Quality Assurance (Quality Control & Assurance)		Others
+1194	cpjobs	Quality Control / Quality Assurance (Testing)		Others
+1195	cpjobs	Quality Control / Quality Assurance (Others)		Others
+1196	cpjobs	Sales / Business Development / Customer Service (Account Servicing)		Others
+1197	cpjobs	Sales / Business Development / Customer Service (Business Development)		Others
+1198	cpjobs	Sales / Business Development / Customer Service (Channel / Distribution)		Others
+1199	cpjobs	Sales / Business Development / Customer Service (Customer service / Sales Support)		Others
+1200	cpjobs	Sales / Business Development / Customer Service (Direct Sales)		Others
+1201	cpjobs	Sales / Business Development / Customer Service (Property Sales)		Others
+1202	cpjobs	Sales / Business Development / Customer Service (Retail Sales)		Others
+1203	cpjobs	Sales / Business Development / Customer Service (Sales Engineer / Technical Sales)		Others
+1204	cpjobs	Sales / Business Development / Customer Service (Sales Management)		Others
+1205	cpjobs	Sales / Business Development / Customer Service (Telemarketing / Call Centre)		Others
+1206	cpjobs	Sales / Business Development / Customer Service (Others)		Others
+1207	cpjobs	Science / Lab / Research (Biotechnology)		Others
+1208	cpjobs	Science / Lab / Research (Chemistry)		Others
+1209	cpjobs	Science / Lab / Research (Environmental Science / Waste Management)		Others
+1210	cpjobs	Science / Lab / Research (Laboratory)		Others
+1211	cpjobs	Science / Lab / Research (Life Science)		Others
+1212	cpjobs	Science / Lab / Research (Medical Science / Technology)		Others
+1213	cpjobs	Science / Lab / Research (Research & Development (R&D))		Others
+1214	cpjobs	Science / Lab / Research (Technician)		Others
+1215	cpjobs	Science / Lab / Research (Others)		Others
+1216	cpjobs	Security / Property Management / Safety Control (Guards, Security & Law Enforcement Workers)		Others
+1217	cpjobs	Security / Property Management / Safety Control (Property Management)		Others
+1218	cpjobs	Security / Property Management / Safety Control (Others)		Others
+1219	cpjobs	Travel / Tourism (Airline)		Others
+1220	cpjobs	Travel / Tourism (Customer Service / Guest Relations)		Others
+1221	cpjobs	Travel / Tourism (Entertainers)		Others
+1222	cpjobs	Travel / Tourism (Events / Conference)		Others
+1223	cpjobs	Travel / Tourism (Reservation / Ticketing)		Others
+1224	cpjobs	Travel / Tourism (Touring Guide / Travel Agency)		Others
+1225	cpjobs	Travel / Tourism (Others)		Others
+1226	cpjobs	Others (Animal Care)		Others
+1227	cpjobs	Others (Entertainment / Performance)		Others
+1228	cpjobs	Others (Graduate Trainee)		Others
+1229	cpjobs	Others (Horticulture / Agriculture / Forestry)		Others
+1230	cpjobs	Others (Management Trainee)		Others
+1231	cpjobs	Others (Security / Safety Control)		Others
+1232	cpjobs	Others (Others)		Others
+1233	efc	Information Technology (Other)		Others
+1234	efc	Information Technology (Development)		Others
+1235	efc	Information Technology (Engineering)		Others
+1236	efc	Information Technology (Project Management)		Others
+1237	efc	Information Technology (Development/Programming)		Others
+1238	efc	Information Technology (Business Analysis)		Others
+1239	efc	Information Technology (Architecture and design)		Others
+1240	efc	Information Technology (Fintech)		Others
+1241	efc	Information Technology (Data management)		Others
+1242	efc	Information Technology (Project / Programme management)		Others
+1243	efc	Information Technology (System Administration Support)		Others
+1244	efc	Information Technology (Strategy/Business Analyst)		Others
+1245	efc	Information Technology (Product management)		Others
+1246	efc	Information Technology (Cyber security)		Others
+1247	efc	Information Technology (Infrastructure)		Others
+1248	efc	Information Technology (Change and Transformation)		Others
+1249	efc	Information Technology (Digital Transformation)		Others
+1250	efc	Information Technology (Information security)		Others
+1251	efc	Information Technology (IT Service management)		Others
+1252	efc	Information Technology (Sales & Marketing)		Others
+1253	efc	Information Technology (Program management)		Others
+1254	efc	Information Technology (End user support/Help desk)		Others
+1255	efc	Information Technology (System/ Network Administration)		Others
+1256	efc	Information Technology (Quality management and testing)		Others
+1257	efc	Information Technology (Training)		Others
+1258	efc	Accounting & Finance (Other)	1	Accounting
+1259	efc	Accounting & Finance (Accounting)	1	Accounting
+1260	efc	Accounting & Finance (Audit)	1	Accounting
+1261	efc	Accounting & Finance (Tax)	1	Accounting
+1262	efc	Accounting & Finance (Financial/MGMT Accounting)	1	Accounting
+1263	efc	Accounting & Finance (Financial Control)	1	Accounting
+1264	efc	Accounting & Finance (Regulatory Reporting)	1	Accounting
+1265	efc	Accounting & Finance (Financial Advisory Services)	1	Accounting
+1266	efc	Accounting & Finance (Fund Administration)	1	Accounting
+1267	efc	Accounting & Finance (Change and Transformation)	1	Accounting
+1268	efc	Accounting & Finance (Consulting and Advisory)	1	Accounting
+1269	efc	Accounting & Finance (Treasury)	1	Accounting
+1270	efc	Accounting & Finance (Fund Accounting)	1	Accounting
+1271	efc	Accounting & Finance (Administration)	1	Accounting
+1272	efc	Accounting & Finance (Product Control)	1	Accounting
+1273	efc	Accounting & Finance (FD/CFO)	1	Accounting
+1274	efc	Accounting & Finance (Valuations)	1	Accounting
+1275	efc	Accounting & Finance (Newly/Part Qualified)	1	Accounting
+1276	efc	Accounting & Finance (Actuarial)	1	Accounting
+1277	efc	Accounting & Finance (Practice)	1	Accounting
+1278	efc	Investment Banking/M&A (Other)		Others
+1279	efc	Investment Banking/M&A (M&A/Corporate Finance)		Others
+1280	efc	Investment Banking/M&A (Operations)		Others
+1281	efc	Investment Banking/M&A (Corporate Finance/M&A)		Others
+1282	efc	Investment Banking/M&A (Accounting)		Others
+1283	efc	Investment Banking/M&A (Consulting and Advisory)		Others
+1284	efc	Investment Banking/M&A (Sales/Relationship Management)		Others
+1285	efc	Investment Banking/M&A (Portfolio & Investment Management)		Others
+1286	efc	Investment Banking/M&A (Compliance)		Others
+1287	efc	Investment Banking/M&A (Audit)		Others
+1288	efc	Investment Banking/M&A (Research & Business Analysis)		Others
+1289	efc	Investment Banking/M&A (Project management)		Others
+1290	efc	Investment Banking/M&A (Equities)		Others
+1291	efc	Investment Banking/M&A (Origination)		Others
+1292	efc	Investment Banking/M&A (Change and Transformation)		Others
+1293	efc	Investment Banking/M&A (Real Estate)		Others
+1294	efc	Investment Banking/M&A (Trading)		Others
+1295	efc	Investment Banking/M&A (Product Control)		Others
+1296	efc	Investment Banking/M&A (Administration)		Others
+1297	efc	Investment Banking/M&A (Structured Products)		Others
+1298	efc	Investment Banking/M&A (Credit)		Others
+1299	efc	Investment Banking/M&A (Investor Relations)		Others
+1300	efc	Investment Banking/M&A (Derivatives)		Others
+1301	efc	Investment Banking/M&A (Quant & Structuring)		Others
+1302	efc	Investment Banking/M&A (Commodities)		Others
+1303	efc	Investment Banking/M&A (FX)		Others
+1304	efc	Investment Banking/M&A (Broking)		Others
+1305	efc	Investment Banking/M&A (Prime Brokerage)		Others
+1306	efc	Investment Banking/M&A (Actuarial)		Others
+1307	efc	Investment Banking/M&A (Interest Rates)		Others
+1308	efc	Asset Management (Other)		Others
+1309	efc	Asset Management (Analyst)		Others
+1310	efc	Asset Management (Sales & Client Services)		Others
+1311	efc	Asset Management (Operations)		Others
+1312	efc	Asset Management (Accounting)		Others
+1313	efc	Asset Management (Fund management)		Others
+1314	efc	Asset Management (Portfolio Manager)		Others
+1315	efc	Asset Management (Product Manager)		Others
+1316	efc	Asset Management (Sales/Relationship Management)		Others
+1317	efc	Asset Management (Compliance)		Others
+1318	efc	Asset Management (Change and Transformation)		Others
+1319	efc	Asset Management (Corporate Finance/M&A)		Others
+1320	efc	Asset Management (Research & Business Analysis)		Others
+1321	efc	Asset Management (Consulting and Advisory)		Others
+1322	efc	Asset Management (Administration)		Others
+1323	efc	Asset Management (Real Estate)		Others
+1324	efc	Asset Management (Strategist/Economist)		Others
+1325	efc	Asset Management (Audit)		Others
+1326	efc	Asset Management (Quant & Structuring)		Others
+1327	efc	Asset Management (Equities)		Others
+1328	efc	Asset Management (Trading)		Others
+1329	efc	Asset Management (Credit)		Others
+1330	efc	Asset Management (Investor Relations)		Others
+1331	efc	Asset Management (Derivatives)		Others
+1332	efc	Asset Management (Investment Writer)		Others
+1333	efc	Asset Management (Product Control)		Others
+1334	efc	Asset Management (Structured Products)		Others
+1335	efc	Asset Management (Dealer)		Others
+1336	efc	Asset Management (Actuarial)		Others
+1337	efc	Asset Management (FX)		Others
+1338	efc	Asset Management (CIO)		Others
+1339	efc	Asset Management (Interest Rates)		Others
+1340	efc	Asset Management (Broking)		Others
+1341	efc	Asset Management (Commodities)		Others
+1342	efc	Operations (Other)		Others
+1343	efc	Operations (Project / Programme management)		Others
+1344	efc	Operations (Change and Transformation)		Others
+1345	efc	Operations (Trade Support)		Others
+1346	efc	Operations (Client services)		Others
+1347	efc	Operations (Business management)		Others
+1348	efc	Operations (Documentation)		Others
+1349	efc	Operations (Settlements)		Others
+1350	efc	Operations (Reconciliation)		Others
+1351	efc	Operations (OPERATIONS/LOADMINISTRATION)		Others
+1352	efc	Operations (Loan servicing)		Others
+1353	efc	Operations (Corporate action)		Others
+1354	efc	Operations (Clearing)		Others
+1355	efc	Operations (Credit analysis)		Others
+1356	efc	Operations (Collateral Management)		Others
+1357	efc	Risk Management (Other)		Others
+1358	efc	Risk Management (Operational)		Others
+1359	efc	Risk Management (Credit)		Others
+1360	efc	Risk Management (Market)		Others
+1361	efc	Risk Management (Audit)		Others
+1362	efc	Risk Management (Regulatory)		Others
+1363	efc	Risk Management (Consulting and Advisory)		Others
+1364	efc	Risk Management (Change and Transformation)		Others
+1365	efc	Risk Management (Liquidity / asset backed risk)		Others
+1366	efc	Risk Management (Project / Programme management)		Others
+1367	efc	Risk Management (Country)		Others
+1368	efc	Risk Management (Compliance/Legal)		Others
+1369	efc	Risk Management (Compliance Regulatory)		Others
+1370	efc	Risk Management (Other)		Others
+1371	efc	Risk Management (In-house Legal)		Others
+1372	efc	Corporate Banking (Other)		Others
+1373	efc	Corporate Banking (Relationship Management)		Others
+1374	efc	Corporate Banking (Transaction Banking)		Others
+1375	efc	Corporate Banking (Acquisition Finance)		Others
+1376	efc	Corporate Banking (Trade Finance)		Others
+1377	efc	Corporate Banking (Loans Syndication)		Others
+1378	efc	Corporate Banking (Structured/Tax Finance)		Others
+1379	efc	Corporate Banking (Project Finance/PFI)		Others
+1380	efc	Corporate Banking (Asset Finance/Leasing)		Others
+1381	efc	Corporate Banking (Leveraged Finance)		Others
+1382	efc	Consultancy		Others
+1383	efc	Retail Banking (Branch and Retail Services)		Others
+1384	efc	Retail Banking (Relationship management)		Others
+1385	efc	Retail Banking (Call Centers and Customer Service)		Others
+1386	efc	Retail Banking (Loans & credit)		Others
+1387	efc	Retail Banking (Business Banking)		Others
+1388	efc	Retail Banking (Insurance & investment)		Others
+1389	efc	Retail Banking (Deposits & savings)		Others
+1390	efc	Sales & Marketing		Others
+1391	efc	Private Banking & Wealth Management (Client Relations)		Others
+1392	efc	Private Banking & Wealth Management (Portfolio Management)		Others
+1393	efc	Private Banking & Wealth Management (Private Client)		Others
+1394	efc	Private Banking & Wealth Management (Product Specialisation)		Others
+1395	efc	Private Banking & Wealth Management (Financial Planning)		Others
+1396	efc	Private Banking & Wealth Management (Infrastructure)		Others
+1397	efc	Capital Markets (Other)		Others
+1398	efc	Capital Markets (Origination)		Others
+1399	efc	Capital Markets (Documentation Structuring)		Others
+1400	efc	Capital Markets (Execution)		Others
+1401	efc	Capital Markets (Securitisation)		Others
+1402	efc	Capital Markets (Syndication)		Others
+1403	efc	Credit		Others
+1404	efc	Information Services		Others
+1405	efc	Quantitative Analytics (Other)		Others
+1406	efc	Quantitative Analytics (Equity)		Others
+1407	efc	Quantitative Analytics (Interest Rates)		Others
+1408	efc	Quantitative Analytics (Credit)		Others
+1409	efc	Quantitative Analytics (FX)		Others
+1410	efc	Quantitative Analytics (Commodities)		Others
+1411	efc	Insurance (Other)		Others
+1412	efc	Insurance (Sales)		Others
+1413	efc	Insurance (Actuarial)		Others
+1414	efc	Insurance (Investment)		Others
+1415	efc	Insurance (Underwriting)		Others
+1416	efc	Insurance (Claims)		Others
+1417	efc	Insurance (Broker)		Others
+1418	efc	Hedge Funds (Other)		Others
+1419	efc	Hedge Funds (IT/Quant)		Others
+1420	efc	Hedge Funds (Finance Operations)		Others
+1421	efc	Hedge Funds (Research Analysis)		Others
+1422	efc	Hedge Funds (Sales & Marketing)		Others
+1423	efc	Hedge Funds (Portfolio Manager)		Others
+1424	efc	Hedge Funds (Trading)		Others
+1425	efc	Hedge Funds (Risk Management)		Others
+1426	efc	Hedge Funds (Prime Brokerage)		Others
+1427	efc	Hedge Funds (Structuring)		Others
+1428	efc	Private Equity & Venture Capital		Others
+1429	efc	Global Custody (Client Services)		Others
+1430	efc	Global Custody (Product Development Management)		Others
+1431	efc	Global Custody (Other)		Others
+1432	efc	Global Custody (Sales & Marketing)		Others
+1433	efc	Global Custody (Relationship Management)		Others
+1434	efc	Global Custody (Settlements)		Others
+1435	efc	HR & Recruitment (Other)		Others
+1436	efc	HR & Recruitment (HR Generalist)		Others
+1437	efc	HR & Recruitment (Recruitment)		Others
+1438	efc	HR & Recruitment (Compensation Benefits)		Others
+1439	efc	HR & Recruitment (Training & Development)		Others
+1440	efc	HR & Recruitment (Research)		Others
+1441	efc	Research		Others
+1442	efc	Trading (Other)		Others
+1443	efc	Trading (Capital markets)		Others
+1444	efc	Trading (Derivatives)		Others
+1445	efc	Trading (Equities)		Others
+1446	efc	Trading (Fixed Income)		Others
+1447	efc	Trading (Commodities)		Others
+1448	efc	Trading (FX Options)		Others
+1449	efc	Trading (Credit)		Others
+1450	efc	Trading (Interest Rates / OTC)		Others
+1451	efc	Trading (Listed Derivatives)		Others
+1452	efc	Trading (Forex)		Others
+1453	efc	Trading (OTC Derivatives)		Others
+1454	efc	Trading (FX Spots)		Others
+1455	efc	Trading (Money markets)		Others
+1456	efc	Trading (Swaps)		Others
+1457	efc	Equities (Other)		Others
+1458	efc	Equities (Research)		Others
+1459	efc	Equities (Trading)		Others
+1460	efc	Equities (Sales-Trading)		Others
+1461	efc	Equities (Sales)		Others
+1462	efc	Graduates & Internships (Graduate Trainee)		Others
+1463	efc	Graduates & Internships (Internships)		Others
+1464	efc	Graduates & Internships (Other)		Others
+1465	efc	Derivatives (Other)		Others
+1466	efc	Derivatives (Trading)		Others
+1467	efc	Derivatives (Sales & Marketing)		Others
+1468	efc	Derivatives (Research)		Others
+1469	efc	Derivatives (Structuring)		Others
+1470	efc	Investor Relations & PR (Communications & PR)		Others
+1471	efc	Investor Relations & PR (Investor Relations)		Others
+1472	efc	Investor Relations & PR (Other)		Others
+1473	efc	FX & Money Markets (Other)		Others
+1474	efc	FX & Money Markets (Sales)		Others
+1475	efc	FX & Money Markets (Trading)		Others
+1476	efc	FX & Money Markets (Sales-Trading)		Others
+1477	efc	FX & Money Markets (Research)		Others
+1478	efc	Real Estate		Others
+1479	efc	Debt/Fixed Income (Other)		Others
+1480	efc	Debt/Fixed Income (Sales)		Others
+1481	efc	Debt/Fixed Income (Research)		Others
+1482	efc	Debt/Fixed Income (Trading)		Others
+1483	efc	Debt/Fixed Income (Sales-Trading)		Others
+1484	efc	Commodities (Energy)		Others
+1485	efc	Commodities (Trading)		Others
+1486	efc	Commodities (Other)		Others
+1487	efc	Commodities (Sales)		Others
+1488	efc	Commodities (Research)		Others
+1489	efc	Investment Consulting		Others
+1490	efc	Industry & Commerce		Others
+1491	efc	Public Sector		Others
+1492	efc	Islamic Finance		Others

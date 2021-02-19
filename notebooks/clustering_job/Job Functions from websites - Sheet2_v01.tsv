@@ -1,0 +1,1131 @@
+ID	website	job_function	category_name	category_id	ADD_BY	by_k_means_cluster	is_mutiple
+1	JobsDB	Accounting (Accountant)	Accounting (Accountant)	a1	Ting	22	
+2	JobsDB	Accounting (Accounting Clerk / Supervisor)	Accounting (Accounting Clerk / Supervisor)	a2	Ting	22	
+3	JobsDB	Accounting (Audit)	Accounting (Audit)	a3	Ting	22	
+4	JobsDB	Accounting (Chief Accountant)	Accounting (Chief Accountant)	a4	Ting	22	
+5	JobsDB	Accounting (Consulting)	Accounting (Consulting)	a5	Ting	22	
+6	JobsDB	Accounting (Credit Control)	Accounting (Credit Control)	a6	Ting	16	
+7	JobsDB	Accounting (Finance / Accounting Manager)	Accounting (Finance / Accounting Manager)	a7	Ting	16	
+8	JobsDB	Accounting (Financial Analyst)	Accounting (Financial Analyst)	a8	Ting	22	
+9	JobsDB	Accounting (Financial Controller)	Accounting (Financial Controller)	a9	Ting	22	
+10	JobsDB	Accounting (Taxation)	Accounting (Taxation)	a10	Ting	22	
+11	JobsDB	Accounting (Treasurer)	Accounting (Treasurer)	a11	Ting	22	
+12	JobsDB	Accounting (Others)	Accounting (Others)	a12	Ting	22	
+13	JobsDB	Admin & HR (Administration / Operation Manager)	Admin & HR (Administration / Operation Manager)	b1	Ting	0	
+14	JobsDB	Admin & HR (Clerical / Admin Staff)	Admin & HR (Clerical / Admin Staff)	b2	Ting	0	
+15	JobsDB	Admin & HR (Compensation & Benefits)	Admin & HR (Compensation & Benefits)	b3	Ting	0	
+16	JobsDB	Admin & HR (HR Director / Manager)	Admin & HR (HR Director / Manager)	b4	Ting	0	
+17	JobsDB	Admin & HR (HR Supporting Staff)	Admin & HR (HR Supporting Staff)	b5	Ting	0	
+18	JobsDB	Admin & HR (Personal / Executive Assistant)	Admin & HR (Personal / Executive Assistant)	b6	Ting	0	
+19	JobsDB	Admin & HR (Receptionist)	Admin & HR (Receptionist)	b7	Ting	0	
+20	JobsDB	Admin & HR (Recruitment / Executive Search)	Admin & HR (Recruitment / Executive Search)	b8	Ting	0	
+21	JobsDB	Admin & HR (Secretary)	Admin & HR (Secretary)	b9	Ting	0	
+22	JobsDB	Admin & HR (Training & Development)	Admin & HR (Training & Development)	b10	Ting	0	
+23	JobsDB	Admin & HR (Others)	Admin & HR (Others)	b11	Ting	0	
+24	JobsDB	Banking / Finance (Analyst)	Banking / Finance (Analyst)	c1	Ting	2	
+25	JobsDB	Banking / Finance (Asset Management)	Banking / Finance (Asset Management)	c2	Ting	2	
+26	JobsDB	Banking / Finance (Corporate Banking)	Banking / Finance (Corporate Banking)	c3	Ting	2	
+27	JobsDB	Banking / Finance (Corporate Finance)	Banking / Finance (Corporate Finance)	c4	Ting	2	
+28	JobsDB	Banking / Finance (Credit Analysis / Approval)	Banking / Finance (Credit Analysis / Approval)	c5	Ting	2	
+29	JobsDB	Banking / Finance (Credit Collection)	Banking / Finance (Credit Collection)	c6	Ting	2	
+30	JobsDB	Banking / Finance (Dealing & Trading)	Banking / Finance (Dealing & Trading)	c7	Ting	2	
+31	JobsDB	Banking / Finance (Equities / Capital Markets)	Banking / Finance (Equities / Capital Markets)	c8	Ting	2	
+32	JobsDB	Banking / Finance (Financial Services)	Banking / Finance (Financial Services)	c9	Ting	2	
+33	JobsDB	Banking / Finance (Fund Management)	Banking / Finance (Fund Management)	c10	Ting	2	
+34	JobsDB	Banking / Finance (Investment)	Banking / Finance (Investment)	c11	Ting	2	
+35	JobsDB	Banking / Finance (Loan)	Banking / Finance (Loan)	c12	Ting	2	
+36	JobsDB	Banking / Finance (Mortgage)	Banking / Finance (Mortgage)	c13	Ting	2	
+37	JobsDB	Banking / Finance (Order Processing & Operation / Settlement)	Banking / Finance (Order Processing & Operation / Settlement)	c14	Ting	2	
+38	JobsDB	Banking / Finance (Private Banking)	Banking / Finance (Private Banking)	c15	Ting	2	
+39	JobsDB	Banking / Finance (Project Finance)	Banking / Finance (Project Finance)	c16	Ting	2	
+40	JobsDB	Banking / Finance (Risk Management)	Banking / Finance (Risk Management)	c17	Ting	2	
+41	JobsDB	Banking / Finance (Retail Banking)	Banking / Finance (Retail Banking)	c18	Ting	2	
+42	JobsDB	Banking / Finance (Treasury)	Banking / Finance (Treasury)	c19	Ting	2	
+43	JobsDB	Banking / Finance (Wealth Management)	Banking / Finance (Wealth Management)	c20	Ting	2	
+44	JobsDB	Banking / Finance (Others)	Banking / Finance (Others)	c21	Ting	2	
+45	JobsDB	Beauty Care / Health (Athletics / Fitness / Sports & Recreation)	Beauty Care / Health (Athletics / Fitness / Sports & Recreation)	d1	Ting	17	
+46	JobsDB	Beauty Care / Health (Beautician)	Beauty Care / Health (Beautician)	d2	Ting	17	
+47	JobsDB	Beauty Care / Health (Nutritionist)	Beauty Care / Health (Nutritionist)	d3	Ting	17	
+48	JobsDB	Beauty Care / Health (Therapist)	Beauty Care / Health (Therapist)	d4	Ting	17	
+49	JobsDB	Beauty Care / Health (Others)	Beauty Care / Health (Others)	d5	Ting	17	
+50	JobsDB	Building & Construction (Architectural Services)	Building & Construction (Architectural Services)	e1	Ting	12	
+51	JobsDB	Building & Construction (Building / Construction / QS)	Building & Construction (Building / Construction / QS)	e2	Ting	12	
+52	JobsDB	Building & Construction (Civil / Structural)	Building & Construction (Civil / Structural)	e3	Ting	12	
+53	JobsDB	Building & Construction (Others)	Building & Construction (Others)	e4	Ting	12	
+54	JobsDB	Design (Fashion)	Design (Fashion)	e5	Ting	14	
+55	JobsDB	Design (Graphics)	Design (Graphics)	e6	Ting	14	
+56	JobsDB	Design (Industrial / Product)	Design (Industrial / Product)	e7	Ting	14	
+57	JobsDB	Design (Interior)	Design (Interior)	e8	Ting	14	
+58	JobsDB	Design (Multi-media)	Design (Multi-media)	e9	Ting	14	
+59	JobsDB	Design (Visual Merchandising)	Design (Visual Merchandising)	e10	Ting	14	
+60	JobsDB	Design (Web Designer)	Design (Web Designer)	e11	Ting	14	
+61	JobsDB	Design (Others)	Design (Others)	e12	Ting	14	
+62	JobsDB	E-commerce (Business Development)	E-commerce (Business Development)	e13	Ting	6	
+63	JobsDB	E-commerce (Marketing - Brand / Product Management)	E-commerce (Marketing - Brand / Product Management)	e14	Ting	10	
+64	JobsDB	E-commerce (Product Management / Business Analyst)	E-commerce (Product Management / Business Analyst)	e15	Ting	10	
+65	JobsDB	E-commerce (Software Development)	E-commerce (Software Development)	e16	Ting	4	
+66	JobsDB	E-commerce (Supply Chain)	E-commerce (Supply Chain)	e17	Ting	10	
+67	JobsDB	E-commerce (Others)	E-commerce (Others)	e18	Ting	12	
+68	JobsDB	Education (Lecturer / Professor)	Education (Lecturer / Professor)	e19	Ting	11	
+69	JobsDB	Education (Librarian)	Education (Librarian)	e20	Ting	11	
+70	JobsDB	Education (Teacher)	Education (Teacher)	e21	Ting	11	
+71	JobsDB	Education (Tutor / Instructor)	Education (Tutor / Instructor)	e22	Ting	11	
+72	JobsDB	Education (Others)	Education (Others)	e23	Ting	11	
+73	JobsDB	Engineering (Chemical)	Engineering (Chemical)	f1	Ting	5	
+74	JobsDB	Engineering (Draftsman)	Engineering (Draftsman)	f2	Ting	5	
+75	JobsDB	Engineering (Electrical / Electronics)	Engineering (Electrical / Electronics)	f3	Ting	5	
+76	JobsDB	Engineering (Engineering Project Management)	Engineering (Engineering Project Management)	f4	Ting	5	
+77	JobsDB	Engineering (Manufacturing & Production)	Engineering (Manufacturing & Production)	f5	Ting	5	
+78	JobsDB	Engineering (Mechanical)	Engineering (Mechanical)	f6	Ting	5	
+79	JobsDB	Engineering (Telecommunication / Wireless / Radio)	Engineering (Telecommunication / Wireless / Radio)	f7	Ting	0	
+80	JobsDB	Engineering (Others)	Engineering (Others)	f8	Ting	5	
+81	JobsDB	Hospitality / F & B (Food & Beverage)	Hospitality / F & B (Food & Beverage)	g1	Ting	21	
+82	JobsDB	Hospitality / F & B (Hospitality / Hotel Services)	Hospitality / F & B (Hospitality / Hotel Services)	g2	Ting	21	
+83	JobsDB	Hospitality / F & B (Integrated Resort / Casino)	Hospitality / F & B (Integrated Resort / Casino)	g3	Ting	21	
+84	JobsDB	Hospitality / F & B (Tourism / Travel Agency)	Hospitality / F & B (Tourism / Travel Agency)	g4	Ting	19	
+85	JobsDB	Hospitality / F & B (Others)	Hospitality / F & B (Others)	g5	Ting	21	
+86	JobsDB	Information Technology (IT) (Application Specialist - Network)	Information Technology (IT) (Application Specialist - Network)	h1	Ting	8	
+87	JobsDB	Information Technology (IT) (Application Specialist - Software)	Information Technology (IT) (Application Specialist - Software)	h2	Ting	8	
+88	JobsDB	Information Technology (IT) (Data Scientist)	Information Technology (IT) (Data Scientist)	h3	Ting	8	
+89	JobsDB	Information Technology (IT) (DBA)	Information Technology (IT) (DBA)	h4	Ting	8	
+90	JobsDB	Information Technology (IT) (Hardware)	Information Technology (IT) (Hardware)	h5	Ting	8	
+91	JobsDB	Information Technology (IT) (IT - Webmaster / SEO)	Information Technology (IT) (IT - Webmaster / SEO)	h6	Ting	9	
+92	JobsDB	Information Technology (IT) (IT Auditing)	Information Technology (IT) (IT Auditing)	h7	Ting	9	
+93	JobsDB	Information Technology (IT) (IT Management)	Information Technology (IT) (IT Management)	h8	Ting	9	
+94	JobsDB	Information Technology (IT) (IT Project Management / Team Lead)	Information Technology (IT) (IT Project Management / Team Lead)	h9	Ting	9	
+95	JobsDB	Information Technology (IT) (Mobile / Wireless Communications)	Information Technology (IT) (Mobile / Wireless Communications)	h10	Ting	8	
+96	JobsDB	Information Technology (IT) (Network & System)	Information Technology (IT) (Network & System)	h11	Ting	8	
+97	JobsDB	Information Technology (IT) (Product Management / Business Analyst)	Information Technology (IT) (Product Management / Business Analyst)	h12	Ting	8	
+98	JobsDB	Information Technology (IT) (Security)	Information Technology (IT) (Security)	h13	Ting	8	
+99	JobsDB	Information Technology (IT) (Software Development)	Information Technology (IT) (Software Development)	h14	Ting	8	
+100	JobsDB	Information Technology (IT) (Support)	Information Technology (IT) (Support)	h15	Ting	8	
+101	JobsDB	Information Technology (IT) (Technical / Functional Consulting)	Information Technology (IT) (Technical / Functional Consulting)	h16	Ting	9	
+102	JobsDB	Information Technology (IT) (Technical Writing)	Information Technology (IT) (Technical Writing)	h17	Ting	8	
+103	JobsDB	Information Technology (IT) (Testing / QA)	Information Technology (IT) (Testing / QA)	h18	Ting	8	
+104	JobsDB	Information Technology (IT) (UI/UX Designer)	Information Technology (IT) (UI/UX Designer)	h19	Ting	8	
+105	JobsDB	Information Technology (IT) (Others)	Information Technology (IT) (Others)	h20	Ting	8	
+106	JobsDB	Insurance (Actuarial)	Insurance (Actuarial)	i1	Ting	18	
+107	JobsDB	Insurance (Claims Officer)	Insurance (Claims Officer)	i2	Ting	18	
+108	JobsDB	Insurance (Insurance Agent / Broker)	Insurance (Insurance Agent / Broker)	i3	Ting	18	
+109	JobsDB	Insurance (Underwriter)	Insurance (Underwriter)	i4	Ting	18	
+110	JobsDB	Insurance (Others)	Insurance (Others)	i5	Ting	18	
+111	JobsDB	Management (General Management)	Management (General Management)	i6	Ting	10	
+112	JobsDB	Management (Management Trainee)	Management (Management Trainee)	i7	Ting	10	
+113	JobsDB	Management (Top Executives (CEO, CFO, CTO, GM, MD etc.))	Management (Top Executives (CEO, CFO, CTO, GM, MD etc.))	i8	Ting	15	
+114	JobsDB	Manufacturing (Garment/ Textile)	Manufacturing (Garment/ Textile)	j1	Ting	5	
+115	JobsDB	Manufacturing (General / Production Workers)	Manufacturing (General / Production Workers)	j2	Ting	5	
+116	JobsDB	Manufacturing (Jewelry)	Manufacturing (Jewelry)	j3	Ting	5	
+117	JobsDB	Manufacturing (Manufacturing Management)	Manufacturing (Manufacturing Management)	j4	Ting	5	
+118	JobsDB	Manufacturing (Printing)	Manufacturing (Printing)	j5	Ting	5	
+119	JobsDB	Manufacturing (Product Development / Management)	Manufacturing (Product Development / Management)	j6	Ting	10	
+120	JobsDB	Manufacturing (Production Planning / Control)	Manufacturing (Production Planning / Control)	j7	Ting	0	
+121	JobsDB	Manufacturing (Quality Assurance, Control & Testing / ISO)	Manufacturing (Quality Assurance, Control & Testing / ISO)	j8	Ting	0	
+122	JobsDB	Manufacturing (Others)	Manufacturing (Others)	j9	Ting	5	
+123	JobsDB	Marketing / Public Relations (Digital Marketing)	Marketing / Public Relations (Digital Marketing)	k1	Ting	6	
+124	JobsDB	Marketing / Public Relations (Management)	Marketing / Public Relations (Management)	k2	Ting	6	
+125	JobsDB	Marketing / Public Relations (Marketing - Brand / Product Management)	Marketing / Public Relations (Marketing - Brand / Product Management)	k3	Ting	6	
+126	JobsDB	Marketing / Public Relations (Marketing - Direct Marketing)	Marketing / Public Relations (Marketing - Direct Marketing)	k4	Ting	6	
+127	JobsDB	Marketing / Public Relations (Marketing - General / Support)	Marketing / Public Relations (Marketing - General / Support)	k5	Ting	6	
+128	JobsDB	Marketing / Public Relations (Marketing - Market Research)	Marketing / Public Relations (Marketing - Market Research)	k6	Ting	6	
+129	JobsDB	Marketing / Public Relations (Marketing - Marketing Communication)	Marketing / Public Relations (Marketing - Marketing Communication)	k7	Ting	6	
+130	JobsDB	Marketing / Public Relations (Public Relations - Copy-writing)	Marketing / Public Relations (Public Relations - Copy-writing)	k8	Ting	6	
+131	JobsDB	Marketing / Public Relations (Public Relations - Event Management)	Marketing / Public Relations (Public Relations - Event Management)	k9	Ting	6	
+132	JobsDB	Marketing / Public Relations (Public Relations - General / Support)	Marketing / Public Relations (Public Relations - General / Support)	k10	Ting	6	
+133	JobsDB	Marketing / Public Relations (Others)	Marketing / Public Relations (Others)	k11	Ting	6	
+134	JobsDB	Media & Advertising (Editorial / Journalism)	Media & Advertising (Editorial / Journalism)	l1	Ting	1	
+135	JobsDB	Media & Advertising (Account Servicing)	Media & Advertising (Account Servicing)	l2	Ting	1	
+136	JobsDB	Media & Advertising (Broadcasting - TV / Radio)	Media & Advertising (Broadcasting - TV / Radio)	l3	Ting	1	
+137	JobsDB	Media & Advertising (Creative / Design)	Media & Advertising (Creative / Design)	l4	Ting	1	
+138	JobsDB	Media & Advertising (Media Buying)	Media & Advertising (Media Buying)	l5	Ting	1	
+139	JobsDB	Media & Advertising (Photography / Video)	Media & Advertising (Photography / Video)	l6	Ting	1	
+140	JobsDB	Media & Advertising (Print Media)	Media & Advertising (Print Media)	l7	Ting	1	
+141	JobsDB	Media & Advertising (Production)	Media & Advertising (Production)	l8	Ting	1	
+142	JobsDB	Media & Advertising (Strategic Planning)	Media & Advertising (Strategic Planning)	l9	Ting	1	
+143	JobsDB	Media & Advertising (Others)	Media & Advertising (Others)	l10	Ting	1	
+144	JobsDB	Medical Services (Doctor / Practitioner / Surgeon)	Medical Services (Doctor / Practitioner / Surgeon)	m1	Ting	20	
+145	JobsDB	Medical Services (Medical Services Technician)	Medical Services (Medical Services Technician)	m2	Ting	20	
+146	JobsDB	Medical Services (Nursing)	Medical Services (Nursing)	m3	Ting	20	
+147	JobsDB	Medical Services (Pharmaceutical)	Medical Services (Pharmaceutical)	m4	Ting	20	
+148	JobsDB	Medical Services (Specialist)	Medical Services (Specialist)	m5	Ting	20	
+149	JobsDB	Medical Services (Therapist)	Medical Services (Therapist)	m6	Ting	20	
+150	JobsDB	Medical Services (Others)	Medical Services (Others)	m7	Ting	20	
+151	JobsDB	Merchandising & Purchasing (Electronics)	Merchandising & Purchasing (Electronics)	n1	Ting	3	
+152	JobsDB	Merchandising & Purchasing (Fabrics)	Merchandising & Purchasing (Fabrics)	n2	Ting	3	
+153	JobsDB	Merchandising & Purchasing (Footwear)	Merchandising & Purchasing (Footwear)	n3	Ting	3	
+154	JobsDB	Merchandising & Purchasing (Furniture)	Merchandising & Purchasing (Furniture)	n4	Ting	3	
+155	JobsDB	Merchandising & Purchasing (Handbag)	Merchandising & Purchasing (Handbag)	n5	Ting	3	
+156	JobsDB	Merchandising & Purchasing (Home Appliances)	Merchandising & Purchasing (Home Appliances)	n6	Ting	3	
+157	JobsDB	Merchandising & Purchasing (Procurement / Purchasing / Sourcing)	Merchandising & Purchasing (Procurement / Purchasing / Sourcing)	n7	Ting	3	
+158	JobsDB	Merchandising & Purchasing (PVC)	Merchandising & Purchasing (PVC)	n8	Ting	3	
+159	JobsDB	Merchandising & Purchasing (Stationery)	Merchandising & Purchasing (Stationery)	n9	Ting	3	
+160	JobsDB	Merchandising & Purchasing (Sundries)	Merchandising & Purchasing (Sundries)	n10	Ting	3	
+161	JobsDB	Merchandising & Purchasing (Sweater)	Merchandising & Purchasing (Sweater)	n11	Ting	3	
+162	JobsDB	Merchandising & Purchasing (Textiles)	Merchandising & Purchasing (Textiles)	n12	Ting	3	
+163	JobsDB	Merchandising & Purchasing (Toy)	Merchandising & Purchasing (Toy)	n13	Ting	3	
+164	JobsDB	Merchandising & Purchasing (Watch)	Merchandising & Purchasing (Watch)	n14	Ting	3	
+165	JobsDB	Merchandising & Purchasing (Woven / Knit)	Merchandising & Purchasing (Woven / Knit)	n15	Ting	3	
+166	JobsDB	Merchandising & Purchasing (Others)	Merchandising & Purchasing (Others)	n16	Ting	3	
+167	JobsDB	Professional Services (Business Analysis / Data Analysis)	Professional Services (Business Analysis / Data Analysis)	o1	Ting	4	
+168	JobsDB	Professional Services (Business Consultancy)	Professional Services (Business Consultancy)	o2	Ting	7	
+169	JobsDB	Professional Services (Company Secretary)	Professional Services (Company Secretary)	o3	Ting	7	
+170	JobsDB	Professional Services (Legal & Compliance)	Professional Services (Legal & Compliance)	o4	Ting	7	
+171	JobsDB	Professional Services (Translation)	Professional Services (Translation)	o5	Ting	7	
+172	JobsDB	Property / Real Estate (Property Consultancy)	Property / Real Estate (Property Consultancy)	p1	Ting	23	
+173	JobsDB	Property / Real Estate (Property Management)	Property / Real Estate (Property Management)	p2	Ting	23	
+174	JobsDB	Property / Real Estate (Others)	Property / Real Estate (Others)	p3	Ting	23	
+175	JobsDB	Public / Civil (Civil Services)	Public / Civil (Civil Services)	q1	Ting	6	
+176	JobsDB	Public / Civil (Counseling)	Public / Civil (Counseling)	q2	Ting	6	
+177	JobsDB	Public / Civil (Social Services - Community / Non-profit Organization)	Public / Civil (Social Services - Community / Non-profit Organization)	q3	Ting	6	
+178	JobsDB	Public / Civil (Utilities)	Public / Civil (Utilities)	q4	Ting	6	
+179	JobsDB	Public / Civil (Others)	Public / Civil (Others)	q5	Ting	12	
+180	JobsDB	Sales, CS & Business Devpt (Account Servicing)	Sales, CS & Business Devpt (Account Servicing)	r1	Ting	6	
+181	JobsDB	Sales, CS & Business Devpt (Business Development)	Sales, CS & Business Devpt (Business Development)	r2	Ting	6	
+182	JobsDB	Sales, CS & Business Devpt (Call Centre)	Sales, CS & Business Devpt (Call Centre)	r3	Ting	6	
+183	JobsDB	Sales, CS & Business Devpt (Channel / Distribution)	Sales, CS & Business Devpt (Channel / Distribution)	r4	Ting	6	
+184	JobsDB	Sales, CS & Business Devpt (Customer Service - Manager)	Sales, CS & Business Devpt (Customer Service - Manager)	r5	Ting	6	
+185	JobsDB	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6	Ting	6	
+186	JobsDB	Sales, CS & Business Devpt (Direct Sales)	Sales, CS & Business Devpt (Direct Sales)	r7	Ting	6	
+187	JobsDB	Sales, CS & Business Devpt (Retail Sales)	Sales, CS & Business Devpt (Retail Sales)	r8	Ting	6	
+188	JobsDB	Sales, CS & Business Devpt (Sales - Real Estate)	Sales, CS & Business Devpt (Sales - Real Estate)	r9	Ting	6	
+189	JobsDB	Sales, CS & Business Devpt (Sales - Sales Management)	Sales, CS & Business Devpt (Sales - Sales Management)	r10	Ting	6	
+190	JobsDB	Sales, CS & Business Devpt (Sales Administration)	Sales, CS & Business Devpt (Sales Administration)	r11	Ting	6	
+191	JobsDB	Sales, CS & Business Devpt (Technical Sales / Sales Engineer)	Sales, CS & Business Devpt (Technical Sales / Sales Engineer)	r12	Ting	6	
+192	JobsDB	Sales, CS & Business Devpt (Tele-sales (Telemarketing))	Sales, CS & Business Devpt (Tele-sales (Telemarketing))	r13	Ting	6	
+193	JobsDB	Sales, CS & Business Devpt (Wholesale)	Sales, CS & Business Devpt (Wholesale)	r14	Ting	6	
+194	JobsDB	Sales, CS & Business Devpt (Others)	Sales, CS & Business Devpt (Others)	r15	Ting	6	
+195	JobsDB	Sciences, Lab, R&D (Chemical)	Sciences, Lab, R&D (Chemical)	s1	Ting	7	
+196	JobsDB	Sciences, Lab, R&D (Energy / Natural Resources / Oil & Gas)	Sciences, Lab, R&D (Energy / Natural Resources / Oil & Gas)	s2	Ting	5	
+197	JobsDB	Sciences, Lab, R&D (Environmental Science / Waste Management)	Sciences, Lab, R&D (Environmental Science / Waste Management)	s3	Ting	10	
+198	JobsDB	Sciences, Lab, R&D (Food Science)	Sciences, Lab, R&D (Food Science)	s4	Ting	7	
+199	JobsDB	Sciences, Lab, R&D (Laboratory)	Sciences, Lab, R&D (Laboratory)	s5	Ting	7	
+200	JobsDB	Sciences, Lab, R&D (Life Science)	Sciences, Lab, R&D (Life Science)	s6	Ting	4	
+201	JobsDB	Sciences, Lab, R&D (Research & Development (R&D))	Sciences, Lab, R&D (Research & Development (R&D))	s7	Ting	4	
+202	JobsDB	Sciences, Lab, R&D (Others)	Sciences, Lab, R&D (Others)	s8	Ting	7	
+203	JobsDB	Transportation & Logistics (Aerospace)	Transportation & Logistics (Aerospace)	t1	Ting	24	
+204	JobsDB	Transportation & Logistics (Aviation Services)	Transportation & Logistics (Aviation Services)	t2	Ting	24	
+205	JobsDB	Transportation & Logistics (Documentary Credit / Bills Processing)	Transportation & Logistics (Documentary Credit / Bills Processing)	t3	Ting	24	
+206	JobsDB	Transportation & Logistics (Freight Forwarding)	Transportation & Logistics (Freight Forwarding)	t4	Ting	24	
+207	JobsDB	Transportation & Logistics (Fulfillment)	Transportation & Logistics (Fulfillment)	t5	Ting	24	
+208	JobsDB	Transportation & Logistics (Inventory / Warehousing)	Transportation & Logistics (Inventory / Warehousing)	t6	Ting	24	
+209	JobsDB	Transportation & Logistics (Maritime - General)	Transportation & Logistics (Maritime - General)	t7	Ting	24	
+210	JobsDB	Transportation & Logistics (Private Transportation)	Transportation & Logistics (Private Transportation)	t8	Ting	24	
+211	JobsDB	Transportation & Logistics (Public Transportation)	Transportation & Logistics (Public Transportation)	t9	Ting	24	
+212	JobsDB	Transportation & Logistics (Shipping)	Transportation & Logistics (Shipping)	t10	Ting	24	
+213	JobsDB	Transportation & Logistics (Supply Chain)	Transportation & Logistics (Supply Chain)	t11	Ting	24	
+214	JobsDB	Transportation & Logistics (Others)	Transportation & Logistics (Others)	t12	Ting	24	
+215	JobsDB	Others (Agriculture / Forestry / Fishing)	Others (Agriculture / Forestry / Fishing)	u1	Ting	19	
+216	JobsDB	Others (Entertainment - Artists / Singers / Musicians)	Others (Entertainment - Artists / Singers / Musicians)	u2	Ting	12	
+217	JobsDB	Others (Junior Executive)	Others (Junior Executive)	u3	Ting	12	
+218	JobsDB	Others (Security / Safety Control)	Others (Security / Safety Control)	u4	Ting	12	
+219	JobsDB	Others (Student / Fresh Graduate / No Experience)	Others (Student / Fresh Graduate / No Experience)	u5	Ting	7	
+220	JobsDB	Others (Technician)	Others (Technician)	u6	Ting	12	
+221	JobsDB	Others (Trading)	Others (Trading)	u7	Ting	12	
+222	JobsDB	Others (Others)	Others (Others)	u8	Ting	12	
+543	indeed	Accounting	Accounting (Others)	a12	Ting	22	
+544	indeed	Finance	Banking / Finance (Others)	c21	Ting	16	
+545	indeed	PR	Marketing / Public Relations (Public Relations - General / Support)	k10	Ting	11	
+546	indeed	Administrative	Admin & HR (Others)	b11	Ting	25	
+547	indeed	Food Service	Hospitality / F & B (Food & Beverage)	g1	Ting	6	
+548	indeed	Publishing	Media & Advertising (Print Media)	l7		17	
+549	indeed	Advertising	Media & Advertising (Others)	l10	Ting	1	
+550	indeed	Healthcare	Beauty Care / Health (Others)	d5	Ting	19	
+551	indeed	Real Estate	Property / Real Estate (Others)	p3	Ting	17	
+552	indeed	Agriculture	Others (Agriculture / Forestry / Fishing)	u1	Ting	25	
+553	indeed	Hospitality	Hospitality / F & B (Others)	g5	Ting	21	
+554	indeed	Restaurant	Hospitality / F & B (Food & Beverage)	g1	Ting	21	
+555	indeed	Architecture	Building & Construction (Architectural Services)	e1	Ting	17	
+556	indeed	Human Resources	Admin & HR (Others)	b11	Ting	11	
+557	indeed	Resturant	Hospitality / F & B (Food & Beverage)	g1	Ting	22	
+558	indeed	Arts	Others (Entertainment - Artists / Singers / Musicians)	u2	Sun	14	
+559	indeed	Insurance	Insurance (Others)	i5	Sun	18	
+560	indeed	Retail	Sales, CS & Business Devpt (Retail Sales)	r8	Sun	4	
+561	indeed	Banking	Banking / Finance (Others)	c21	Sun	2	
+562	indeed	IT	Information Technology (IT) (Others)	h20	Sun	9	
+563	indeed	Sales	Sales, CS & Business Devpt (Direct Sales)	r7	Sun	6	
+564	indeed	Computer	Information Technology (IT) (Hardware)	h5	Sun	25	
+565	indeed	Law Enforcement	Professional Services (Legal & Compliance)	o4	Sun	0	
+566	indeed	Scientific	Sciences, Lab, R&D (Others)	s8	Sun	11	
+567	indeed	Construction	Building & Construction (Building / Construction / QS)	e2	Sun	23	
+568	indeed	Legal	Professional Services (Legal & Compliance)	o4	Sun	7	
+569	indeed	Security	Others (Security / Safety Control)	u4	Sun	12	
+570	indeed	Consulting	Accounting (Consulting)	a5	Sun	19	
+571	indeed	Loans	Banking / Finance (Loan)	c12	Sun	23	
+572	indeed	Social Care	Public / Civil (Social Services - Community / Non-profit Organization)	q3	Sun	17	
+573	indeed	Customer Service	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6	Sun	6	
+574	indeed	Logistics	Transportation & Logistics (Others)	t12	Sun	24	
+575	indeed	Telecommunications	Engineering (Telecommunication / Wireless / Radio)	f7	Sun	14	
+576	indeed	Education	Education (Others)	e23	Sun	11	
+577	indeed	Management	Management (General Management)	i6	Sun	10	
+578	indeed	Training	Admin & HR (Training & Development)	b10	Sun	11	
+579	indeed	Energy	Sciences, Lab, R&D (Energy / Natural Resources / Oil & Gas)	s2	Sun	14	
+580	indeed	Manufacturing	Manufacturing (Others)	j9	Sun	5	
+581	indeed	Transportation	Transportation & Logistics (Others)	t12	Sun	24	
+582	indeed	Engineer	Engineering (Others)	f8	Sun	1	
+583	indeed	Marketing	Marketing / Public Relations (Marketing - General / Support)	k5	Sun	6	
+584	indeed	Travel	Hospitality / F & B (Tourism / Travel Agency)	g4	Sun	19	
+585	indeed	Engineering	Engineering (Others)	f8	Sun	5	
+586	indeed	Mechanical	Engineering (Mechanical)	f6	Sun	24	
+587	indeed	Volunteering	Public / Civil (Social Services - Community / Non-profit Organization)	q3	Sun	1	
+588	indeed	Facilities	Building & Construction (Building / Construction / QS)	e2	Sun	26	
+589	indeed	Pharmaceutical	Medical Services (Pharmaceutical)	m4	Sun	20	
+590	glassdoor	Administrative	Admin & HR (Administration / Operation Manager)	b1	Sun	25	
+591	glassdoor	Arts & Design	Design (Graphics)	e6	Sun	14	
+592	glassdoor	Business	Sales, CS & Business Devpt (Others)	r15	Sun	12	
+593	glassdoor	Consulting	Professional Services (Business Consultancy)	o2	Omar	19	
+594	glassdoor	Customer Services & Support	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6	Sun	4	
+595	glassdoor	Education	Education (Others)	e23	Sun	11	
+596	glassdoor	Engineering	Engineering (Others)	f8	Sun	5	
+597	glassdoor	Finance & Accounting	Accounting (Finance / Accounting Manager)	a7	Sun	16	
+598	glassdoor	Healthcare	Beauty Care / Health (Others)	d5	Sun	19	
+599	glassdoor	Human Resources	Admin & HR (Others)	b11	Sun	11	
+600	glassdoor	Information Technology	Information Technology (IT) (Others)	h20	Sun	8	
+601	glassdoor	Legal	Professional Services (Legal & Compliance)	o4	Sun	7	
+602	glassdoor	Marketing	Marketing / Public Relations (Marketing - General / Support)	k5	Sun	6	
+603	glassdoor	Media & Communications	Media & Advertising (Others)	l10	Sun	1	
+604	glassdoor	Military & Protective Services	Others (Security / Safety Control)	u4	Sun	4	
+605	glassdoor	Operations	Banking / Finance (Order Processing & Operation / Settlement)	c14	Sun	10	
+606	glassdoor	Other	Others (Others)	u8	Sun	21	
+607	glassdoor	Product & Project Management	Manufacturing (Product Development / Management)	j6	Sun	10	
+608	glassdoor	Research & Science	Sciences, Lab, R&D (Research & Development (R&D))	s7	Sun	4	
+609	glassdoor	Retail & Food Services	Sales, CS & Business Devpt (Retail Sales)	r8	Sun	4	
+610	glassdoor	Sales	Sales, CS & Business Devpt (Direct Sales)	r7	Sun	6	
+611	glassdoor	Skilled Labor & Manufacturing	Manufacturing (Manufacturing Management)	j4	Sun	5	
+612	glassdoor	Transportation	Transportation & Logistics (Others)	t12	Sun	24	
+613	jora	Accounting	Accounting (Accountant)	a1	Sun	22	
+614	jora	Administrative	Admin & HR (Administration / Operation Manager)	b1	Sun	25	
+615	jora	Agriculture	Others (Agriculture / Forestry / Fishing)	u1	Sun	25	
+616	jora	Architecture	Building & Construction (Architectural Services)	e1	Sun	17	
+617	jora	Arts	Design (Graphics)	e6	Sun	14	
+618	jora	Banking	Banking / Finance (Others)	c21	Sun	2	
+619	jora	Business	Sales, CS & Business Devpt (Others)	r15	Sun	12	
+620	jora	Computer	Information Technology (IT) (Hardware)	h5	Sun	25	
+621	jora	Construction	Building & Construction (Building / Construction / QS)	e2	Sun	23	
+622	jora	Consulting	Accounting (Consulting)	a5	Sun	19	
+623	jora	Customer Service	Sales, CS & Business Devpt (Customer Service - Manager)	r5	Sun	6	
+624	jora	Education	Education (Others)	e23	Sun	11	
+625	jora	Energy	Sciences, Lab, R&D (Energy / Natural Resources / Oil & Gas)	s2	Sun	14	
+626	jora	Engineering	Engineering (Others)	f8	Sun	5	
+627	jora	Facilities	Building & Construction (Building / Construction / QS)	e2	Sun	26	
+628	jora	Finance	Banking / Finance (Financial Services)	c9	Sun	16	
+629	jora	Food Service	Hospitality / F & B (Food & Beverage)	g1	Sun	6	
+630	jora	Healthcare	Beauty Care / Health (Others)	d5	Sun	19	
+631	jora	Hospitality	Hospitality / F & B (Hospitality / Hotel Services)	g2	Sun	21	
+632	jora	Human Resources	Admin & HR (Others)	b11	Sun	11	
+633	jora	IT	Information Technology (IT) (Others)	h20	Sun	9	
+634	jora	Law Enforcement	Professional Services (Legal & Compliance)	o4	Sun	0	
+635	jora	Legal	Professional Services (Legal & Compliance)	o4	Sun	7	
+636	jora	Logistics	Transportation & Logistics (Others)	t12	Sun	24	
+637	jora	Maintenance	Engineering (Mechanical)	f6	Sun	1	
+638	jora	Management	Management (General Management)	i6	Sun	10	
+639	jora	Manufacturing	Manufacturing (Others)	j9	Sun	5	
+640	jora	Marketing	Marketing / Public Relations (Marketing - General / Support)	k5	Sun	6	
+641	jora	Mechanical	Engineering (Mechanical)	f6	Sun	24	
+642	jora	Mining	Others (Agriculture / Forestry / Fishing)	u1	Sun	19	
+643	jora	Pharmaceutical	Medical Services (Pharmaceutical)	m4	Sun	20	
+644	jora	Publishing	Media & Advertising (Print Media)	l7	Sun	17	
+645	jora	Real Estate	Property / Real Estate (Others)	p3	Sun	17	
+646	jora	Restaurant	Hospitality / F & B (Food & Beverage)	g1	Sun	21	
+647	jora	Retail	Sales, CS & Business Devpt (Retail Sales)	r8	Sun	4	
+648	jora	Sales	Sales, CS & Business Devpt (Direct Sales)	r7	Sun	6	
+649	jora	Scientific	Sciences, Lab, R&D (Others)	s8	Sun	11	
+650	jora	Security	Others (Security / Safety Control)	u4	Sun	12	
+651	jora	Social Estate	Public / Civil (Social Services - Community / Non-profit Organization)	q3	Sun	23	
+652	jora	Sport	Beauty Care / Health (Athletics / Fitness / Sports & Recreation)	d1	Sun	21	
+653	jora	Training	Admin & HR (Training & Development)	b10	Sun	11	
+654	jora	Transportation	Transportation & Logistics (Others)	t12	Sun	24	
+655	jora	Travel	Hospitality / F & B (Tourism / Travel Agency)	g4	Sun	19	
+656	jora	Volunteering	Public / Civil (Social Services - Community / Non-profit Organization)	q3	Sun	1	
+699	michael page	Healthcare (Healthcare)	Beauty Care / Health (Others)	d5	Sun	19	
+700	michael page	Healthcare (Private Care)	Beauty Care / Health (Others)	d5	Sun	19	
+701	michael page	Healthcare (Pharmacy)	Medical Services (Pharmaceutical)	m4	Sun	19	
+702	michael page	Life Sciences (Clinical Operations )	Sciences, Lab, R&D (Life Science)	s6	Sun	4	
+703	michael page	Life Sciences (Regulatory Affairs)	Sciences, Lab, R&D (Life Science)	s6	Sun	6	
+704	michael page	Life Sciences (Medical Affairs)	Medical Services (Others)	m7	Sun	20	
+705	michael page	Life Sciences (Medical devices)	Medical Services (Medical Services Technician)	m2	Sun	20	
+706	michael page	construction (Architecture / Design)	Building & Construction (Architectural Services)	e1	Omar	14	
+707	michael page	Finance & Accounting (Accountant/Bookkeeper)	Accounting (Accountant)	a1	Sun	16	
+708	michael page	Finance & Accounting (Internal Control)	Accounting (Financial Controller)	a9	Sun	16	
+709	michael page	Finance & Accounting (Accounts Payable)	Accounting (Accountant)	a1	Sun	16	
+710	michael page	Finance & Accounting (Financial Controller)	Accounting (Financial Controller)	a9	Sun	16	
+711	michael page	Finance & Accounting (Financial Director / CFO)	Accounting (Finance / Accounting Manager)	a7	Sun	16	
+712	michael page	Finance & Accounting (Business Analysis / Systems Analysis)	Accounting (Financial Analyst)	a8	Sun	16	
+713	michael page	Finance & Accounting (Corporate Finance)	Banking / Finance (Corporate Finance)	c4	Sun	16	
+714	michael page	Finance & Accounting (Investor Relations)	Banking / Finance (Investment)	c11	Sun	16	
+715	michael page	Finance & Accounting (Management Accountant)	Accounting (Finance / Accounting Manager)	a7	Sun	16	
+716	michael page	Finance & Accounting (Group Consolidation)	Admin & HR (HR Director / Manager)	b4	Sun	16	
+717	michael page	Finance & Accounting (Internal Audit)	Accounting (Audit)	a3	Sun	16	
+718	michael page	Finance & Accounting (Tax Practice)	Accounting (Taxation)	a10	Sun	16	
+719	michael page	Finance & Accounting (Treasury)	Accounting (Treasurer)	a11	Sun	16	
+720	michael page	Engineering & Manufacturing (Engineering Design, R&D and NPI)	Engineering (Manufacturing & Production)	f5	Sun	5	
+721	michael page	Engineering & Manufacturing (Quality, Technical)	Manufacturing (Quality Assurance, Control & Testing / ISO)	j8	Sun	5	
+722	michael page	Engineering & Manufacturing (Production, Manufacturing)	Engineering (Manufacturing & Production)	f5	Sun	5	
+723	michael page	Engineering & Manufacturing (Project / Programme Management)	Engineering (Engineering Project Management)	f4	Sun	5	
+724	michael page	Engineering & Manufacturing (Field Services / Maintenance)	Manufacturing (Quality Assurance, Control & Testing / ISO)	j8	Sun	5	
+725	michael page	Engineering & Manufacturing (Chemical / Process)	Engineering (Chemical)	f1	Sun	5	
+726	michael page	Engineering & Manufacturing (Compliance / EHS)	Manufacturing (Quality Assurance, Control & Testing / ISO)	j8	Sun	5	
+727	michael page	Engineering & Manufacturing (Six Sigma, Lean, Process improvement)	Manufacturing (Quality Assurance, Control & Testing / ISO)	j8	Sun	5	
+728	michael page	Marketing (Product Manager)	Marketing / Public Relations (Marketing - Brand / Product Management)	k3	Sun	6	
+729	michael page	Marketing (Marketing Communications)	Marketing / Public Relations (Marketing - Marketing Communication)	k7	Sun	6	
+730	michael page	Marketing (Public Relations / Corporate Communication)	Marketing / Public Relations (Marketing - Marketing Communication)	k7	Sun	6	
+731	michael page	Marketing (Analysis & Planning)	Marketing / Public Relations (Others)	k11	Sun	4	
+732	michael page	Marketing (Research)	Marketing / Public Relations (Marketing - Market Research)	k6	Sun	4	
+733	michael page	Marketing (Brand & Design)	Marketing / Public Relations (Marketing - Brand / Product Management)	k3	Sun	14	
+734	michael page	Marketing (Client/Investor Relations)	Marketing / Public Relations (Public Relations - General / Support)	k10	Sun	6	
+735	michael page	Marketing (General Management)	Marketing / Public Relations (Management)	k2	Sun	10	
+736	michael page	Marketing (Marketing Assistant)	Marketing / Public Relations (Marketing - General / Support)	k5	Sun	6	
+737	michael page	Marketing (Marketing/Director/VP)	Marketing / Public Relations (Marketing - Direct Marketing)	k4	Sun	6	
+738	michael page	Marketing (Sales Promotion)	Marketing / Public Relations (Marketing - Marketing Communication)	k7	Sun	6	
+739	michael page	Sales (Business Development)	Sales, CS & Business Devpt (Business Development)	r2	Sun	6	
+740	michael page	Sales (Account Manager)	Sales, CS & Business Devpt (Account Servicing)	r1	Sun	6	
+741	michael page	Sales (Sales Manager/Director/VP)	Sales, CS & Business Devpt (Sales - Sales Management)	r10	Sun	6	
+742	michael page	Sales (Channel Sales)	Sales, CS & Business Devpt (Channel / Distribution)	r4	Sun	6	
+743	michael page	Sales (General Management)	Sales, CS & Business Devpt (Sales - Sales Management)	r10	Sun	10	
+744	michael page	Secretarial & Business Support (Customer Services)	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6	Sun	6	
+745	michael page	Secretarial & Business Support (Sales Support / Customer Service)	Sales, CS & Business Devpt (Others)	r15	Sun	6	
+746	michael page	Human Resources (Recruitment)	Admin & HR (Recruitment / Executive Search)	b8	Sun	0	
+747	michael page	Human Resources (HR Manager)	Admin & HR (HR Director / Manager)	b4	Sun	0	
+748	michael page	Human Resources (Compensation & Benefits)	Admin & HR (Compensation & Benefits)	b3	Sun	12	
+749	michael page	Human Resources (Head of HR)	Admin & HR (Administration / Operation Manager)	b1	Sun	0	
+750	michael page	Human Resources (HR Business Partner)	Admin & HR (Others)	b11	Sun	0	
+751	michael page	Human Resources (HR Consultant)	Admin & HR (Others)	b11	Sun	0	
+752	michael page	Human Resources (Training Manager)	Admin & HR (Training & Development)	b10	Sun	0	
+753	michael page	Procurement & Supply Chain (Direct Procurement)	Merchandising & Purchasing (Procurement / Purchasing / Sourcing)	n7	Sun	4	
+754	michael page	Procurement & Supply Chain (Procurement Management)	Merchandising & Purchasing (Procurement / Purchasing / Sourcing)	n7	Sun	10	
+755	michael page	Procurement & Supply Chain (Supply Chain Management)	E-commerce (Supply Chain)	e17	Sun	10	
+756	michael page	Procurement & Supply Chain (Transport / Distribution Manager)	Transportation & Logistics (Supply Chain)	t11	Sun	4	
+757	michael page	Procurement & Supply Chain (Warehouse Manager)	Transportation & Logistics (Inventory / Warehousing)	t6	Sun	4	
+758	michael page	Legal (General Counsel)	Professional Services (Legal & Compliance)	o4	Sun	7	
+759	michael page	Legal (Attorney)	Professional Services (Legal & Compliance)	o4	Sun	7	
+760	michael page	Legal (Corporate)	Professional Services (Legal & Compliance)	o4	Sun	7	
+761	michael page	Legal (Fraud / White Collar / Crime)	Professional Services (Legal & Compliance)	o4	Sun	7	
+762	michael page	IT (IT Project & Programme Management)	Information Technology (IT) (Product Management / Business Analyst)	h12	Sun	9	
+763	michael page	IT (IT Support)	Information Technology (IT) (Support)	h15	Sun	9	
+764	michael page	IT (IT Systems & Testing)	Information Technology (IT) (Testing / QA)	h18	Sun	9	
+765	michael page	IT (Senior IT Management / CIO / CTO)	Information Technology (IT) (IT Management)	h8	Sun	9	
+766	michael page	Banking & Financial Services (Equity Research)	Banking / Finance (Others)	c21	Sun	4	
+767	michael page	Banking & Financial Services (Venture Capitalism & Private Equity)	Banking / Finance (Equities / Capital Markets)	c8	Omar	4	
+768	michael page	Digital (Digital / Web Design)	Design (Web Designer)	e11	Sun	0	
+769	michael page	Digital (User Experience)	Information Technology (IT) (UI/UX Designer)	h19	Omar	0	
+770	michael page	Construction (Architecture / Design)	Building & Construction (Building / Construction / QS)	e2	Sun	14	
+771	page personnel	Banking & Financial Services ( Accountancy & Finance)	Accounting (Accountant)	a1	Sun	2	
+772	page personnel	Banking & Financial Services ( Operations / Middle Office - Banking / Securities)	Banking / Finance (Others)	c21	Sun	4	
+773	page personnel	Banking & Financial Services ( Insurance / Actuarial)	Insurance (Actuarial)	i1	Sun	4	
+774	page personnel	Banking & Financial Services ( Back Office - Operations)	Banking / Finance (Others)	c21	Sun	4	
+775	page personnel	Banking & Financial Services ( Customer Service)	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6	Sun	4	
+776	page personnel	Banking & Financial Services ( Retail Banking - Financial Advisory / Personal)	Banking / Finance (Retail Banking)	c18	Sun	4	
+777	page personnel	Banking & Financial Services ( Compliance & Legal)	Professional Services (Legal & Compliance)	o4	Sun	4	
+778	page personnel	Banking & Financial Services ( Operations / Middle Office - Asset Management)	Banking / Finance (Asset Management)	c2	Sun	4	
+779	page personnel	Banking & Financial Services ( Private Banker / RM / Wealth Manager)	Banking / Finance (Wealth Management)	c20	Sun	4	
+780	page personnel	Banking & Financial Services ( RM / Corporate Banker)	Banking / Finance (Corporate Banking)	c3	Sun	4	
+781	page personnel	Banking & Financial Services ( Treasury)	Banking / Finance (Treasury)	c19	Sun	4	
+782	page personnel	Banking & Financial Services ( Sales & Trading)	Banking / Finance (Dealing & Trading)	c7	Sun	4	
+783	page personnel	Banking & Financial Services ( Audit)	Accounting (Audit)	a3	Sun	4	
+784	page personnel	Banking & Financial Services ( Corporate Finance / Mergers & Acquisitions)	Banking / Finance (Corporate Finance)	c4	Sun	2	
+785	page personnel	Banking & Financial Services ( Quantitative Analysis)	Banking / Finance (Analyst)	c1	Sun	4	
+786	page personnel	Banking & Financial Services ( Risk Management)	Banking / Finance (Risk Management)	c17	Sun	4	
+787	page personnel	Banking & Financial Services ( Credit Analysis & Research)	Banking / Finance (Credit Analysis / Approval)	c5	Sun	4	
+788	page personnel	Banking & Financial Services ( Capital Markets / Equity)	Banking / Finance (Equities / Capital Markets)	c8	Sun	4	
+789	page personnel	Banking & Financial Services ( Portfolio / Fund / Asset Manager)	Banking / Finance (Asset Management)	c2	Sun	4	
+790	page personnel	Banking & Financial Services ( Debt / Structured Finance)	Banking / Finance (Loan)	c12	Sun	2	
+791	page personnel	Banking & Financial Services ( Product Control & Valuations)	Banking / Finance (Others)	c21	Sun	4	
+792	page personnel	Banking & Financial Services ( Research)	Banking / Finance (Others)	c21	Sun	4	
+793	page personnel	Banking & Financial Services ( Tax)	Accounting (Taxation)	a10	Sun	4	
+794	page personnel	Banking & Financial Services ( Claims / Policy Admin)	Insurance (Claims Officer)	i2	Omar	4	
+795	page personnel	Banking & Financial Services ( Underwriting)	Insurance (Underwriter)	i4	Omar	4	
+796	page personnel	Finance & Accounting ( Accountant)	Accounting (Accountant)	a1	Sun	16	
+797	page personnel	Finance & Accounting ( Assistant Accountant)	Accounting (Accountant)	a1	Sun	16	
+798	page personnel	Finance & Accounting ( Financial Analyst / Business Analyst)	Accounting (Financial Analyst)	a8	Sun	16	
+799	page personnel	Finance & Accounting ( Accounts Payable)	Accounting (Accountant)	a1	Sun	16	
+800	page personnel	Finance & Accounting ( Accounting Manager/ Finance Manager)	Accounting (Finance / Accounting Manager)	a7	Sun	16	
+801	page personnel	Finance & Accounting ( Accounts Receivable)	Accounting (Accountant)	a1	Sun	16	
+802	page personnel	Finance & Accounting ( Audit)	Accounting (Audit)	a3	Sun	16	
+803	page personnel	Finance & Accounting ( Management Accountant)	Accounting (Finance / Accounting Manager)	a7	Sun	16	
+804	page personnel	Finance & Accounting ( Credit Control)	Accounting (Credit Control)	a6	Sun	16	
+805	page personnel	Finance & Accounting ( Financial Accountant)	Accounting (Accountant)	a1	Sun	16	
+806	page personnel	Finance & Accounting ( Treasury / Cashier)	Accounting (Treasurer)	a11	Omar	16	
+807	page personnel	Finance & Accounting ( Bookkeeper)	Accounting (Accountant)	a1	Sun	16	
+808	page personnel	Finance & Accounting ( Payroll)	Accounting (Others)	a12	Sun	16	
+809	page personnel	Finance & Accounting ( Tax)	Accounting (Taxation)	a10	Sun	16	
+810	page personnel	Secretarial & Business Support ( Customer Services)	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6	Sun	6	
+811	page personnel	Secretarial & Business Support ( Administrator)	Sales, CS & Business Devpt (Sales Administration)	r11	Sun	12	
+812	page personnel	Secretarial & Business Support ( Legal Secretary)	Admin & HR (Secretary)	b9	Sun	12	
+813	page personnel	Secretarial & Business Support ( Executive Assistant)	Admin & HR (Personal / Executive Assistant)	b6	Sun	12	
+814	page personnel	Secretarial & Business Support ( Receptionist)	Admin & HR (Receptionist)	b7	Sun	12	
+815	page personnel	Secretarial & Business Support ( Secretary)	Admin & HR (Secretary)	b9	Sun	12	
+816	page personnel	Secretarial & Business Support ( Personal Assistant)	Admin & HR (Personal / Executive Assistant)	b6	Sun	12	
+817	page personnel	Secretarial & Business Support ( Sales Administration)	Sales, CS & Business Devpt (Sales Administration)	r11	Sun	6	
+818	page personnel	Secretarial & Business Support ( Office Assistant)	Admin & HR (Personal / Executive Assistant)	b6	Sun	12	
+819	page personnel	Secretarial & Business Support ( Office Manager)	Admin & HR (Administration / Operation Manager)	b1	Sun	12	
+820	page personnel	Secretarial & Business Support ( Project Administrator)	E-commerce (Product Management / Business Analyst)	e15	Sun	12	
+821	page personnel	Secretarial & Business Support ( Team Secretary)	Admin & HR (Secretary)	b9	Sun	12	
+822	page personnel	Secretarial & Business Support ( Translator)	Professional Services (Translation)	o5	Sun	12	
+823	page personnel	Secretarial & Business Support ( Data Entry)	Information Technology (IT) (Data Scientist)	h3	Sun	12	
+824	page personnel	Customer Service ( Customer Service Officer – Inbound)	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6	Sun	6	
+825	page personnel	Customer Service ( Call centre)	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6	Sun	6	
+826	page personnel	Customer Service ( Customer facing)	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6	Sun	6	
+827	page personnel	Customer Service ( Sales Administration)	Sales, CS & Business Devpt (Sales Administration)	r11	Sun	6	
+828	page personnel	Customer Service ( Sales support)	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6	Sun	6	
+829	page personnel	Customer Service ( Customer Service Manager)	Sales, CS & Business Devpt (Customer Service - Manager)	r5	Sun	6	
+830	page personnel	Customer Service ( Supervisors / Team leaders)	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6	Sun	6	
+831	page personnel	Customer Service ( Claims & After Sales Services)	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6	Sun	6	
+832	page personnel	Customer Service ( Travel Agent)	Hospitality / F & B (Tourism / Travel Agency)	g4	Sun	19	
+833	page personnel	Customer Service ( Customer Service Officer – Outbound)	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6	Sun	6	
+834	page personnel	Customer Service ( Sales Order Processing)	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6	Sun	6	
+835	page personnel	Sales ( Account Manager)	Accounting (Finance / Accounting Manager)	a7	Sun	6	
+836	page personnel	Sales ( FMCG & Consumer)	Sales, CS & Business Devpt (Others)	r15	Sun	6	
+837	page personnel	Sales ( New Business Development)	Sales, CS & Business Devpt (Others)	r15	Sun	6	
+838	page personnel	Sales ( Business Services)	Sales, CS & Business Devpt (Others)	r15	Sun	6	
+839	page personnel	Sales ( Healthcare / Pharmaceutical)	Sales, CS & Business Devpt (Others)	r15	Sun	6	
+840	page personnel	Sales ( IT & Telecommunications)	Sales, CS & Business Devpt (Others)	r15	Sun	9	
+841	page personnel	Sales ( Manufacturing)	Sales, CS & Business Devpt (Others)	r15	Sun	6	
+842	page personnel	Sales ( Financial & Professional Services)	Professional Services (Business Analysis / Data Analysis)	o1	Sun	4	
+843	page personnel	Sales ( Property)	Sales, CS & Business Devpt (Others)	r15	Sun	23	
+844	page personnel	Sales ( Travel / Leisure / Hospitality)	Sales, CS & Business Devpt (Others)	r15	Sun	21	
+845	page personnel	Sales ( Agency)	Sales, CS & Business Devpt (Others)	r15	Sun	6	
+846	page personnel	IT ( IT Support)	Information Technology (IT) (Support)	h15	Sun	9	
+847	page personnel	IT ( IT Development)	Information Technology (IT) (Software Development)	h14	Sun	9	
+848	page personnel	IT ( IT Business Analyst)	Information Technology (IT) (Product Management / Business Analyst)	h12	Sun	9	
+849	page personnel	IT ( IT Project & Programme Management)	Information Technology (IT) (IT Project Management / Team Lead)	h9	Sun	9	
+850	page personnel	IT ( IT Data Analysis)	Information Technology (IT) (Data Scientist)	h3	Sun	9	
+851	page personnel	IT ( IT Systems & Testing)	Information Technology (IT) (Testing / QA)	h18	Sun	9	
+852	page personnel	IT ( Systems Administration)	Information Technology (IT) (Network & System)	h11	Sun	9	
+853	page personnel	IT ( IT Architecture)	Information Technology (IT) (Others)	h20	Sun	9	
+854	page personnel	IT ( Networks)	Information Technology (IT) (Network & System)	h11	Sun	9	
+855	page personnel	IT ( Infrastructure)	Information Technology (IT) (Others)	h20	Sun	9	
+856	page personnel	IT ( IT Management)	Information Technology (IT) (IT Management)	h8	Sun	9	
+857	page personnel	IT ( Senior Technical)	Information Technology (IT) (Technical / Functional Consulting)	h16	Sun	9	
+858	page personnel	IT ( Consulting)	Information Technology (IT) (Technical / Functional Consulting)	h16	Sun	9	
+859	page personnel	IT ( Database Administration / Development)	Information Technology (IT) (DBA)	h4	Sun	9	
+860	page personnel	IT ( IT Graduate)	Information Technology (IT) (Others)	h20	Sun	9	
+861	page personnel	IT ( Big Data)	Information Technology (IT) (Data Scientist)	h3	Sun	9	
+862	page personnel	IT ( Business Intelligence)	Information Technology (IT) (Product Management / Business Analyst)	h12	Sun	9	
+863	page personnel	IT ( Corporate consultancy)	Information Technology (IT) (Technical / Functional Consulting)	h16	Sun	9	
+864	page personnel	IT ( Pre-sales / Post-sales)	Information Technology (IT) (Others)	h20	Sun	9	
+865	page personnel	IT ( Security)	Information Technology (IT) (Security)	h13	Sun	9	
+866	page personnel	IT ( Service Management / Delivery)	Information Technology (IT) (Others)	h20	Sun	9	
+867	page personnel	IT ( Technical Writing / Training)	Information Technology (IT) (Technical Writing)	h17	Sun	9	
+868	page personnel	Marketing ( Marketing Communications)	Marketing / Public Relations (Marketing - Marketing Communication)	k7		6	
+869	page personnel	Marketing ( Product Marketing)	Marketing / Public Relations (Marketing - Brand / Product Management)	k3		6	
+870	page personnel	Marketing ( Public Relations)	Marketing / Public Relations (Public Relations - General / Support)	k10		6	
+871	page personnel	Marketing ( Retail)	Sales, CS & Business Devpt (Retail Sales)	r8		6	
+872	page personnel	Marketing ( Digital, Online & Social Media)	Marketing / Public Relations (Digital Marketing)	k1		6	
+873	page personnel	Marketing ( PR & Communication Agencies)	Marketing / Public Relations (Marketing - Marketing Communication)	k7		6	
+874	page personnel	Marketing ( Research)	Marketing / Public Relations (Marketing - Market Research)	k6		4	
+875	page personnel	Marketing ( Exhibitions / Events & Experiential)	Marketing / Public Relations (Public Relations - Event Management)	k9		6	
+876	page personnel	Marketing ( Financial Services)	Banking / Finance (Financial Services)	c9		4	
+877	page personnel	Marketing ( Brand & Design)	Marketing / Public Relations (Marketing - Brand / Product Management)	k3		14	
+878	page personnel	Marketing ( CRM Agencies)	Marketing / Public Relations (Public Relations - General / Support)	k10		6	
+879	page personnel	Marketing ( Marketing Assistant)	Marketing / Public Relations (Marketing - General / Support)	k5		6	
+880	page personnel	Marketing ( Business Services)	Marketing / Public Relations (Others)	k11	Omar	6	
+881	page personnel	Marketing ( Advertising Agency)	Media & Advertising (Account Servicing)	l2	Omar	6	
+882	page personnel	Marketing ( Client/Investor Relations)	Marketing / Public Relations (Public Relations - General / Support)	k10		6	
+883	page personnel	Marketing ( Creative)	Marketing / Public Relations (Others)	k11		6	
+884	page personnel	Marketing ( Professional Services)	Marketing / Public Relations (Others)	k11		7	
+885	page personnel	Marketing ( Media & Publishing)	Media & Advertising (Others)	l10		1	
+886	page personnel	Marketing ( Media Planning & Buying)	Media & Advertising (Strategic Planning)	l9		4	
+887	page personnel	Procurement & Supply Chain ( Procurement Management)	Merchandising & Purchasing (Procurement / Purchasing / Sourcing)	n7		10	
+888	page personnel	Procurement & Supply Chain ( Quality Assurance)	Transportation & Logistics (Supply Chain)	t11		26	
+889	page personnel	Procurement & Supply Chain ( Logistics)	Transportation & Logistics (Supply Chain)	t11		24	
+890	page personnel	Procurement & Supply Chain ( Direct Procurement)	Merchandising & Purchasing (Procurement / Purchasing / Sourcing)	n7		4	
+891	page personnel	Procurement & Supply Chain ( Production Planning)	Transportation & Logistics (Supply Chain)	t11		4	
+892	page personnel	Procurement & Supply Chain ( Procurement / Spend Analysis)	Merchandising & Purchasing (Procurement / Purchasing / Sourcing)	n7		4	
+893	page personnel	Procurement & Supply Chain ( Indirect Procurement)	Merchandising & Purchasing (Procurement / Purchasing / Sourcing)	n7		4	
+894	page personnel	Procurement & Supply Chain ( Inventory Management)	Transportation & Logistics (Inventory / Warehousing)	t6		10	
+895	page personnel	Procurement & Supply Chain ( Customer Service)	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6		4	
+896	page personnel	Procurement & Supply Chain ( Demand Planning)	Transportation & Logistics (Supply Chain)	t11		4	
+897	page personnel	Procurement & Supply Chain ( Supply Chain Management)	Transportation & Logistics (Supply Chain)	t11		10	
+898	page personnel	Procurement & Supply Chain ( Contract & Vendor Management)	Transportation & Logistics (Supply Chain)	t11		10	
+899	page personnel	Procurement & Supply Chain ( Supply Chain Sales Forecast)	Transportation & Logistics (Supply Chain)	t11		4	
+900	page personnel	Procurement & Supply Chain ( Supply Planning)	Transportation & Logistics (Supply Chain)	t11		4	
+901	page personnel	Procurement & Supply Chain ( Import / Export)	Transportation & Logistics (Supply Chain)	t11		26	
+902	page personnel	Procurement & Supply Chain ( Warehouse Manager)	Transportation & Logistics (Inventory / Warehousing)	t6		4	
+903	page personnel	Procurement & Supply Chain ( 3PL)	Transportation & Logistics (Inventory / Warehousing)	t6		4	
+904	page personnel	Human Resources ( Recruitment)	Admin & HR (Recruitment / Executive Search)	b8		0	
+905	page personnel	Human Resources ( HR Generalist)	Admin & HR (Others)	b11		0	
+906	page personnel	Human Resources ( Compensation & Benefits)	Admin & HR (Compensation & Benefits)	b3	Omar	12	
+907	page personnel	Human Resources ( HR Administrator)	Admin & HR (Administration / Operation Manager)	b1		0	
+908	page personnel	Human Resources ( Learning & Development / Training)	Admin & HR (Training & Development)	b10		0	
+909	page personnel	Human Resources ( HR Assistant Manager/Manager)	Admin & HR (HR Director / Manager)	b4		0	
+910	page personnel	Human Resources ( HR Officer)	Admin & HR (HR Director / Manager)	b4		0	
+911	page personnel	Human Resources ( HR Business Partner)	Admin & HR (Others)	b11		0	
+912	page personnel	Human Resources ( Talent Acquisition)	Admin & HR (Recruitment / Executive Search)	b8	Omar	11	
+913	page personnel	Human Resources ( HR Co-ordinator/Assistant)	Admin & HR (HR Supporting Staff)	b5		0	
+914	page personnel	Human Resources ( HR Payroll)	Admin & HR (Compensation & Benefits)	b3	Omar	0	
+915	page personnel	Human Resources ( HR Information System)	Admin & HR (Others)	b11		0	
+916	page personnel	Human Resources ( HR Shared Service)	Admin & HR (Others)	b11		0	
+917	page personnel	Human Resources ( Employee Relations)	Admin & HR (Training & Development)	b10	Omar	12	
+918	page personnel	Human Resources ( Global Mobility)	Admin & HR (Recruitment / Executive Search)	b8		17	
+919	page personnel	Human Resources ( HR Projects)	Admin & HR (Administration / Operation Manager)	b1		0	
+920	page personnel	Engineering & Manufacturing ( Quality, Technical)	Manufacturing (Quality Assurance, Control & Testing / ISO)	j8		5	
+921	page personnel	Engineering & Manufacturing ( Health, Safety & Environment)	Engineering (Others)	f8		5	
+922	page personnel	Engineering & Manufacturing ( Production, Manufacturing)	Manufacturing (Production Planning / Control)	j7		5	
+923	page personnel	Engineering & Manufacturing ( Project / Programme Management)	Engineering (Engineering Project Management)	f4		5	
+924	page personnel	Engineering & Manufacturing ( Engineering Design and R&D)	Engineering (Draftsman)	f2		5	
+925	page personnel	Engineering & Manufacturing ( Electrical)	Engineering (Electrical / Electronics)	f3		5	
+926	page personnel	Engineering & Manufacturing ( Facilities Management / Technical Manager)	Manufacturing (Manufacturing Management)	j4		5	
+927	page personnel	Engineering & Manufacturing ( General Management)	Manufacturing (Manufacturing Management)	j4		5	
+928	page personnel	Engineering & Manufacturing ( Maintenance, Reliability)	Manufacturing (Manufacturing Management)	j4		5	
+929	page personnel	Engineering & Manufacturing ( Operations Management)	Manufacturing (Manufacturing Management)	j4		5	
+930	page personnel	Engineering & Manufacturing ( Drafting / CAD)	Engineering (Draftsman)	f2		5	
+931	page personnel	Engineering & Manufacturing ( Project Controls)	Engineering (Engineering Project Management)	f4		5	
+932	page personnel	Engineering & Manufacturing ( Six Sigma, Lean, Process Improvement)	Manufacturing (Quality Assurance, Control & Testing / ISO)	j8		5	
+933	page personnel	Engineering & Manufacturing ( Mechanical)	Engineering (Mechanical)	f6		5	
+934	page personnel	Digital ( Content)	E-commerce (Others)	e18		0	
+935	page personnel	Digital ( Online Marketing Management)	Marketing / Public Relations (Digital Marketing)	k1		10	
+936	page personnel	Digital ( Ecommerce)	E-commerce (Others)	e18		0	
+937	page personnel	Digital ( Design)	Design (Others)	e12		14	
+938	page personnel	Digital ( Web Analytics)	Information Technology (IT) (IT - Webmaster / SEO)	h6		0	
+939	page personnel	Digital ( Social Media)	E-commerce (Others)	e18		1	
+940	page personnel	Digital ( User Experience)	E-commerce (Others)	e18		0	
+941	page personnel	Digital ( Digital / Web Design)	Design (Web Designer)	e11		0	
+942	page personnel	Digital ( SEM)	E-commerce (Others)	e18		0	
+943	page personnel	Digital ( Email & eCRM)	E-commerce (Others)	e18		0	
+944	page personnel	Digital ( SEO)	E-commerce (Others)	e18		0	
+945	adecco	Accounting	Accounting (Accountant)	a1		22	
+946	adecco	Admin & HR	Admin & HR (Others)	b11		0	
+947	adecco	Banking / Finance	Banking / Finance (Others)	c21		2	
+948	adecco	Beauty Care / Health	Beauty Care / Health (Others)	d5		17	
+949	adecco	Building & Construction	Building & Construction (Others)	e4		12	
+950	adecco	Design	Design (Others)	e12		14	
+951	adecco	Education	Education (Others)	e23		11	
+952	adecco	Engineering	Engineering (Others)	f8		5	
+953	adecco	Others	Others (Others)	u8		12	
+954	adecco	Events & Exhibition	Marketing / Public Relations (Public Relations - Event Management)	k9		17	
+955	adecco	Hospitality / F & B	Hospitality / F & B (Others)	g5		21	
+956	adecco	Information Technology (I.T.)	Information Technology (IT) (Others)	h20		8	
+957	adecco	Insurance	Insurance (Others)	i5		18	
+958	adecco	Management	Marketing / Public Relations (Management)	k2		10	
+959	adecco	Manufacturing	Manufacturing (Others)	j9		5	
+960	adecco	Marketing / Public Relations	Marketing / Public Relations (Management)	k2		6	
+961	adecco	Media & Advertising	Media & Advertising (Others)	l10		1	
+962	adecco	Japanese Speaking	Others (Others)	u8		9	
+963	adecco	Medical Services	Medical Services (Others)	m7		20	
+964	adecco	Merchandising & Purchasing	Merchandising & Purchasing (Others)	n16		3	
+965	adecco	Professional Services	Others (Others)	u8		7	?
+966	adecco	Property / Real Estate	Property / Real Estate (Property Management)	p2		23	
+967	adecco	Public / Civil	Public / Civil (Others)	q5		6	
+968	adecco	Sales, CS & Business Devpt	Sales, CS & Business Devpt (Others)	r15		6	
+969	adecco	Sciences, Lab, R&D	Sciences, Lab, R&D (Others)	s8		7	
+970	adecco	Transportation & Logistics	Transportation & Logistics (Others)	t12	Omar	24	
+971	cpjobs	Accounting (Accountant)	Accounting (Accountant)	a1	Omar	22	
+972	cpjobs	Accounting (Accounting / Finance Manager)	Accounting (Accounting Clerk / Supervisor)	a2	Omar	16	
+973	cpjobs	Accounting (Accounts Clerk / Accounts Assistant)	Accounting (Accounting Clerk / Supervisor)	a2	Omar	16	
+974	cpjobs	Accounting (Audit)	Accounting (Audit)	a3	Omar	22	
+975	cpjobs	Accounting (Compliance)	Accounting (Others)	a12	Omar	22	
+976	cpjobs	Accounting (Corporate Finance)	Accounting (Others)	a12	Omar	16	
+977	cpjobs	Accounting (Credit Control)	Accounting (Credit Control)	a6	Omar	16	
+978	cpjobs	Accounting (Financial Analyst)	Accounting (Financial Analyst)	a8	Omar	22	
+979	cpjobs	Accounting (Financial Controller)	Accounting (Financial Controller)	a9	Omar	22	
+980	cpjobs	Accounting (Management Consulting)	Accounting (Consulting)	a5	Omar	22	
+981	cpjobs	Accounting (Senior Management)	Accounting (Accounting Clerk / Supervisor)	a2	Omar	22	
+982	cpjobs	Accounting (Taxation)	Accounting (Taxation)	a10	Omar	22	
+983	cpjobs	Accounting (Treasury)	Accounting (Treasurer)	a11	Omar	22	
+984	cpjobs	Accounting (Others)	Accounting (Others)	a12	Omar	22	
+985	cpjobs	Administration (Administration / Operation Manager)	Admin & HR (Administration / Operation Manager)	b1	Omar	13	
+986	cpjobs	Administration (Clerical / Admin / Operation)	Admin & HR (Clerical / Admin Staff)	b2	Omar	13	
+987	cpjobs	Administration (Personal Assistant / Executive Assistant)	Admin & HR (Personal / Executive Assistant)	b6	Omar	13	
+988	cpjobs	Administration (Receptionist)	Admin & HR (Receptionist)	b7	Omar	13	
+989	cpjobs	Administration (Secretary)	Admin & HR (Secretary)	b9	Omar	13	
+990	cpjobs	Administration (Others)	Admin & HR (Others)	b11	Omar	13	
+991	cpjobs	Banking / Finance (Account / Relationship Management)	Banking / Finance (Others)	c21	Omar	2	
+992	cpjobs	Banking / Finance (Asset Management)	Banking / Finance (Asset Management)	c2	Omar	2	
+993	cpjobs	Banking / Finance (Capital Markets)	Banking / Finance (Equities / Capital Markets)	c8	Omar	2	
+994	cpjobs	Banking / Finance (Corporate Banking)	Banking / Finance (Corporate Banking)	c3	Omar	2	
+995	cpjobs	Banking / Finance (Corporate Finance)	Banking / Finance (Corporate Finance)	c4	Omar	2	
+996	cpjobs	Banking / Finance (Credit)	Banking / Finance (Credit Analysis / Approval)	c5	Omar	2	
+997	cpjobs	Banking / Finance (Dealing / Trading)	Banking / Finance (Dealing & Trading)	c7	Omar	2	
+998	cpjobs	Banking / Finance (Debt / Fixed Income)	Banking / Finance (Others)	c21	Omar	2	
+999	cpjobs	Banking / Finance (Derivatives / Equities)	Banking / Finance (Equities / Capital Markets)	c8	Omar	2	
+1000	cpjobs	Banking / Finance (Fund Management / Hedge Fund)	Banking / Finance (Fund Management)	c10	Omar	2	
+1001	cpjobs	Banking / Finance (FX & Money Markets)	Banking / Finance (Others)	c21	Omar	2	
+1002	cpjobs	Banking / Finance (General / Operations)	Banking / Finance (Others)	c21	Omar	2	
+1003	cpjobs	Banking / Finance (Investment & Securities)	Banking / Finance (Investment)	c11	Omar	2	
+1004	cpjobs	Banking / Finance (Investment Banking / M & A)	Banking / Finance (Investment)	c11	Omar	2	
+1005	cpjobs	Banking / Finance (Investor Relations)	Banking / Finance (Investment)	c11	Omar	2	
+1006	cpjobs	Banking / Finance (Legal / Compliance)	Professional Services (Legal & Compliance)	o4	Omar	2	
+1007	cpjobs	Banking / Finance (Loan / Mortgage)	Banking / Finance (Loan)	c12	Omar	2	#
+1008	cpjobs	Banking / Finance (Private Banking / Wealth Management)	Banking / Finance (Private Banking)	c15	Omar	2	
+1009	cpjobs	Banking / Finance (Private Equity / Venture Capital)	Banking / Finance (Equities / Capital Markets)	c8	Omar	2	
+1010	cpjobs	Banking / Finance (Project Management)	Banking / Finance (Project Finance)	c16	Omar	2	
+1011	cpjobs	Banking / Finance (Research / Analysis)	Banking / Finance (Analyst)	c1	Omar	2	
+1012	cpjobs	Banking / Finance (Retail Banking / Branch Banking)	Banking / Finance (Retail Banking)	c18	Omar	2	
+1013	cpjobs	Banking / Finance (Risk Management)	Banking / Finance (Risk Management)	c17	Omar	2	
+1014	cpjobs	Banking / Finance (Treasury)	Banking / Finance (Treasury)	c19	Omar	2	
+1015	cpjobs	Banking / Finance (Others)	Banking / Finance (Others)	c21	Omar	2	
+1016	cpjobs	Catering / Hospitality (Bartender / Barmaid / Sommelier)	Hospitality / F & B (Food & Beverage)	g1	Omar	21	
+1017	cpjobs	Catering / Hospitality (Cashier)	Hospitality / F & B (Others)	g5	Omar	21	
+1018	cpjobs	Catering / Hospitality (Catering Service)	Hospitality / F & B (Food & Beverage)	g1	Omar	21	
+1019	cpjobs	Catering / Hospitality (Chef / Cook)	Hospitality / F & B (Food & Beverage)	g1	Omar	21	
+1020	cpjobs	Catering / Hospitality (Cleaner / Dishwasher / Kitchen Worker)	Hospitality / F & B (Others)	g5	Omar	21	
+1021	cpjobs	Catering / Hospitality (Customer Service / Ambassador)	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6	Omar	21	
+1022	cpjobs	Catering / Hospitality (Food & Beverage)	Hospitality / F & B (Food & Beverage)	g1	Omar	21	
+1023	cpjobs	Catering / Hospitality (Front Desk / Front Office)	Hospitality / F & B (Others)	g5	Omar	21	
+1024	cpjobs	Catering / Hospitality (Housekeeping / Room Attendant)	Hospitality / F & B (Hospitality / Hotel Services)	g2	Omar	21	
+1025	cpjobs	Catering / Hospitality (Restaurant / Store Manager)	Hospitality / F & B (Food & Beverage)	g1	Omar	21	
+1026	cpjobs	Catering / Hospitality (Waiter / Waitress)	Hospitality / F & B (Food & Beverage)	g1	Omar	21	
+1027	cpjobs	Catering / Hospitality (Others)	Hospitality / F & B (Others)	g5	Omar	21	
+1028	cpjobs	Construction / Property (Architect)	Building & Construction (Architectural Services)	e1	Omar	23	
+1029	cpjobs	Construction / Property (Building & Construction)	Building & Construction (Building / Construction / QS)	e2	Omar	23	?
+1030	cpjobs	Construction / Property (Civil / Structural Engineering)	Building & Construction (Civil / Structural)	e3	Omar	23	?
+1031	cpjobs	Construction / Property (Electrical & Mechanical Engineering)	Building & Construction (Others)	e4	Omar	23	?
+1032	cpjobs	Construction / Property (Extraction & Mining)	Building & Construction (Others)	e4	Omar	23	?
+1033	cpjobs	Construction / Property (Operations / Facility / Property Management)	Building & Construction (Others)	e4	Omar	23	?
+1034	cpjobs	Construction / Property (Project Management)	Building & Construction (Others)	e4	Omar	23	?
+1035	cpjobs	Construction / Property (Property Agency)	Property / Real Estate (Property Consultancy)	p1	Omar	23	?
+1036	cpjobs	Construction / Property (Quantity Surveying / Quality Assurance)	Building & Construction (Building / Construction / QS)	e2	Omar	23	?
+1037	cpjobs	Construction / Property (Residential / Commercial Leasing)	Property / Real Estate (Property Consultancy)	p1	Omar	23	?
+1038	cpjobs	Construction / Property (Site Management)	Building & Construction (Others)	e4	Omar	23	?
+1039	cpjobs	Construction / Property (Surveying / Valuations / Investment)	Building & Construction (Building / Construction / QS)	e2	Omar	23	?
+1040	cpjobs	Construction / Property (Trades & Skilled Labor)	Building & Construction (Others)	e4	Omar	23	?
+1041	cpjobs	Construction / Property (Others)	Building & Construction (Others)	e4	Omar	23	?
+1042	cpjobs	Design (Fashion Design)	Design (Fashion)	e5	Omar	14	
+1043	cpjobs	Design (Graphic Design)	Design (Graphics)	e6	Omar	14	
+1044	cpjobs	Design (Interior Design)	Design (Interior)	e8	Omar	14	
+1045	cpjobs	Design (Product / Industrial Design)	Design (Industrial / Product)	e7	Omar	14	
+1046	cpjobs	Design (Visual Merchandiser)	Design (Visual Merchandising)	e10	Omar	14	
+1047	cpjobs	Design (Web / Multi-media Design)	Design (Web Designer)	e11	Omar	14	
+1048	cpjobs	Design (Others)	Design (Others)	e12	Omar	14	
+1049	cpjobs	Digital / Web / Mobile (App Development)	Information Technology (IT) (Software Development)	h14	Omar	0	
+1050	cpjobs	Digital / Web / Mobile (Customer Relationship Management (CRM))	Marketing / Public Relations (Others)	k11	Omar	10	
+1051	cpjobs	Digital / Web / Mobile (Digital Marketing / Social Media)	Marketing / Public Relations (Digital Marketing)	k1	Omar	0	
+1052	cpjobs	Digital / Web / Mobile (Game Development)	Information Technology (IT) (Software Development)	h14	Omar	0	
+1053	cpjobs	Digital / Web / Mobile (Usability (UI/UX))	Information Technology (IT) (UI/UX Designer)	h19	Omar	0	
+1054	cpjobs	Digital / Web / Mobile (Web Analytics)	Information Technology (IT) (Product Management / Business Analyst)	h12	Omar	0	
+1055	cpjobs	Digital / Web / Mobile (Webmaster / SEO)	Information Technology (IT) (IT - Webmaster / SEO)	h6	Omar	0	
+1056	cpjobs	Digital / Web / Mobile (Others)	E-commerce (Others)	e18	Omar	0	
+1057	cpjobs	Education / Training (Childcare)	Education (Others)	e23	Omar	11	
+1058	cpjobs	Education / Training (Library Services)	Education (Librarian)	e20	Omar	11	
+1059	cpjobs	Education / Training (Management - Schools / University / Vocational)	Education (Others)	e23	Omar	10	
+1060	cpjobs	Education / Training (Teacher - Early Child)	Education (Teacher)	e21	Omar	11	
+1061	cpjobs	Education / Training (Teacher - Higher Education)	Education (Teacher)	e21	Omar	11	
+1062	cpjobs	Education / Training (Teacher - Primary / Secondary)	Education (Teacher)	e21	Omar	11	
+1063	cpjobs	Education / Training (Teacher - Special Needs)	Education (Teacher)	e21	Omar	11	
+1064	cpjobs	Education / Training (Teacher - Tertiary / Vocational)	Education (Teacher)	e21	Omar	11	
+1065	cpjobs	Education / Training (Training & Development)	Education (Others)	e23	Omar	11	
+1066	cpjobs	Education / Training (Tutor / Teaching Assistant)	Education (Tutor / Instructor)	e22	Omar	11	
+1067	cpjobs	Education / Training (Others)	Education (Others)	e23	Omar	11	
+1068	cpjobs	Engineering (Chemical Engineering)	Engineering (Chemical)	f1	Omar	5	
+1069	cpjobs	Engineering (Draftsman / CAD)	Engineering (Draftsman)	f2	Omar	5	
+1070	cpjobs	Engineering (Electrical / Electronic Engineering)	Engineering (Electrical / Electronics)	f3	Omar	5	
+1071	cpjobs	Engineering (Engineering Project Management)	Engineering (Engineering Project Management)	f4	Omar	5	
+1072	cpjobs	Engineering (Industrial Engineering)	Engineering (Others)	f8	Omar	5	
+1073	cpjobs	Engineering (Materials Handling Engineering)	Engineering (Others)	f8	Omar	5	
+1074	cpjobs	Engineering (Mechanical Engineering)	Engineering (Mechanical)	f6	Omar	5	
+1075	cpjobs	Engineering (Telecommunication / Wireless / Radio)	Engineering (Telecommunication / Wireless / Radio)	f7	Omar	0	
+1076	cpjobs	Engineering (Others)	Engineering (Others)	f8	Omar	5	
+1077	cpjobs	Government / Social Service (Community Services / Non-profit Organisations)	Public / Civil (Social Services - Community / Non-profit Organization)	q3	Omar	4	
+1078	cpjobs	Government / Social Service (Counselling / Social Work)	Public / Civil (Counseling)	q2	Omar	6	
+1079	cpjobs	Government / Social Service (Fund Raising)	Public / Civil (Social Services - Community / Non-profit Organization)	q3	Omar	4	
+1080	cpjobs	Government / Social Service (Government)	Public / Civil (Civil Services)	q1	Omar	6	
+1081	cpjobs	Government / Social Service (Project / Program Development)	Public / Civil (Others)	q5	Omar	6	
+1082	cpjobs	Government / Social Service (Others)	Public / Civil (Others)	q5	Omar	12	
+1083	cpjobs	Health / Fitness / Beauty Care / Recreation (Beauty Care Services)	Beauty Care / Health (Beautician)	d2	Omar	17	
+1084	cpjobs	Health / Fitness / Beauty Care / Recreation (Health Care Service)	Beauty Care / Health (Others)	d5	Omar	17	
+1085	cpjobs	Health / Fitness / Beauty Care / Recreation (Nutrition)	Beauty Care / Health (Nutritionist)	d3	Omar	17	
+1086	cpjobs	Health / Fitness / Beauty Care / Recreation (Sales / Customer Services)	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6	Omar	6	
+1087	cpjobs	Health / Fitness / Beauty Care / Recreation (Spa / Massage)	Beauty Care / Health (Others)	d5	Omar	17	
+1088	cpjobs	Health / Fitness / Beauty Care / Recreation (Sports / Fitness / Recreation)	Beauty Care / Health (Athletics / Fitness / Sports & Recreation)	d1	Omar	17	
+1089	cpjobs	Health / Fitness / Beauty Care / Recreation (Therapy)	Beauty Care / Health (Therapist)	d4	Omar	17	
+1090	cpjobs	Health / Fitness / Beauty Care / Recreation (Others)	Beauty Care / Health (Others)	d5	Omar	17	
+1091	cpjobs	Human Resources (Compensation & Benefits)	Admin & HR (Compensation & Benefits)	b3	Omar	12	
+1092	cpjobs	Human Resources (Employee Relations)	Admin & HR (Training & Development)	b10	Omar	12	
+1093	cpjobs	Human Resources (Generalist HR)	Admin & HR (Administration / Operation Manager)	b1	Omar	0	
+1094	cpjobs	Human Resources (HR Director / Manager)	Admin & HR (HR Director / Manager)	b4	Omar	0	
+1095	cpjobs	Human Resources (HR Information System (HRIS))	Admin & HR (Others)	b11	Omar	0	
+1096	cpjobs	Human Resources (Recruitment / Executive Search)	Admin & HR (Recruitment / Executive Search)	b8	Omar	12	
+1097	cpjobs	Human Resources (Training & Development)	Admin & HR (Training & Development)	b10	Omar	0	
+1098	cpjobs	Human Resources (Others)	Admin & HR (Others)	b11	Omar	12	
+1099	cpjobs	Information Technology (Application Development)	Information Technology (IT) (Application Specialist - Software)	h2	Omar	8	
+1100	cpjobs	Information Technology (Database Administrator (DBA))	Information Technology (IT) (DBA)	h4	Omar	8	
+1101	cpjobs	Information Technology (Engineering - Hardware)	Information Technology (IT) (Hardware)	h5	Omar	8	
+1102	cpjobs	Information Technology (Engineering - Network)	Information Technology (IT) (Application Specialist - Network)	h1	Omar	8	
+1103	cpjobs	Information Technology (Help Desk / IT Support)	Information Technology (IT) (Support)	h15	Omar	9	
+1104	cpjobs	Information Technology (IT Management)	Information Technology (IT) (IT Management)	h8	Omar	8	
+1105	cpjobs	Information Technology (IT Project Management)	Information Technology (IT) (IT Project Management / Team Lead)	h9	Omar	8	
+1106	cpjobs	Information Technology (Information Services)	Information Technology (IT) (Technical / Functional Consulting)	h16	Omar	8	
+1107	cpjobs	Information Technology (Network / System Admin)	Information Technology (IT) (Network & System)	h11	Omar	8	
+1108	cpjobs	Information Technology (Product Management / Development)	Information Technology (IT) (Product Management / Business Analyst)	h12	Omar	8	
+1109	cpjobs	Information Technology (Sales - Pre / Post)	Information Technology (IT) (Others)	h20	Omar	8	
+1110	cpjobs	Information Technology (Security / Audit)	Information Technology (IT) (IT Auditing)	h7	Omar	8	
+1111	cpjobs	Information Technology (Software Development)	Information Technology (IT) (Software Development)	h14	Omar	8	
+1112	cpjobs	Information Technology (System / Business Analyst)	Information Technology (IT) (Product Management / Business Analyst)	h12	Omar	8	
+1113	cpjobs	Information Technology (System Architect)	Information Technology (IT) (Network & System)	h11	Omar	8	
+1114	cpjobs	Information Technology (Team Leader)	Information Technology (IT) (IT Project Management / Team Lead)	h9	Omar	8	
+1115	cpjobs	Information Technology (Technical Writing / Consulting)	Information Technology (IT) (Technical Writing)	h17	Omar	8	
+1116	cpjobs	Information Technology (Telecommunication)	Information Technology (IT) (Technical / Functional Consulting)	h16	Omar	8	
+1117	cpjobs	Information Technology (Testing)	Information Technology (IT) (Testing / QA)	h18	Omar	8	
+1118	cpjobs	Information Technology (Others)	Information Technology (IT) (Others)	h20	Omar	8	
+1119	cpjobs	Insurance (Actuarial)	Insurance (Actuarial)	i1	Omar	18	
+1120	cpjobs	Insurance (Claims)	Insurance (Claims Officer)	i2	Omar	18	
+1121	cpjobs	Insurance (Insurance Agent / Broker)	Insurance (Insurance Agent / Broker)	i3	Omar	18	
+1122	cpjobs	Insurance (Underwriting)	Insurance (Underwriter)	i4	Omar	18	
+1123	cpjobs	Insurance (Others)	Insurance (Others)	i5	Omar	18	
+1124	cpjobs	Legal / Professional Services (Business Consultancy)	Professional Services (Legal & Compliance)	o4	Omar	7	
+1125	cpjobs	Legal / Professional Services (Company Secretary)	Professional Services (Legal & Compliance)	o4	Omar	7	
+1126	cpjobs	Legal / Professional Services (Lawyer / Legal Services)	Professional Services (Legal & Compliance)	o4	Omar	7	
+1127	cpjobs	Legal / Professional Services (Legal & Compliance)	Professional Services (Legal & Compliance)	o4	Omar	7	
+1128	cpjobs	Legal / Professional Services (Paralegal / Legal support)	Professional Services (Legal & Compliance)	o4	Omar	7	
+1129	cpjobs	Legal / Professional Services (Solicitor / Attorney)	Professional Services (Legal & Compliance)	o4	Omar	7	
+1130	cpjobs	Legal / Professional Services (Translation)	Professional Services (Legal & Compliance)	o4	Omar	7	
+1131	cpjobs	Legal / Professional Services (Others)	Professional Services (Legal & Compliance)	o4	Omar	7	
+1132	cpjobs	Logistics / Transportation (Aviation Services)	Transportation & Logistics (Aviation Services)	t2	Omar	24	
+1133	cpjobs	Logistics / Transportation (Couriers / Drivers)	Transportation & Logistics (Others)	t12	Omar	24	
+1134	cpjobs	Logistics / Transportation (Customer Services)	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6	Omar	24	
+1135	cpjobs	Logistics / Transportation (Freight / Cargo Forwarding)	Transportation & Logistics (Freight Forwarding)	t4	Omar	24	
+1136	cpjobs	Logistics / Transportation (Planning & Analysis)	Transportation & Logistics (Others)	t12	Omar	24	
+1137	cpjobs	Logistics / Transportation (Public Transportation)	Transportation & Logistics (Public Transportation)	t9	Omar	24	
+1138	cpjobs	Logistics / Transportation (Sales / Business Development)	Transportation & Logistics (Others)	t12	Omar	6	
+1139	cpjobs	Logistics / Transportation (Shipping)	Transportation & Logistics (Shipping)	t10	Omar	24	
+1140	cpjobs	Logistics / Transportation (Supply Chain / Logistics)	Transportation & Logistics (Supply Chain)	t11	Omar	24	
+1141	cpjobs	Logistics / Transportation (Warehousing / Storage / Distribution)	Transportation & Logistics (Inventory / Warehousing)	t6	Omar	24	
+1142	cpjobs	Logistics / Transportation (General / Others)	Transportation & Logistics (Others)	t12	Omar	24	
+1143	cpjobs	Management (General Management)	Management (General Management)	i6	Omar	10	
+1144	cpjobs	Management (Top Executives (CEO, CFO, CTO, Director, MD))	Management (Top Executives (CEO, CFO, CTO, GM, MD etc.))	i8	Omar	15	
+1145	cpjobs	Manufacturing (Operations Management)	Manufacturing (Manufacturing Management)	j4	Omar	10	
+1146	cpjobs	Manufacturing (Printing)	Manufacturing (Printing)	j5	Omar	5	
+1147	cpjobs	Manufacturing (Product Development / Product Management)	Manufacturing (Product Development / Management)	j6	Omar	10	
+1148	cpjobs	Manufacturing (Production Planning / Control)	Manufacturing (Production Planning / Control)	j7	Omar	0	
+1149	cpjobs	Manufacturing (Quality Assurance / Control)	Manufacturing (Quality Assurance, Control & Testing / ISO)	j8	Omar	0	
+1150	cpjobs	Manufacturing (Others)	Manufacturing (Others)	j9	Omar	5	
+1151	cpjobs	Marketing / Public Relations (Management)	Marketing / Public Relations (Management)	k2	Omar	6	
+1152	cpjobs	Marketing / Public Relations (Marketing - Brand / Product Management)	Marketing / Public Relations (Marketing - Brand / Product Management)	k3	Omar	6	
+1153	cpjobs	Marketing / Public Relations (Marketing - Communications)	Marketing / Public Relations (Marketing - Marketing Communication)	k7	Omar	6	
+1154	cpjobs	Marketing / Public Relations (Marketing - Corporate Communications)	Marketing / Public Relations (Marketing - Marketing Communication)	k7	Omar	6	
+1155	cpjobs	Marketing / Public Relations (Marketing - Customer / Trade Marketing)	Marketing / Public Relations (Others)	k11	Omar	6	
+1156	cpjobs	Marketing / Public Relations (Marketing - Digital Marketing)	Marketing / Public Relations (Digital Marketing)	k1	Omar	6	
+1157	cpjobs	Marketing / Public Relations (Marketing - General / Support)	Marketing / Public Relations (Public Relations - General / Support)	k10	Omar	6	
+1158	cpjobs	Marketing / Public Relations (Marketing - Market Research)	Marketing / Public Relations (Marketing - Market Research)	k6	Omar	6	
+1159	cpjobs	Marketing / Public Relations (Public Relation - Crisis Management)	Marketing / Public Relations (Management)	k2	Omar	6	
+1160	cpjobs	Marketing / Public Relations (Public Relation - Events Management)	Marketing / Public Relations (Public Relations - Event Management)	k9	Omar	6	
+1161	cpjobs	Marketing / Public Relations (Public Relation - General / Support)	Marketing / Public Relations (Public Relations - General / Support)	k10	Omar	6	
+1162	cpjobs	Marketing / Public Relations (Public Relation - Media / Investor Relations)	Marketing / Public Relations (Others)	k11	Omar	6	
+1163	cpjobs	Marketing / Public Relations (Others)	Marketing / Public Relations (Others)	k11	Omar	6	
+1164	cpjobs	Media / Advertising (Agency Account Servicing)	Media & Advertising (Account Servicing)	l2	Omar	1	
+1165	cpjobs	Media / Advertising (Broadcasting - TV / Radio)	Media & Advertising (Broadcasting - TV / Radio)	l3	Omar	1	
+1166	cpjobs	Media / Advertising (Copy Writing)	Marketing / Public Relations (Public Relations - Copy-writing)	k8	Omar	1	
+1167	cpjobs	Media / Advertising (Creative / Design)	Media & Advertising (Creative / Design)	l4	Omar	1	
+1168	cpjobs	Media / Advertising (Editorial / Journalism)	Media & Advertising (Editorial / Journalism)	l1	Omar	1	
+1169	cpjobs	Media / Advertising (Media / Advertising Sales)	Media & Advertising (Media Buying)	l5	Omar	1	
+1170	cpjobs	Media / Advertising (Media Strategy / Plan / Buy)	Media & Advertising (Strategic Planning)	l9	Omar	1	
+1171	cpjobs	Media / Advertising (Photography / Video)	Media & Advertising (Photography / Video)	l6	Omar	1	
+1172	cpjobs	Media / Advertising (Print Media / Publishing)	Media & Advertising (Print Media)	l7	Omar	1	
+1173	cpjobs	Media / Advertising (Production / Programming)	Media & Advertising (Production)	l8	Omar	1	
+1174	cpjobs	Media / Advertising (Translation)	Professional Services (Translation)	o5	Omar	1	
+1175	cpjobs	Media / Advertising (Others)	Media & Advertising (Others)	l10	Omar	1	
+1176	cpjobs	Medical Services (Doctor / Practitioner / Surgeon)	Medical Services (Doctor / Practitioner / Surgeon)	m1	Omar	20	
+1177	cpjobs	Medical Services (Medical Services Technician)	Medical Services (Medical Services Technician)	m2	Omar	20	
+1178	cpjobs	Medical Services (Nursing)	Medical Services (Nursing)	m3	Omar	20	
+1179	cpjobs	Medical Services (Pharmaceutical)	Medical Services (Pharmaceutical)	m4	Omar	20	
+1180	cpjobs	Medical Services (Specialist)	Medical Services (Specialist)	m5	Omar	20	
+1181	cpjobs	Medical Services (Therapist)	Medical Services (Therapist)	m6	Omar	20	
+1182	cpjobs	Medical Services (Others)	Medical Services (Others)	m7	Omar	20	
+1183	cpjobs	Merchandising / Purchasing (Merchandising - Electronics)	Merchandising & Purchasing (Electronics)	n1	Omar	3	
+1184	cpjobs	Merchandising / Purchasing (Merchandising - Footwear / Handbag / Accessories)	Merchandising & Purchasing (Footwear)	n3	Omar	3	#
+1185	cpjobs	Merchandising / Purchasing (Merchandising - Furniture / Appliances)	Merchandising & Purchasing (Furniture)	n4	Omar	3	#
+1186	cpjobs	Merchandising / Purchasing (Merchandising - Garment / Apparel)	Manufacturing (Garment/ Textile)	j1	Omar	3	
+1187	cpjobs	Merchandising / Purchasing (Merchandising - Stationery / Sundries)	Merchandising & Purchasing (Sundries)	n10	Omar	3	#
+1188	cpjobs	Merchandising / Purchasing (Merchandising - Toys)	Merchandising & Purchasing (Toy)	n13	Omar	3	
+1189	cpjobs	Merchandising / Purchasing (Merchandising - Watches / Jewellery)	Manufacturing (Jewelry)	j3	Omar	3	#
+1190	cpjobs	Merchandising / Purchasing (Purchasing / Procurement / Sourcing)	Merchandising & Purchasing (Procurement / Purchasing / Sourcing)	n7	Omar	3	
+1191	cpjobs	Merchandising / Purchasing (Others)	Merchandising & Purchasing (Others)	n16	Omar	3	
+1192	cpjobs	Quality Control / Quality Assurance (ISO, International Organization of Standardization)	Manufacturing (Quality Assurance, Control & Testing / ISO)	j8	Omar	0	
+1193	cpjobs	Quality Control / Quality Assurance (Quality Control & Assurance)	Manufacturing (Quality Assurance, Control & Testing / ISO)	j8	Omar	0	
+1194	cpjobs	Quality Control / Quality Assurance (Testing)	Manufacturing (Quality Assurance, Control & Testing / ISO)	j8	Omar	0	
+1195	cpjobs	Quality Control / Quality Assurance (Others)	Manufacturing (Quality Assurance, Control & Testing / ISO)	j8	Omar	12	
+1196	cpjobs	Sales / Business Development / Customer Service (Account Servicing)	Sales, CS & Business Devpt (Account Servicing)	r1	Omar	6	
+1197	cpjobs	Sales / Business Development / Customer Service (Business Development)	Sales, CS & Business Devpt (Business Development)	r2	Omar	6	
+1198	cpjobs	Sales / Business Development / Customer Service (Channel / Distribution)	Sales, CS & Business Devpt (Channel / Distribution)	r4	Omar	6	
+1199	cpjobs	Sales / Business Development / Customer Service (Customer service / Sales Support)	Sales, CS & Business Devpt (Call Centre)	r3	Omar	6	
+1200	cpjobs	Sales / Business Development / Customer Service (Direct Sales)	Sales, CS & Business Devpt (Direct Sales)	r7	Omar	6	
+1201	cpjobs	Sales / Business Development / Customer Service (Property Sales)	Sales, CS & Business Devpt (Sales - Real Estate)	r9	Omar	6	
+1202	cpjobs	Sales / Business Development / Customer Service (Retail Sales)	Sales, CS & Business Devpt (Retail Sales)	r8	Omar	6	
+1203	cpjobs	Sales / Business Development / Customer Service (Sales Engineer / Technical Sales)	Sales, CS & Business Devpt (Technical Sales / Sales Engineer)	r12	Omar	6	
+1204	cpjobs	Sales / Business Development / Customer Service (Sales Management)	Sales, CS & Business Devpt (Customer Service - Manager)	r5	Omar	6	
+1205	cpjobs	Sales / Business Development / Customer Service (Telemarketing / Call Centre)	Sales, CS & Business Devpt (Tele-sales (Telemarketing))	r13	Omar	6	
+1206	cpjobs	Sales / Business Development / Customer Service (Others)	Sales, CS & Business Devpt (Others)	r15	Omar	6	
+1207	cpjobs	Science / Lab / Research (Biotechnology)	Sciences, Lab, R&D (Others)	s8	Omar	4	
+1208	cpjobs	Science / Lab / Research (Chemistry)	Sciences, Lab, R&D (Chemical)	s1	Omar	4	
+1209	cpjobs	Science / Lab / Research (Environmental Science / Waste Management)	Sciences, Lab, R&D (Environmental Science / Waste Management)	s3	Omar	4	
+1210	cpjobs	Science / Lab / Research (Laboratory)	Sciences, Lab, R&D (Laboratory)	s5	Omar	4	
+1211	cpjobs	Science / Lab / Research (Life Science)	Sciences, Lab, R&D (Life Science)	s6	Omar	4	
+1212	cpjobs	Science / Lab / Research (Medical Science / Technology)	Sciences, Lab, R&D (Others)	s8	Omar	4	
+1213	cpjobs	Science / Lab / Research (Research & Development (R&D))	Sciences, Lab, R&D (Research & Development (R&D))	s7	Omar	4	
+1214	cpjobs	Science / Lab / Research (Technician)	Sciences, Lab, R&D (Others)	s8	Omar	4	
+1215	cpjobs	Science / Lab / Research (Others)	Sciences, Lab, R&D (Others)	s8	Omar	4	
+1216	cpjobs	Security / Property Management / Safety Control (Guards, Security & Law Enforcement Workers)	Others (Security / Safety Control)	u4	Omar	4	
+1217	cpjobs	Security / Property Management / Safety Control (Property Management)	Property / Real Estate (Property Management)	p2	Omar	10	
+1218	cpjobs	Security / Property Management / Safety Control (Others)	Others (Security / Safety Control)	u4	Omar	12	
+1219	cpjobs	Travel / Tourism (Airline)	Hospitality / F & B (Others)	g5	Omar	19	
+1220	cpjobs	Travel / Tourism (Customer Service / Guest Relations)	Hospitality / F & B (Tourism / Travel Agency)	g4	Omar	6	
+1221	cpjobs	Travel / Tourism (Entertainers)	Others (Entertainment - Artists / Singers / Musicians)	u2	Omar	19	
+1222	cpjobs	Travel / Tourism (Events / Conference)	Marketing / Public Relations (Public Relations - Event Management)	k9	Omar	19	
+1223	cpjobs	Travel / Tourism (Reservation / Ticketing)	Hospitality / F & B (Others)	g5	Omar	19	
+1224	cpjobs	Travel / Tourism (Touring Guide / Travel Agency)	Hospitality / F & B (Tourism / Travel Agency)	g4	Omar	19	
+1225	cpjobs	Travel / Tourism (Others)	Hospitality / F & B (Tourism / Travel Agency)	g4	Omar	19	
+1226	cpjobs	Others (Animal Care)	Others (Others)	u8	Omar	17	
+1227	cpjobs	Others (Entertainment / Performance)	Others (Entertainment - Artists / Singers / Musicians)	u2	Omar	12	
+1228	cpjobs	Others (Graduate Trainee)	Others (Student / Fresh Graduate / No Experience)	u5	Omar	21	
+1229	cpjobs	Others (Horticulture / Agriculture / Forestry)	Others (Agriculture / Forestry / Fishing)	u1	Omar	0	
+1230	cpjobs	Others (Management Trainee)	Management (Management Trainee)	i7	Omar	10	
+1231	cpjobs	Others (Security / Safety Control)	Others (Security / Safety Control)	u4	Omar	12	
+1232	cpjobs	Others (Others)	Others (Others)	u8	Omar	12	
+1233	efc	Information Technology (Other)	Information Technology (IT) (Others)	h20	Omar	8	
+1234	efc	Information Technology (Development)	Information Technology (IT) (Software Development)	h14	Omar	8	
+1235	efc	Information Technology (Engineering)	Information Technology (IT) (Hardware)	h5	Omar	8	
+1236	efc	Information Technology (Project Management)	Information Technology (IT) (IT Project Management / Team Lead)	h9	Omar	8	
+1237	efc	Information Technology (Development/Programming)	Information Technology (IT) (Software Development)	h14	Omar	8	
+1238	efc	Information Technology (Business Analysis)	Information Technology (IT) (Product Management / Business Analyst)	h12	Omar	8	
+1239	efc	Information Technology (Architecture and design)	Information Technology (IT) (Hardware)	h5	Omar	8	
+1240	efc	Information Technology (Fintech)	Information Technology (IT) (Others)	h20	Omar	8	
+1241	efc	Information Technology (Data management)	Information Technology (IT) (DBA)	h4	Omar	8	
+1242	efc	Information Technology (Project / Programme management)	Information Technology (IT) (IT Project Management / Team Lead)	h9	Omar	8	
+1243	efc	Information Technology (System Administration Support)	Information Technology (IT) (Support)	h15	Omar	13	
+1244	efc	Information Technology (Strategy/Business Analyst)	Information Technology (IT) (Product Management / Business Analyst)	h12	Omar	8	
+1245	efc	Information Technology (Product management)	Information Technology (IT) (Product Management / Business Analyst)	h12	Omar	8	
+1246	efc	Information Technology (Cyber security)	Information Technology (IT) (Security)	h13	Omar	8	
+1247	efc	Information Technology (Infrastructure)	Information Technology (IT) (Hardware)	h5	Omar	8	
+1248	efc	Information Technology (Change and Transformation)	Information Technology (IT) (Others)	h20	Omar	8	
+1249	efc	Information Technology (Digital Transformation)	Information Technology (IT) (Others)	h20	Omar	8	
+1250	efc	Information Technology (Information security)	Information Technology (IT) (Security)	h13	Omar	8	
+1251	efc	Information Technology (IT Service management)	Information Technology (IT) (IT Management)	h8	Omar	8	
+1252	efc	Information Technology (Sales & Marketing)	Information Technology (IT) (Product Management / Business Analyst)	h12	Omar	8	
+1253	efc	Information Technology (Program management)	Information Technology (IT) (IT Project Management / Team Lead)	h9	Omar	8	
+1254	efc	Information Technology (End user support/Help desk)	Information Technology (IT) (Support)	h15	Omar	8	
+1255	efc	Information Technology (System/ Network Administration)	Information Technology (IT) (Network & System)	h11	Omar	8	
+1256	efc	Information Technology (Quality management and testing)	Information Technology (IT) (Testing / QA)	h18	Omar	8	
+1257	efc	Information Technology (Training)	Information Technology (IT) (Others)	h20	Omar	8	
+1258	efc	Accounting & Finance (Other)	Accounting (Others)	a12	Omar	16	
+1259	efc	Accounting & Finance (Accounting)	Accounting (Accountant)	a1	Omar	16	
+1260	efc	Accounting & Finance (Audit)	Accounting (Audit)	a3	Omar	16	
+1261	efc	Accounting & Finance (Tax)	Accounting (Taxation)	a10	Omar	16	
+1262	efc	Accounting & Finance (Financial/MGMT Accounting)	Accounting (Accountant)	a1	Omar	22	
+1263	efc	Accounting & Finance (Financial Control)	Accounting (Financial Controller)	a9	Omar	16	
+1264	efc	Accounting & Finance (Regulatory Reporting)	Accounting (Financial Controller)	a9	Omar	16	
+1265	efc	Accounting & Finance (Financial Advisory Services)	Accounting (Consulting)	a5	Omar	16	
+1266	efc	Accounting & Finance (Fund Administration)	Accounting (Finance / Accounting Manager)	a7	Omar	16	
+1267	efc	Accounting & Finance (Change and Transformation)	Accounting (Others)	a12	Omar	16	
+1268	efc	Accounting & Finance (Consulting and Advisory)	Accounting (Consulting)	a5	Omar	16	
+1269	efc	Accounting & Finance (Treasury)	Accounting (Treasurer)	a11	Omar	16	
+1270	efc	Accounting & Finance (Fund Accounting)	Accounting (Others)	a12	Omar	16	
+1271	efc	Accounting & Finance (Administration)	Accounting (Finance / Accounting Manager)	a7	Omar	16	
+1272	efc	Accounting & Finance (Product Control)	Accounting (Financial Controller)	a9	Omar	16	
+1273	efc	Accounting & Finance (FD/CFO)	Accounting (Financial Controller)	a9	Omar	16	
+1274	efc	Accounting & Finance (Valuations)	Accounting (Others)	a12	Omar	16	
+1275	efc	Accounting & Finance (Newly/Part Qualified)	Accounting (Others)	a12	Omar	16	
+1276	efc	Accounting & Finance (Actuarial)	Accounting (Others)	a12	Omar	16	
+1277	efc	Accounting & Finance (Practice)	Accounting (Others)	a12	Omar	16	
+1278	efc	Investment Banking/M&A (Other)	Banking / Finance (Investment)	c11	Omar	15	
+1279	efc	Investment Banking/M&A (M&A/Corporate Finance)	Banking / Finance (Investment)	c11	Omar	2	
+1280	efc	Investment Banking/M&A (Operations)	Banking / Finance (Investment)	c11	Omar	15	
+1281	efc	Investment Banking/M&A (Corporate Finance/M&A)	Banking / Finance (Investment)	c11	Omar	2	
+1282	efc	Investment Banking/M&A (Accounting)	Banking / Finance (Investment)	c11	Omar	15	
+1283	efc	Investment Banking/M&A (Consulting and Advisory)	Banking / Finance (Investment)	c11	Omar	15	
+1284	efc	Investment Banking/M&A (Sales/Relationship Management)	Banking / Finance (Investment)	c11	Omar	15	
+1285	efc	Investment Banking/M&A (Portfolio & Investment Management)	Banking / Finance (Investment)	c11	Omar	15	
+1286	efc	Investment Banking/M&A (Compliance)	Banking / Finance (Investment)	c11	Omar	15	
+1287	efc	Investment Banking/M&A (Audit)	Banking / Finance (Investment)	c11	Omar	15	
+1288	efc	Investment Banking/M&A (Research & Business Analysis)	Banking / Finance (Investment)	c11	Omar	4	
+1289	efc	Investment Banking/M&A (Project management)	Banking / Finance (Investment)	c11	Omar	15	
+1290	efc	Investment Banking/M&A (Equities)	Banking / Finance (Investment)	c11	Omar	15	
+1291	efc	Investment Banking/M&A (Origination)	Banking / Finance (Investment)	c11	Omar	15	
+1292	efc	Investment Banking/M&A (Change and Transformation)	Banking / Finance (Investment)	c11	Omar	15	
+1293	efc	Investment Banking/M&A (Real Estate)	Banking / Finance (Investment)	c11	Omar	15	
+1294	efc	Investment Banking/M&A (Trading)	Banking / Finance (Investment)	c11	Omar	15	
+1295	efc	Investment Banking/M&A (Product Control)	Banking / Finance (Investment)	c11	Omar	15	
+1296	efc	Investment Banking/M&A (Administration)	Banking / Finance (Investment)	c11	Omar	15	
+1297	efc	Investment Banking/M&A (Structured Products)	Banking / Finance (Investment)	c11	Omar	15	
+1298	efc	Investment Banking/M&A (Credit)	Banking / Finance (Investment)	c11	Omar	15	
+1299	efc	Investment Banking/M&A (Investor Relations)	Banking / Finance (Investment)	c11	Omar	15	
+1300	efc	Investment Banking/M&A (Derivatives)	Banking / Finance (Investment)	c11	Omar	15	
+1301	efc	Investment Banking/M&A (Quant & Structuring)	Banking / Finance (Investment)	c11	Omar	15	
+1302	efc	Investment Banking/M&A (Commodities)	Banking / Finance (Investment)	c11	Omar	15	
+1303	efc	Investment Banking/M&A (FX)	Banking / Finance (Investment)	c11	Omar	15	
+1304	efc	Investment Banking/M&A (Broking)	Banking / Finance (Investment)	c11	Omar	15	
+1305	efc	Investment Banking/M&A (Prime Brokerage)	Banking / Finance (Investment)	c11	Omar	15	
+1306	efc	Investment Banking/M&A (Actuarial)	Banking / Finance (Investment)	c11	Omar	15	
+1307	efc	Investment Banking/M&A (Interest Rates)	Banking / Finance (Investment)	c11	Omar	15	
+1308	efc	Asset Management (Other)	Banking / Finance (Asset Management)	c2	Omar	10	
+1309	efc	Asset Management (Analyst)	Banking / Finance (Asset Management)	c2	Omar	10	
+1310	efc	Asset Management (Sales & Client Services)	Banking / Finance (Asset Management)	c2	Omar	10	
+1311	efc	Asset Management (Operations)	Banking / Finance (Asset Management)	c2	Omar	10	
+1312	efc	Asset Management (Accounting)	Banking / Finance (Asset Management)	c2	Omar	10	
+1313	efc	Asset Management (Fund management)	Banking / Finance (Asset Management)	c2	Omar	10	
+1314	efc	Asset Management (Portfolio Manager)	Banking / Finance (Asset Management)	c2	Omar	10	
+1315	efc	Asset Management (Product Manager)	Banking / Finance (Asset Management)	c2	Omar	10	
+1316	efc	Asset Management (Sales/Relationship Management)	Banking / Finance (Asset Management)	c2	Omar	10	
+1317	efc	Asset Management (Compliance)	Banking / Finance (Asset Management)	c2	Omar	10	
+1318	efc	Asset Management (Change and Transformation)	Banking / Finance (Asset Management)	c2	Omar	10	
+1319	efc	Asset Management (Corporate Finance/M&A)	Banking / Finance (Asset Management)	c2	Omar	10	
+1320	efc	Asset Management (Research & Business Analysis)	Banking / Finance (Asset Management)	c2	Omar	4	
+1321	efc	Asset Management (Consulting and Advisory)	Banking / Finance (Asset Management)	c2	Omar	10	
+1322	efc	Asset Management (Administration)	Banking / Finance (Asset Management)	c2	Omar	10	
+1323	efc	Asset Management (Real Estate)	Banking / Finance (Asset Management)	c2	Omar	10	
+1324	efc	Asset Management (Strategist/Economist)	Banking / Finance (Asset Management)	c2	Omar	10	
+1325	efc	Asset Management (Audit)	Banking / Finance (Asset Management)	c2	Omar	10	
+1326	efc	Asset Management (Quant & Structuring)	Banking / Finance (Asset Management)	c2	Omar	10	
+1327	efc	Asset Management (Equities)	Banking / Finance (Asset Management)	c2	Omar	10	
+1328	efc	Asset Management (Trading)	Banking / Finance (Asset Management)	c2	Omar	10	
+1329	efc	Asset Management (Credit)	Banking / Finance (Asset Management)	c2	Omar	10	
+1330	efc	Asset Management (Investor Relations)	Banking / Finance (Asset Management)	c2	Omar	10	
+1331	efc	Asset Management (Derivatives)	Banking / Finance (Asset Management)	c2	Omar	10	
+1332	efc	Asset Management (Investment Writer)	Banking / Finance (Asset Management)	c2	Omar	10	
+1333	efc	Asset Management (Product Control)	Banking / Finance (Asset Management)	c2	Omar	10	
+1334	efc	Asset Management (Structured Products)	Banking / Finance (Asset Management)	c2	Omar	10	
+1335	efc	Asset Management (Dealer)	Banking / Finance (Asset Management)	c2	Omar	10	
+1336	efc	Asset Management (Actuarial)	Banking / Finance (Asset Management)	c2	Omar	10	
+1337	efc	Asset Management (FX)	Banking / Finance (Asset Management)	c2	Omar	10	
+1338	efc	Asset Management (CIO)	Banking / Finance (Asset Management)	c2	Omar	10	
+1339	efc	Asset Management (Interest Rates)	Banking / Finance (Asset Management)	c2	Omar	10	
+1340	efc	Asset Management (Broking)	Banking / Finance (Asset Management)	c2	Omar	10	
+1341	efc	Asset Management (Commodities)	Banking / Finance (Asset Management)	c2	Omar	10	
+1342	efc	Operations (Other)	Banking / Finance (Order Processing & Operation / Settlement)	c14	Omar	10	
+1343	efc	Operations (Project / Programme management)	Banking / Finance (Order Processing & Operation / Settlement)	c14	Omar	4	
+1344	efc	Operations (Change and Transformation)	Banking / Finance (Order Processing & Operation / Settlement)	c14	Omar	10	
+1345	efc	Operations (Trade Support)	Banking / Finance (Order Processing & Operation / Settlement)	c14	Omar	13	
+1346	efc	Operations (Client services)	Banking / Finance (Order Processing & Operation / Settlement)	c14	Omar	0	
+1347	efc	Operations (Business management)	Banking / Finance (Order Processing & Operation / Settlement)	c14	Omar	6	
+1348	efc	Operations (Documentation)	Banking / Finance (Order Processing & Operation / Settlement)	c14	Omar	23	
+1349	efc	Operations (Settlements)	Banking / Finance (Order Processing & Operation / Settlement)	c14	Omar	10	
+1350	efc	Operations (Reconciliation)	Banking / Finance (Order Processing & Operation / Settlement)	c14	Omar	23	
+1351	efc	Operations (OPERATIONS/LOADMINISTRATION)	Banking / Finance (Order Processing & Operation / Settlement)	c14	Omar	10	
+1352	efc	Operations (Loan servicing)	Banking / Finance (Order Processing & Operation / Settlement)	c14	Omar	17	
+1353	efc	Operations (Corporate action)	Banking / Finance (Order Processing & Operation / Settlement)	c14	Omar	10	
+1354	efc	Operations (Clearing)	Banking / Finance (Order Processing & Operation / Settlement)	c14	Omar	10	
+1355	efc	Operations (Credit analysis)	Banking / Finance (Order Processing & Operation / Settlement)	c14	Omar	10	
+1356	efc	Operations (Collateral Management)	Banking / Finance (Order Processing & Operation / Settlement)	c14	Omar	10	
+1357	efc	Risk Management (Other)	Banking / Finance (Risk Management)	c17	Omar	10	
+1358	efc	Risk Management (Operational)	Banking / Finance (Risk Management)	c17	Omar	10	
+1359	efc	Risk Management (Credit)	Banking / Finance (Risk Management)	c17	Omar	10	
+1360	efc	Risk Management (Market)	Banking / Finance (Risk Management)	c17	Omar	10	
+1361	efc	Risk Management (Audit)	Banking / Finance (Risk Management)	c17	Omar	10	
+1362	efc	Risk Management (Regulatory)	Banking / Finance (Risk Management)	c17	Omar	10	
+1363	efc	Risk Management (Consulting and Advisory)	Banking / Finance (Risk Management)	c17	Omar	10	
+1364	efc	Risk Management (Change and Transformation)	Banking / Finance (Risk Management)	c17	Omar	10	
+1365	efc	Risk Management (Liquidity / asset backed risk)	Banking / Finance (Risk Management)	c17	Omar	10	
+1366	efc	Risk Management (Project / Programme management)	Banking / Finance (Risk Management)	c17	Omar	10	
+1367	efc	Risk Management (Country)	Banking / Finance (Risk Management)	c17	Omar	10	
+1368	efc	Risk Management (Compliance/Legal)	Banking / Finance (Risk Management)	c17	Omar	10	
+1369	efc	Risk Management (Compliance Regulatory)	Banking / Finance (Risk Management)	c17	Omar	10	
+1370	efc	Risk Management (Other)	Banking / Finance (Risk Management)	c17	Omar	10	
+1371	efc	Risk Management (In-house Legal)	Banking / Finance (Risk Management)	c17	Omar	10	
+1372	efc	Corporate Banking (Other)	Banking / Finance (Corporate Banking)	c3	Omar	2	
+1373	efc	Corporate Banking (Relationship Management)	Banking / Finance (Corporate Banking)	c3	Omar	2	
+1374	efc	Corporate Banking (Transaction Banking)	Banking / Finance (Corporate Banking)	c3	Omar	2	
+1375	efc	Corporate Banking (Acquisition Finance)	Banking / Finance (Corporate Finance)	c4	Omar	2	
+1376	efc	Corporate Banking (Trade Finance)	Banking / Finance (Corporate Finance)	c4	Omar	2	
+1377	efc	Corporate Banking (Loans Syndication)	Banking / Finance (Corporate Finance)	c4	Omar	2	
+1378	efc	Corporate Banking (Structured/Tax Finance)	Banking / Finance (Corporate Finance)	c4	Omar	2	
+1379	efc	Corporate Banking (Project Finance/PFI)	Banking / Finance (Corporate Finance)	c4	Omar	2	
+1380	efc	Corporate Banking (Asset Finance/Leasing)	Banking / Finance (Corporate Finance)	c4	Omar	2	
+1381	efc	Corporate Banking (Leveraged Finance)	Banking / Finance (Corporate Finance)	c4	Omar	2	
+1382	efc	Consultancy	Professional Services (Business Consultancy)	o2	Omar	20	
+1383	efc	Retail Banking (Branch and Retail Services)	Banking / Finance (Retail Banking)	c18	Omar	4	
+1384	efc	Retail Banking (Relationship management)	Banking / Finance (Retail Banking)	c18	Omar	2	
+1385	efc	Retail Banking (Call Centers and Customer Service)	Sales, CS & Business Devpt (Customer Service - Supervisor/Officer)	r6	Omar	6	
+1386	efc	Retail Banking (Loans & credit)	Banking / Finance (Retail Banking)	c18	Omar	2	
+1387	efc	Retail Banking (Business Banking)	Banking / Finance (Retail Banking)	c18	Omar	2	
+1388	efc	Retail Banking (Insurance & investment)	Banking / Finance (Retail Banking)	c18	Omar	2	
+1389	efc	Retail Banking (Deposits & savings)	Banking / Finance (Retail Banking)	c18	Omar	4	
+1390	efc	Sales & Marketing	Sales, CS & Business Devpt (Others)	r15	Omar	6	
+1391	efc	Private Banking & Wealth Management (Client Relations)	Banking / Finance (Private Banking)	c15	Omar	2	
+1392	efc	Private Banking & Wealth Management (Portfolio Management)	Banking / Finance (Wealth Management)	c20	Omar	10	
+1393	efc	Private Banking & Wealth Management (Private Client)	Banking / Finance (Private Banking)	c15	Omar	2	
+1394	efc	Private Banking & Wealth Management (Product Specialisation)	Banking / Finance (Wealth Management)	c20	Omar	2	
+1395	efc	Private Banking & Wealth Management (Financial Planning)	Banking / Finance (Wealth Management)	c20	Omar	4	
+1396	efc	Private Banking & Wealth Management (Infrastructure)	Banking / Finance (Wealth Management)	c20	Omar	2	
+1397	efc	Capital Markets (Other)	Banking / Finance (Equities / Capital Markets)	c8	Omar	21	
+1398	efc	Capital Markets (Origination)	Banking / Finance (Equities / Capital Markets)	c8	Omar	18	
+1399	efc	Capital Markets (Documentation Structuring)	Banking / Finance (Equities / Capital Markets)	c8	Omar	19	
+1400	efc	Capital Markets (Execution)	Banking / Finance (Equities / Capital Markets)	c8	Omar	18	
+1401	efc	Capital Markets (Securitisation)	Banking / Finance (Equities / Capital Markets)	c8	Omar	4	
+1402	efc	Capital Markets (Syndication)	Banking / Finance (Equities / Capital Markets)	c8	Omar	19	
+1403	efc	Credit	Banking / Finance (Credit Collection)	c6	Omar	12	
+1404	efc	Information Services	Information Technology (IT) (Technical / Functional Consulting)	h16	Omar	8	
+1405	efc	Quantitative Analytics (Other)	Banking / Finance (Analyst)	c1	Omar	6	
+1406	efc	Quantitative Analytics (Equity)	Banking / Finance (Analyst)	c1	Omar	15	
+1407	efc	Quantitative Analytics (Interest Rates)	Banking / Finance (Analyst)	c1	Omar	15	
+1408	efc	Quantitative Analytics (Credit)	Banking / Finance (Analyst)	c1	Omar	12	
+1409	efc	Quantitative Analytics (FX)	Banking / Finance (Analyst)	c1	Omar	0	
+1410	efc	Quantitative Analytics (Commodities)	Banking / Finance (Analyst)	c1	Omar	6	
+1411	efc	Insurance (Other)	Insurance (Others)	i5	Omar	18	
+1412	efc	Insurance (Sales)	Insurance (Others)	i5	Omar	18	
+1413	efc	Insurance (Actuarial)	Insurance (Actuarial)	i1	Omar	18	
+1414	efc	Insurance (Investment)	Insurance (Others)	i5	Omar	18	
+1415	efc	Insurance (Underwriting)	Insurance (Underwriter)	i4	Omar	18	
+1416	efc	Insurance (Claims)	Insurance (Claims Officer)	i2	Omar	18	
+1417	efc	Insurance (Broker)	Insurance (Insurance Agent / Broker)	i3	Omar	18	
+1418	efc	Hedge Funds (Other)	Banking / Finance (Fund Management)	c10	Omar	21	
+1419	efc	Hedge Funds (IT/Quant)	Banking / Finance (Fund Management)	c10	Omar	9	
+1420	efc	Hedge Funds (Finance Operations)	Banking / Finance (Fund Management)	c10	Omar	2	
+1421	efc	Hedge Funds (Research Analysis)	Banking / Finance (Fund Management)	c10	Omar	4	
+1422	efc	Hedge Funds (Sales & Marketing)	Banking / Finance (Fund Management)	c10	Omar	6	
+1423	efc	Hedge Funds (Portfolio Manager)	Banking / Finance (Fund Management)	c10	Omar	4	
+1424	efc	Hedge Funds (Trading)	Banking / Finance (Fund Management)	c10	Omar	15	
+1425	efc	Hedge Funds (Risk Management)	Banking / Finance (Fund Management)	c10	Omar	10	
+1426	efc	Hedge Funds (Prime Brokerage)	Banking / Finance (Fund Management)	c10	Omar	19	
+1427	efc	Hedge Funds (Structuring)	Banking / Finance (Fund Management)	c10	Omar	19	
+1428	efc	Private Equity & Venture Capital	Banking / Finance (Equities / Capital Markets)	c8	Omar	15	
+1429	efc	Global Custody (Client Services)	Banking / Finance (Asset Management)	c2	Omar	4	
+1430	efc	Global Custody (Product Development Management)	Banking / Finance (Asset Management)	c2	Omar	10	
+1431	efc	Global Custody (Other)	Banking / Finance (Asset Management)	c2	Omar	17	
+1432	efc	Global Custody (Sales & Marketing)	Banking / Finance (Asset Management)	c2	Omar	6	
+1433	efc	Global Custody (Relationship Management)	Banking / Finance (Asset Management)	c2	Omar	10	
+1434	efc	Global Custody (Settlements)	Banking / Finance (Asset Management)	c2	Omar	17	
+1435	efc	HR & Recruitment (Other)	Admin & HR (Others)	b11	Omar	0	
+1436	efc	HR & Recruitment (HR Generalist)	Admin & HR (Clerical / Admin Staff)	b2	Omar	0	
+1437	efc	HR & Recruitment (Recruitment)	Admin & HR (Recruitment / Executive Search)	b8	Omar	0	
+1438	efc	HR & Recruitment (Compensation Benefits)	Admin & HR (Compensation & Benefits)	b3	Omar	0	
+1439	efc	HR & Recruitment (Training & Development)	Admin & HR (Training & Development)	b10	Omar	0	
+1440	efc	HR & Recruitment (Research)	Admin & HR (Others)	b11	Omar	0	
+1441	efc	Research	Others (Others)	u8	Omar	4	
+1442	efc	Trading (Other)	Banking / Finance (Dealing & Trading)	c7	Omar	15	
+1443	efc	Trading (Capital markets)	Banking / Finance (Dealing & Trading)	c7	Omar	15	
+1444	efc	Trading (Derivatives)	Banking / Finance (Dealing & Trading)	c7	Omar	15	
+1445	efc	Trading (Equities)	Banking / Finance (Dealing & Trading)	c7	Omar	15	
+1446	efc	Trading (Fixed Income)	Banking / Finance (Dealing & Trading)	c7	Omar	15	
+1447	efc	Trading (Commodities)	Banking / Finance (Dealing & Trading)	c7	Omar	15	
+1448	efc	Trading (FX Options)	Banking / Finance (Dealing & Trading)	c7	Omar	12	
+1449	efc	Trading (Credit)	Banking / Finance (Dealing & Trading)	c7	Omar	12	
+1450	efc	Trading (Interest Rates / OTC)	Banking / Finance (Dealing & Trading)	c7	Omar	15	
+1451	efc	Trading (Listed Derivatives)	Banking / Finance (Dealing & Trading)	c7	Omar	15	
+1452	efc	Trading (Forex)	Banking / Finance (Dealing & Trading)	c7	Omar	15	
+1453	efc	Trading (OTC Derivatives)	Banking / Finance (Dealing & Trading)	c7	Omar	15	
+1454	efc	Trading (FX Spots)	Banking / Finance (Dealing & Trading)	c7	Omar	15	
+1455	efc	Trading (Money markets)	Banking / Finance (Dealing & Trading)	c7	Omar	15	
+1456	efc	Trading (Swaps)	Banking / Finance (Dealing & Trading)	c7	Omar	15	
+1457	efc	Equities (Other)	Banking / Finance (Equities / Capital Markets)	c8	Omar	21	
+1458	efc	Equities (Research)	Banking / Finance (Equities / Capital Markets)	c8	Omar	4	
+1459	efc	Equities (Trading)	Banking / Finance (Equities / Capital Markets)	c8	Omar	15	
+1460	efc	Equities (Sales-Trading)	Banking / Finance (Equities / Capital Markets)	c8	Omar	18	
+1461	efc	Equities (Sales)	Banking / Finance (Equities / Capital Markets)	c8	Omar	6	
+1462	efc	Graduates & Internships (Graduate Trainee)	Management (Management Trainee)	i7	Omar	19	
+1463	efc	Graduates & Internships (Internships)	Others (Student / Fresh Graduate / No Experience)	u5	Omar	19	
+1464	efc	Graduates & Internships (Other)	Others (Student / Fresh Graduate / No Experience)	u5	Omar	19	
+1465	efc	Derivatives (Other)	Banking / Finance (Others)	c21	Omar	21	
+1466	efc	Derivatives (Trading)	Banking / Finance (Investment)	c11	Omar	15	
+1467	efc	Derivatives (Sales & Marketing)	Banking / Finance (Investment)	c11	Omar	6	
+1468	efc	Derivatives (Research)	Banking / Finance (Analyst)	c1	Omar	4	
+1469	efc	Derivatives (Structuring)	Banking / Finance (Equities / Capital Markets)	c8	Omar	8	
+1470	efc	Investor Relations & PR (Communications & PR)	Banking / Finance (Investment)	c11	Omar	6	
+1471	efc	Investor Relations & PR (Investor Relations)	Banking / Finance (Investment)	c11	Omar	6	
+1472	efc	Investor Relations & PR (Other)	Banking / Finance (Investment)	c11	Omar	6	
+1473	efc	FX & Money Markets (Other)	Banking / Finance (Others)	c21	Omar	0	
+1474	efc	FX & Money Markets (Sales)	Banking / Finance (Others)	c21	Omar	6	
+1475	efc	FX & Money Markets (Trading)	Banking / Finance (Others)	c21	Omar	15	
+1476	efc	FX & Money Markets (Sales-Trading)	Banking / Finance (Others)	c21	Omar	0	
+1477	efc	FX & Money Markets (Research)	Banking / Finance (Others)	c21	Omar	4	
+1478	efc	Real Estate	Property / Real Estate (Others)	p3	Omar	17	
+1479	efc	Debt/Fixed Income (Other)	Banking / Finance (Others)	c21	Omar	21	
+1480	efc	Debt/Fixed Income (Sales)	Banking / Finance (Dealing & Trading)	c7	Omar	6	
+1481	efc	Debt/Fixed Income (Research)	Banking / Finance (Others)	c21	Omar	4	
+1482	efc	Debt/Fixed Income (Trading)	Banking / Finance (Dealing & Trading)	c7	Omar	15	
+1483	efc	Debt/Fixed Income (Sales-Trading)	Banking / Finance (Wealth Management)	c20	Omar	18	
+1484	efc	Commodities (Energy)	Others (Trading)	u7	Omar	14	
+1485	efc	Commodities (Trading)	Others (Trading)	u7	Omar	15	
+1486	efc	Commodities (Other)	Others (Trading)	u7	Omar	12	
+1487	efc	Commodities (Sales)	Others (Trading)	u7	Omar	6	
+1488	efc	Commodities (Research)	Others (Trading)	u7	Omar	4	
+1489	efc	Investment Consulting	Banking / Finance (Investment)	c11	Omar	15	
+1490	efc	Industry & Commerce	Banking / Finance (Others)	c21	Omar	8	
+1491	efc	Public Sector	Public / Civil (Others)	q5	Omar	6	
+1492	efc	Islamic Finance	Banking / Finance (Others)	c21	Omar	16	

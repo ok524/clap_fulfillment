@@ -523,3 +523,31 @@ A 30 31|||Wci|||in|||REQUIRED|||-NONE-|||0
 S As labor movements arose in response to workers concerns in the wake of the industrial revolution , worker 's health entered consideration as a labor-related issue .
 A 7 8|||Nn|||worker|||REQUIRED|||-NONE-|||0
 
+S Many Greek texts were written during the golden age of the theory of the four humors in Greek medicine after Galen .
+
+S The phlegm of humorism is far from the same thing as phlegm as it is defined today .
+
+S If anything goes wrong leading up to the formation of humors , the humors will not be in good condition .
+
+S Humors are the end product of gastric digestion but they are not the end product of the digestion cycle so an abnormal humor produced by hepatic digestion will lead to affect other organs that are working towards the digestion of the food in the digestion cycle .
+
+S The definitions of old age continue to change , especially as life expectancy in developed countries has risen to beyond 80 years old .
+
+S However , the authors ' methods and conclusions drew criticism from the scientific community , who concluded that the study was flawed .
+
+S In ancient times , although some strong and healthy people lived until they were over 70 most died before they were 50 .
+
+S Despite its prevalence , ageism is seldom the subject of public discourse .
+
+S In 1066 , the Normans and their Breton allies invaded England from northern France and after its conquest , seized large parts of Wales , conquered much of Ireland and were invited to settle in Scotland , bringing to each country feudalism on the Northern French model and Norman-French culture .
+
+S Churchill engaged industry , scientists and engineers to advise and support the government and the military in the prosecution of the war effort .
+
+S The cabinet is traditionally drawn from members of the prime minister 's party or coalition and mostly from the House of Commons but always from both legislative houses , the cabinet being responsible to both .
+
+S Access to improved water supply and sanitation in the UK is universal .
+
+S There was an alternative , more direct , tradition in British portraiture to that of Lely and Kneller , tracing back to William Dobson and the German or Dutch Gerard Soest , who trained John Riley , to whom only a few works are firmly attributed and who in turn trained Jonathan Richardson , a fine artist who trained Thomas Hudson who trained Joshua Reynolds and Joseph Wright of Derby .
+
+S The annual Turner Prize , founded in 1984 and organized by the Tate , has developed as a highly publicized showcase for contemporary British art .
+
